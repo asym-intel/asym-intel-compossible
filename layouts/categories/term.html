@@ -1,10 +1,80 @@
 {{ define "main" }}
 <section class="home__hero"><div class="container">
-  <p class="home__subtitle">Category: <strong>{{ .Title }}</strong></p>
+  <p class="home__subtitle">Category: <strong>{{ .Title }}</strong> &mdash; {{ len .Pages }} post{{ if ne (len .Pages) 1 }}s{{ end }}</p>
 </div></section>
 
 <section class="home__feed"><div class="container">
-  <h2 class="home__feed-heading">{{ len .Pages }} post{{ if ne (len .Pages) 1 }}s{{ end }}</h2>
-  {{ partial "feed-cards.html" (.Pages.ByDate.Reverse) }}
+  <div class="home__feed-toolbar">
+    <h2 class="home__feed-heading">{{ .Title }}</h2>
+    <div class="view-toggle" role="group" aria-label="View style">
+      <button class="view-toggle__btn" id="btn-list" aria-pressed="false" title="List view">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="1" y="2" width="14" height="2" rx="1" fill="currentColor"/>
+          <rect x="1" y="7" width="14" height="2" rx="1" fill="currentColor"/>
+          <rect x="1" y="12" width="14" height="2" rx="1" fill="currentColor"/>
+        </svg>
+        List
+      </button>
+      <button class="view-toggle__btn" id="btn-tile" aria-pressed="true" title="Tile view">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="1" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="9" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="1" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="9" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+        </svg>
+        Tiles
+      </button>
+    </div>
+  </div>
+
+  <div id="view-tile" class="feed-tiles">
+    {{ range .Pages.ByDate.Reverse }}
+    {{ $post := . }}
+    <a class="tile-card" href="{{ $post.RelPermalink }}">
+      {{ with .Params.featured_image }}
+      <div class="tile-card__image-wrap">
+        <img class="tile-card__image" src="{{ . }}" alt="" loading="lazy">
+      </div>
+      {{ else }}
+      <div class="tile-card__image-wrap tile-card__image-wrap--placeholder"></div>
+      {{ end }}
+      <div class="tile-card__body">
+        <div class="tile-card__meta">
+          <time class="tile-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          {{ with .Params.categories }}{{ range first 2 . }}<span class="tile-card__cat">{{ . }}</span>{{ end }}{{ end }}
+        </div>
+        <h3 class="tile-card__title">{{ .Title }}</h3>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+
+  <div id="view-list" style="display:none">
+    {{ partial "feed-cards.html" .Pages.ByDate.Reverse }}
+  </div>
+
 </div></section>
+
+<script>
+(function() {
+  var listView = document.getElementById('view-list');
+  var tileView = document.getElementById('view-tile');
+  var btnList  = document.getElementById('btn-list');
+  var btnTile  = document.getElementById('btn-tile');
+  var stored   = localStorage.getItem('compossible-view') || 'tile';
+  function setView(v) {
+    if (v === 'tile') {
+      listView.style.display = 'none'; tileView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'false'); btnTile.setAttribute('aria-pressed', 'true');
+    } else {
+      tileView.style.display = 'none'; listView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'true'); btnTile.setAttribute('aria-pressed', 'false');
+    }
+    localStorage.setItem('compossible-view', v);
+  }
+  setView(stored);
+  btnList.addEventListener('click', function() { setView('list'); });
+  btnTile.addEventListener('click', function() { setView('tile'); });
+})();
+</script>
 {{ end }}
