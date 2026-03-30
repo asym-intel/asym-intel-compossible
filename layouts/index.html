@@ -8,13 +8,37 @@
 <section class="home__feed"><div class="container">
   <h2 class="home__feed-heading">Recent posts</h2>
   {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
-  <article class="feed-card">
-    <div class="feed-card__meta">
-      <time class="feed-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+  <article class="feed-card feed-card--rich">
+
+    {{/* Featured image */}}
+    {{ with .Params.featured_image }}
+    <a class="feed-card__image-link" href="{{ $.RelPermalink }}" tabindex="-1" aria-hidden="true">
+      <div class="feed-card__image" style="background-image:url('{{ . }}')"></div>
+    </a>
+    {{ end }}
+
+    <div class="feed-card__body">
+      <div class="feed-card__meta">
+        <time class="feed-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        {{/* Max 5 categories */}}
+        {{ with .Params.categories }}
+          {{ range first 5 . }}
+          <a class="feed-card__cat" href="/categories/{{ . | urlize }}/">{{ . }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+
+      <h3 class="feed-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+      {{ with .Params.excerpt }}
+        <p class="feed-card__summary">{{ . | truncate 180 }}</p>
+      {{ else }}
+        <p class="feed-card__summary">{{ .Summary | truncate 180 }}</p>
+      {{ end }}
+
+      <a class="feed-card__read-more" href="{{ .RelPermalink }}">Read →</a>
     </div>
-    <h3 class="feed-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    {{ with .Params.excerpt }}<p class="feed-card__summary">{{ . }}</p>{{ end }}
-    <a class="feed-card__read-more" href="{{ .RelPermalink }}">Read →</a>
+
   </article>
   {{ end }}
 </div></section>
@@ -25,7 +49,6 @@
 <section class="tag-cloud-section"><div class="container">
   <h2 class="tag-cloud__heading">Browse by topic</h2>
   <div class="tag-cloud">
-    {{/* Sort by count descending, take top 40 */}}
     {{ range $tags.ByCount | first 40 }}
     <a class="tag-cloud__tag tag-cloud__tag--{{ if ge .Count 8 }}lg{{ else if ge .Count 4 }}md{{ else }}sm{{ end }}"
        href="{{ .Page.RelPermalink }}">
