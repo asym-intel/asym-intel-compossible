@@ -1,8 +1,10 @@
 {{ define "main" }}
+
 <section class="home__hero"><div class="container">
   <h1 class="home__title">Compossible</h1>
   <p class="home__subtitle">Writing on European strategy, geopolitics, AI governance, and the philosophy of the present.</p>
 </div></section>
+
 <section class="home__feed"><div class="container">
   <h2 class="home__feed-heading">Recent posts</h2>
   {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
@@ -16,4 +18,22 @@
   </article>
   {{ end }}
 </div></section>
+
+{{/* ── Tag cloud ────────────────────────────────────────────────────────── */}}
+{{ $tags := .Site.Taxonomies.tags }}
+{{ if $tags }}
+<section class="tag-cloud-section"><div class="container">
+  <h2 class="tag-cloud__heading">Browse by topic</h2>
+  <div class="tag-cloud">
+    {{/* Sort by count descending, take top 40 */}}
+    {{ range $tags.ByCount | first 40 }}
+    <a class="tag-cloud__tag tag-cloud__tag--{{ if ge .Count 8 }}lg{{ else if ge .Count 4 }}md{{ else }}sm{{ end }}"
+       href="{{ .Page.RelPermalink }}">
+      {{ .Page.Title }}<span class="tag-cloud__count">{{ .Count }}</span>
+    </a>
+    {{ end }}
+  </div>
+</div></section>
+{{ end }}
+
 {{ end }}
