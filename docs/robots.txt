@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://compossible.asym-intel.info/sitemap.xml
