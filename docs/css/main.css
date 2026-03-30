@@ -145,3 +145,10 @@ a{color:var(--color-primary);text-underline-offset:3px;transition:color 0.15s}
   display:inline-flex;align-items:center;gap:6px;transition:all 0.15s}
 .reading-group__cat:hover{background:var(--color-primary);color:#fff;border-color:var(--color-primary)}
 .reading-group__count{font-size:0.7rem;font-weight:400;opacity:0.7}
+/* Categories reading guide width fix */
+.list .container{max-width:860px}
+.reading-group{padding-block:var(--space-10)}
+.reading-group+.reading-group{border-top:1px solid var(--color-border)}
+.reading-group__title{margin-bottom:var(--space-3)}
+.reading-group__desc{margin-bottom:var(--space-6)}
+.reading-group__cats{gap:var(--space-2)}

@@ -8,12 +8,13 @@
 <section class="home__feed"><div class="container">
   <h2 class="home__feed-heading">Recent posts</h2>
   {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+  {{ $post := . }}
   <article class="feed-card feed-card--rich">
 
     {{/* Featured image */}}
     {{ with .Params.featured_image }}
-    <a class="feed-card__image-link" href="{{ $.RelPermalink }}" tabindex="-1" aria-hidden="true">
-      <div class="feed-card__image" style="background-image:url('{{ . }}')"></div>
+    <a class="feed-card__image-link" href="{{ $post.RelPermalink }}" tabindex="-1" aria-hidden="true">
+      <img class="feed-card__image" src="{{ . }}" alt="" loading="lazy">
     </a>
     {{ end }}
 
