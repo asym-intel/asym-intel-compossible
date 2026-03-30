@@ -1,37 +1,95 @@
 {{ define "main" }}
-<main class="categories-page">
-  <div class="inner">
+<section class="home__hero"><div class="container">
+  <p class="home__subtitle">Browse by category — all {{ len .Site.RegularPages }} posts across {{ len .Site.Taxonomies.categories }} categories.</p>
+</div></section>
 
-    <header class="list__header">
-      <h1>Reading guide</h1>
-      <p class="list__description">Compossible covers several overlapping domains. Start here if you're new.</p>
-    </header>
+<main class="categories-page"><div class="inner">
 
-    {{ $allCats := .Site.Taxonomies.categories }}
+  {{/* ── Reading guide (group cards) ───────────────────────────── */}}
+  {{ $allCats := .Site.Taxonomies.categories }}
 
-    {{ $groups := slice
-      (dict "title" "Geopolitics & European Strategy"
-            "desc"  "European sovereignty, hybrid threats, NATO, defence policy, and the geopolitical contest over Europe's future."
-            "image" "/images/uploads/2026/03/europe-lagrange.webp"
-            "cats"  (slice "europe" "geopolitics" "defence" "military" "rearm"))
-      (dict "title" "Democracy & Power"
-            "desc"  "Democratic backsliding, authoritarian playbooks, the far right, Project 2025, and the defence of democratic institutions."
-            "image" "/images/uploads/2026/03/democracy-is-coming-to-the-usa.webp"
-            "cats"  (slice "democracy" "trump" "project-2025" "israel"))
-      (dict "title" "AI & Technology"
-            "desc"  "Artificial intelligence governance, ethics, the AI arms race, and the politics of technology."
-            "image" "/images/uploads/2025/10/android.webp"
-            "cats"  (slice "ai" "ethics" "science"))
-      (dict "title" "Philosophy, Poetry & Music"
-            "desc"  "Philosophy of mind and society, original poetry, and AI-generated music albums."
-            "image" "/images/uploads/2025/09/thepinkpanther._reflect_refract_the_undying_light_van_gogh_styl_1d57bfac-3c2c-4f79-9ee4-d6bfea317fbe-gigapixel-high-fidelity-v2-1.5x-edit-2.webp"
-            "cats"  (slice "philosophy" "poetry" "poems" "music" "fiction"))
-      (dict "title" "Economics & Environment"
-            "desc"  "Wealth inequality, economic systems, climate change, biodiversity, and the physics of the present."
-            "image" "/images/uploads/2025/10/climate-change-ecological-disaster-and-civilisational-risks.png"
-            "cats"  (slice "economics" "energy" "carbon" "environment"))
-    }}
+  {{ $groups := slice
+    (dict "title" "Geopolitics & European Strategy"
+          "desc"  "European sovereignty, hybrid threats, NATO, defence policy, and the geopolitical contest over Europe's future."
+          "image" "/images/uploads/2026/03/europe-lagrange.webp"
+          "cats"  (slice "europe" "geopolitics" "defence" "military" "rearm"))
+    (dict "title" "Democracy & Power"
+          "desc"  "Democratic backsliding, authoritarian playbooks, the far right, Project 2025, and the defence of democratic institutions."
+          "image" "/images/uploads/2026/03/democracy-is-coming-to-the-usa.webp"
+          "cats"  (slice "democracy" "trump" "project-2025" "israel"))
+    (dict "title" "AI & Technology"
+          "desc"  "Artificial intelligence governance, ethics, the AI arms race, and the politics of technology."
+          "image" "/images/uploads/2025/10/android.webp"
+          "cats"  (slice "ai" "ethics" "science"))
+    (dict "title" "Philosophy, Poetry & Music"
+          "desc"  "Philosophy of mind and society, original poetry, and AI-generated music albums."
+          "image" "/images/uploads/2025/09/thepinkpanther._reflect_refract_the_undying_light_van_gogh_styl_1d57bfac-3c2c-4f79-9ee4-d6bfea317fbe-gigapixel-high-fidelity-v2-1.5x-edit-2.webp"
+          "cats"  (slice "philosophy" "poetry" "poems" "music" "fiction"))
+    (dict "title" "Economics & Environment"
+          "desc"  "Wealth inequality, economic systems, climate change, biodiversity, and the physics of the present."
+          "image" "/images/uploads/2025/10/climate-change-ecological-disaster-and-civilisational-risks.png"
+          "cats"  (slice "economics" "energy" "carbon" "environment"))
+  }}
 
+  {{/* ── Toolbar ─────────────────────────────────────────────────── */}}
+  <div class="home__feed-toolbar" style="padding-top: var(--space-8);">
+    <h2 class="home__feed-heading">All posts</h2>
+    <div class="view-toggle" role="group" aria-label="View style">
+      <button class="view-toggle__btn" id="btn-list" aria-pressed="false" title="List view">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="1" y="2" width="14" height="2" rx="1" fill="currentColor"/>
+          <rect x="1" y="7" width="14" height="2" rx="1" fill="currentColor"/>
+          <rect x="1" y="12" width="14" height="2" rx="1" fill="currentColor"/>
+        </svg>
+        List
+      </button>
+      <button class="view-toggle__btn" id="btn-tile" aria-pressed="true" title="Tile view">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="1" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="9" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="1" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="9" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+        </svg>
+        Tiles
+      </button>
+    </div>
+  </div>
+
+  {{/* ── Tile view (default) ─────────────────────────────────────── */}}
+  <div id="view-tile" class="feed-tiles">
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+    {{ $post := . }}
+    <a class="tile-card" href="{{ $post.RelPermalink }}">
+      {{ with .Params.featured_image }}
+      <div class="tile-card__image-wrap">
+        <img class="tile-card__image" src="{{ . }}" alt="" loading="lazy">
+      </div>
+      {{ else }}
+      <div class="tile-card__image-wrap tile-card__image-wrap--placeholder"></div>
+      {{ end }}
+      <div class="tile-card__body">
+        <div class="tile-card__meta">
+          <time class="tile-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          {{ with .Params.categories }}
+            {{ range first 2 . }}
+            <span class="tile-card__cat">{{ . }}</span>
+            {{ end }}
+          {{ end }}
+        </div>
+        <h3 class="tile-card__title">{{ .Title }}</h3>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+
+  {{/* ── List view ───────────────────────────────────────────────── */}}
+  <div id="view-list" style="display:none">
+    {{ partial "feed-cards.html" .Site.RegularPages.ByDate.Reverse }}
+  </div>
+
+  {{/* ── Category group cards ────────────────────────────────────── */}}
+  <div style="margin-top: var(--space-16);">
+    <h2 class="home__feed-heading" style="margin-bottom: var(--space-8);">Reading guide</h2>
     <div class="cat-grid">
       {{ range $groups }}
       {{ $group := . }}
@@ -55,7 +113,37 @@
       </div>
       {{ end }}
     </div>
-
   </div>
-</main>
+
+</div></main>
+
+<script>
+(function() {
+  var listView = document.getElementById('view-list');
+  var tileView = document.getElementById('view-tile');
+  var btnList  = document.getElementById('btn-list');
+  var btnTile  = document.getElementById('btn-tile');
+  var stored   = localStorage.getItem('compossible-view') || 'tile';
+
+  function setView(v) {
+    if (v === 'tile') {
+      listView.style.display = 'none';
+      tileView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'false');
+      btnTile.setAttribute('aria-pressed', 'true');
+    } else {
+      tileView.style.display = 'none';
+      listView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'true');
+      btnTile.setAttribute('aria-pressed', 'false');
+    }
+    localStorage.setItem('compossible-view', v);
+  }
+
+  setView(stored);
+  btnList.addEventListener('click', function() { setView('list'); });
+  btnTile.addEventListener('click', function() { setView('tile'); });
+})();
+</script>
+
 {{ end }}
