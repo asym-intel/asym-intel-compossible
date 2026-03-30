@@ -6,8 +6,6 @@ backend:
 
 media_folder: "static/images/uploads/all"
 public_folder: "/images/uploads/all"
-media_library:
-  max_file_size: 10485760
 
 collections:
 
