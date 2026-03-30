@@ -1,0 +1,71 @@
+{{/*
+  view-toggle.html — shared list/tile toggle
+  Usage: {{ partial "view-toggle.html" (dict "pages" .Pages "default" "tile") }}
+  "default" can be "list" or "tile"
+*/}}
+{{ $pages := .pages }}
+{{ $default := .default | default "tile" }}
+
+<div class="home__feed-toolbar">
+  <h2 class="home__feed-heading">{{ .heading | default "Posts" }}</h2>
+  <div class="view-toggle" role="group" aria-label="View style">
+    <button class="view-toggle__btn" id="btn-list"
+      aria-pressed="{{ if eq $default "list" }}true{{ else }}false{{ end }}" title="List view">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <rect x="1" y="2" width="14" height="2" rx="1" fill="currentColor"/>
+        <rect x="1" y="7" width="14" height="2" rx="1" fill="currentColor"/>
+        <rect x="1" y="12" width="14" height="2" rx="1" fill="currentColor"/>
+      </svg>
+      List
+    </button>
+    <button class="view-toggle__btn" id="btn-tile"
+      aria-pressed="{{ if eq $default "tile" }}true{{ else }}false{{ end }}" title="Tile view">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <rect x="1" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+        <rect x="9" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+        <rect x="1" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+        <rect x="9" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+      </svg>
+      Tiles
+    </button>
+  </div>
+</div>
+
+<div id="view-list" {{ if eq $default "tile" }}style="display:none"{{ end }}>
+  {{ partial "feed-cards.html" $pages }}
+</div>
+
+<div id="view-tile" {{ if eq $default "list" }}style="display:none"{{ end }}>
+  {{ partial "feed-tiles.html" $pages }}
+</div>
+
+<script>
+(function() {
+  var listView = document.getElementById('view-list');
+  var tileView = document.getElementById('view-tile');
+  var btnList  = document.getElementById('btn-list');
+  var btnTile  = document.getElementById('btn-tile');
+  var pageDefault = '{{ $default }}';
+  var stored = localStorage.getItem('compossible-view');
+  /* Only use stored preference if it was set by the user — 
+     if not set, fall back to this page's default */
+  var initial = stored !== null ? stored : pageDefault;
+
+  function setView(v, save) {
+    if (v === 'tile') {
+      listView.style.display = 'none'; tileView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'false');
+      btnTile.setAttribute('aria-pressed', 'true');
+    } else {
+      tileView.style.display = 'none'; listView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'true');
+      btnTile.setAttribute('aria-pressed', 'false');
+    }
+    if (save) localStorage.setItem('compossible-view', v);
+  }
+
+  setView(initial, false);
+  btnList.addEventListener('click', function() { setView('list', true); });
+  btnTile.addEventListener('click', function() { setView('tile', true); });
+})();
+</script>

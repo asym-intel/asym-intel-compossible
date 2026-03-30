@@ -1,0 +1,30 @@
+{{/*
+  feed-tiles.html — shared tile grid partial
+  Usage: {{ partial "feed-tiles.html" .Pages }}
+  Renders pages as tile-card grid, identical across homepage, categories, tags.
+*/}}
+<div class="feed-tiles">
+  {{ range . }}
+  {{ $post := . }}
+  <a class="tile-card" href="{{ $post.RelPermalink }}">
+    {{ with .Params.featured_image }}
+    <div class="tile-card__image-wrap">
+      <img class="tile-card__image" src="{{ . }}" alt="" loading="lazy">
+    </div>
+    {{ else }}
+    <div class="tile-card__image-wrap tile-card__image-wrap--placeholder"></div>
+    {{ end }}
+    <div class="tile-card__body">
+      <div class="tile-card__meta">
+        <time class="tile-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        {{ with .Params.categories }}
+          {{ range first 2 . }}
+          <span class="tile-card__cat">{{ . }}</span>
+          {{ end }}
+        {{ end }}
+      </div>
+      <h3 class="tile-card__title">{{ .Title }}</h3>
+    </div>
+  </a>
+  {{ end }}
+</div>
