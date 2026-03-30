@@ -4,7 +4,7 @@ date: 2024-03-21T14:30:42+00:00
 lastmod: 2025-12-21T15:27:38+00:00
 slug: "the-abolition-of-nature-homo-deus"
 description: "Little escaped their minute attentions and predations: The Soul, an early casualty Of more precise instrumentation…"
-categories: ["AI", "environment", "ethics", "Poetry", "Uncategorized"]
+categories: ["AI", "environment", "ethics", "Poetry"]
 tags: ["AI", "nature", "Poetry", "Senescence", "soul", "suffering"]
 featured_image: "/images/uploads/2025/10/senes.webp"
 wordpress_id: 3306

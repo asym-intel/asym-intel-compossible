@@ -4,7 +4,7 @@ date: 2025-12-03T07:38:07+00:00
 lastmod: 2025-12-05T01:06:30+00:00
 slug: "what-is-entropy-part-1"
 description: "Entropy is a fundamental concept representing change and flow in the universe. It reflects the transformation of energy. This article explores how living organisms harness energy for use (utility) in their struggle against the unstoppable force of information uncertainty."
-categories: ["energy", "environment", "Science", "Uncategorized"]
+categories: ["energy", "environment", "Science"]
 tags: ["algorithmic", "biodiversity", "biology", "biosphere", "ecology", "energy", "entropy", "environment", "exergy", "information", "nature", "philosophy", "physics", "Science", "technology"]
 featured_image: "/images/uploads/2025/12/thepinkpanther._salmon_leaping_up_a_river_van_gogh_style_stanle_d6b1b05c-db03-4e12-be8e-0819413f1d92.webp"
 wordpress_id: 6467

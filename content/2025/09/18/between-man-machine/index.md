@@ -4,7 +4,7 @@ date: 2025-09-18T12:47:24+00:00
 lastmod: 2025-11-29T21:18:11+00:00
 slug: "between-man-machine"
 description: "Album made from my poems"
-categories: ["AI", "music", "Poems", "Poetry", "Uncategorized"]
+categories: ["AI", "music", "Poems", "Poetry"]
 tags: ["AI", "artificial-intelligence", "music", "Poetry"]
 featured_image: "/images/uploads/2025/09/thepinkpanther._reflect_refract_the_undying_light_van_gogh_styl_1d57bfac-3c2c-4f79-9ee4-d6bfea317fbe-gigapixel-high-fidelity-v2-1.5x-edit-2.webp"
 wordpress_id: 2804

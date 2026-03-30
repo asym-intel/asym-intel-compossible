@@ -4,7 +4,7 @@ date: 2026-03-13T09:42:16+00:00
 lastmod: 2026-03-22T18:03:00+00:00
 slug: "the-reckoning-a-european-strategy-for-an-unstable-world-part-2"
 description: "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change."
-categories: ["democracy", "economics", "energy", "ethics", "Europe", "GeoPolitics", "israel", "military", "reArm", "Uncategorized"]
+categories: ["democracy", "economics", "energy", "ethics", "Europe", "GeoPolitics", "israel", "military", "reArm"]
 tags: ["china", "democracy", "Europe", "fascism", "nato", "politics", "russia", "technology", "ukraine"]
 featured_image: "/images/uploads/2026/03/generated-image.webp"
 wordpress_id: 7465

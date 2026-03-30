@@ -4,7 +4,7 @@ date: 2026-03-15T16:24:00+00:00
 lastmod: 2026-03-25T09:47:43+00:00
 slug: "the-reckoning-a-european-strategy-for-an-unstable-world-part-3"
 description: "Europe has five years, at most, to learn and incorporate some very important history lessons about failure and success from China. It is time for a 5 Year Plan."
-categories: ["AI", "democracy", "economics", "energy", "environment", "ethics", "Europe", "GeoPolitics", "israel", "military", "reArm", "Science", "trump", "Uncategorized"]
+categories: ["AI", "democracy", "economics", "energy", "environment", "ethics", "Europe", "GeoPolitics", "israel", "military", "reArm", "Science", "trump"]
 tags: ["AI", "Defence", "democracy", "Europe", "hungary", "minerals", "plan", "politics", "rare earth", "Reckoning", "russia", "technology", "TFEU"]
 featured_image: "/images/uploads/2026/03/concert-of-powers-2.webp"
 wordpress_id: 7769

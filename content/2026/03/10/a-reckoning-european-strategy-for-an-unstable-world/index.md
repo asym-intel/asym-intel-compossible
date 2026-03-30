@@ -4,7 +4,7 @@ date: 2026-03-10T08:31:07+00:00
 lastmod: 2026-03-18T08:35:38+00:00
 slug: "a-reckoning-european-strategy-for-an-unstable-world"
 description: "European Reckoning – Part 1: The Search for a Stable Orbit and the Mathematics of Human Survival"
-categories: ["AI", "Defence", "democracy", "economics", "energy", "environment", "ethics", "Europe", "philosophy", "Science", "Uncategorized"]
+categories: ["AI", "Defence", "democracy", "economics", "energy", "environment", "ethics", "Europe", "philosophy", "Science"]
 tags: ["AI", "Europe", "fascism", "nato", "philosophy", "politics", "Reckoning", "russia", "technology", "ukraine", "war"]
 featured_image: "/images/uploads/2026/03/europe-lagrange.webp"
 wordpress_id: 7353

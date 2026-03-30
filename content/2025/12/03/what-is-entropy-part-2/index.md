@@ -4,7 +4,7 @@ date: 2025-12-03T13:32:42+00:00
 lastmod: 2025-12-04T22:42:58+00:00
 slug: "what-is-entropy-part-2"
 description: "Part 2: Life-forms are ‘Really Useful Engines’…."
-categories: ["economics", "energy", "environment", "ethics", "philosophy", "Science", "Uncategorized"]
+categories: ["economics", "energy", "environment", "ethics", "philosophy", "Science"]
 tags: ["algorithmic", "biodiversity", "biology", "biosphere", "consciousness", "death", "ecology", "energy", "engines", "entropy", "environment", "information", "life", "nature", "philosophy", "physics", "Science", "spirituality", "useful", "utility"]
 featured_image: "/images/uploads/2025/12/time-held-me-green-1.webp"
 wordpress_id: 6494

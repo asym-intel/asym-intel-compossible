@@ -4,7 +4,7 @@ date: 2025-12-01T00:11:04+00:00
 lastmod: 2025-12-07T09:07:09+00:00
 slug: "escaping-the-freeze-the-physics-of-the-wealth-siphon"
 description: "Almost everything that is wrong in our societies is a derivative of increased wealth inequality. Here is the physics of the trap—and the blueprint to escape it."
-categories: ["economics", "ethics", "philosophy", "Uncategorized"]
+categories: ["economics", "ethics", "philosophy"]
 tags: ["cold trap", "democracy", "economics", "entropy", "equality", "fascism", "finance", "heat death", "history", "inequality", "oligarchy", "philosophy", "physics", "politics", "stagnation"]
 featured_image: "/images/uploads/2025/12/cold-box-trap-main-3.webp"
 wordpress_id: 6031

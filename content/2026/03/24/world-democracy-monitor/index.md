@@ -4,7 +4,7 @@ date: 2026-03-24T17:43:55+00:00
 lastmod: 2026-03-24T22:33:05+00:00
 slug: "world-democracy-monitor"
 description: "A new World Democracy Monitor (updated weekly)"
-categories: ["Uncategorized", "democracy", "GeoPolitics", "ethics"]
+categories: ["democracy", "GeoPolitics", "ethics"]
 tags: ["democracy", "trump", "politics", "history", "news", "V-DEM", "World Democracy Monitor"]
 featured_image: "/images/uploads/2026/03/democracy-is-coming-to-the-usa.webp"
 wordpress_id: 9111

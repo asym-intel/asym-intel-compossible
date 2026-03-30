@@ -4,7 +4,7 @@ date: 2025-10-07T15:40:07+00:00
 lastmod: 2025-11-22T12:48:43+00:00
 slug: "harnessing-ai-for-public-good"
 description: "Use of AI as part of high tech integrated social sciences and as a powerful tool for public policy"
-categories: ["AI", "Defence", "democracy", "environment", "ethics", "Europe", "GeoPolitics", "military", "Science", "Uncategorized"]
+categories: ["AI", "Defence", "democracy", "environment", "ethics", "Europe", "GeoPolitics", "military", "Science"]
 tags: ["AI", "AI agents", "artificial-intelligence", "business", "democracy", "ethics", "machine-learning", "modelling", "Palantir", "politics", "technology"]
 featured_image: "/images/uploads/2025/10/android.webp"
 wordpress_id: 2824

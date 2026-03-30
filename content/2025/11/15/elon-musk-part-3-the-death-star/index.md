@@ -4,7 +4,7 @@ date: 2025-11-15T14:19:40+00:00
 lastmod: 2025-11-27T18:30:24+00:00
 slug: "elon-musk-part-3-the-death-star"
 description: "We watch in horror as the Empire of The Dark Enlightenment grows"
-categories: ["AI", "Defence", "democracy", "Europe", "GeoPolitics", "military", "Science", "Uncategorized"]
+categories: ["AI", "Defence", "democracy", "Europe", "GeoPolitics", "military", "Science"]
 tags: ["AI", "artificial-intelligence", "democracy", "elon-musk", "Empire", "Europe", "fascism", "Grok", "history", "Musk", "news", "Nueralink", "Palantir", "politics", "robots", "SpaceX", "Star Wars", "Starlink", "technology", "xAI"]
 featured_image: "/images/uploads/2025/04/musk-sith-lord.webp"
 wordpress_id: 3884

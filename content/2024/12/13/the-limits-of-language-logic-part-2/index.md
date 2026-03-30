@@ -4,7 +4,7 @@ date: 2024-12-13T14:06:00+00:00
 lastmod: 2025-12-03T10:14:24+00:00
 slug: "the-limits-of-language-logic-part-2"
 description: "Part 2: continuing the exploration of the limits of language & logic."
-categories: ["AI", "ethics", "philosophy", "Science", "Uncategorized"]
+categories: ["AI", "ethics", "philosophy", "Science"]
 tags: ["entropy", "language", "logic", "philosophy"]
 featured_image: "/images/uploads/2025/12/thepinkpanther._a_recursive_fractal_rose_that_smells_just_as_sw_f65e3556-8b99-4f14-820f-28fae2abfbad.jpg"
 wordpress_id: 6624

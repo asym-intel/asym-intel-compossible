@@ -4,7 +4,7 @@ date: 2024-04-09T12:31:00+00:00
 lastmod: 2025-12-16T08:02:30+00:00
 slug: "free-will-or-freedom-part-1"
 description: "“Be melting snow, Wash yourself of yourself”"
-categories: ["ethics", "philosophy", "Uncategorized"]
+categories: ["ethics", "philosophy"]
 tags: ["crime", "criminal justice", "faith", "free will", "Freedom", "God", "illusion", "philosophy"]
 featured_image: "/images/uploads/2025/12/van_gogh_-_landschaft_im_schnee.jpg"
 wordpress_id: 6324

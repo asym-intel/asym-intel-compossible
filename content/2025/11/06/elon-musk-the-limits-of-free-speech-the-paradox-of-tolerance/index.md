@@ -4,7 +4,7 @@ date: 2025-11-06T09:50:19+00:00
 lastmod: 2025-11-30T09:44:33+00:00
 slug: "elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance"
 description: "We look at the dark wizard’s takeover of the public forum and his techno-Stalinist tendencies"
-categories: ["AI", "democracy", "ethics", "Europe", "philosophy", "Project 2025", "Science", "trump", "Uncategorized"]
+categories: ["AI", "democracy", "ethics", "Europe", "philosophy", "Project 2025", "Science", "trump"]
 tags: ["AI", "democracy", "donald-trump", "fascism", "free-speech", "Freedom", "history", "intolerance", "news", "paradox", "politics", "technology"]
 featured_image: "/images/uploads/2025/11/2-min-hate.jpg"
 wordpress_id: 4362

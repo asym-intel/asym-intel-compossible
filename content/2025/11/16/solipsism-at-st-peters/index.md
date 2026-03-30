@@ -4,7 +4,7 @@ date: 2025-11-16T17:04:53+00:00
 lastmod: 2026-02-22T11:51:41+00:00
 slug: "solipsism-at-st-peters"
 description: "I imagined what hurt you most was the silence between each stroke"
-categories: ["music", "Poems", "Poetry", "Uncategorized"]
+categories: ["music", "Poems", "Poetry"]
 tags: ["church", "death", "grief", "music", "piano", "Poetry"]
 featured_image: "/images/uploads/2025/11/1765139757814.png"
 wordpress_id: 5523

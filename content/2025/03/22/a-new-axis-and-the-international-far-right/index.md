@@ -4,7 +4,7 @@ date: 2025-03-22T10:04:24+00:00
 lastmod: 2026-03-23T08:51:54+00:00
 slug: "a-new-axis-and-the-international-far-right"
 description: "Russia, America and Israel – and the far right in Europe"
-categories: ["democracy", "ethics", "Europe", "GeoPolitics", "israel", "Project 2025", "trump", "Uncategorized"]
+categories: ["democracy", "ethics", "Europe", "GeoPolitics", "israel", "Project 2025", "trump"]
 tags: ["Bannon", "democracy", "Europe", "fascism", "israel", "Musk", "Netanyahu", "news", "Orban", "politics", "Project 2025", "Putin", "russia", "trump", "ukraine"]
 featured_image: "/images/uploads/2025/03/musk-salute.png"
 wordpress_id: 250

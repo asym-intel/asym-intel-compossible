@@ -4,7 +4,7 @@ date: 2024-12-13T13:53:00+00:00
 lastmod: 2025-12-03T10:19:47+00:00
 slug: "the-limits-of-language-logic-part-1"
 description: "Words can be spells. Language is perhaps the most wondrous and dangerous of our discoveries and technologies, a magic that must be respected and used very carefully."
-categories: ["AI", "philosophy", "Science", "Uncategorized"]
+categories: ["AI", "philosophy", "Science"]
 tags: ["AI", "artificial-intelligence", "computing", "entropy", "intelligence", "intentionality", "language", "logic", "philosophy", "technology"]
 featured_image: "/images/uploads/2025/11/screenshot-2025-11-14-at-12.34.57.png"
 wordpress_id: 5126

@@ -4,7 +4,7 @@ date: 2026-02-22T11:49:35+00:00
 lastmod: 2026-03-22T18:14:24+00:00
 slug: "the-epstein-network-sexual-abuse-state-power-and-impunity"
 description: "How Epstein’s network really worked: money, banks, intelligence links, oligarchs, powerful abusers, the Florida plea deal, and the ongoing cover‑up that still stands between survivors and anything resembling justice."
-categories: ["democracy", "ethics", "GeoPolitics", "israel", "trump", "Uncategorized"]
+categories: ["democracy", "ethics", "GeoPolitics", "israel", "trump"]
 tags: ["acosta", "democracy", "donald-trump", "epstein", "jeffrey-epstein", "mossad", "news", "politics", "russia", "trump"]
 featured_image: "/images/uploads/2026/02/epstein.jpg"
 wordpress_id: 7045

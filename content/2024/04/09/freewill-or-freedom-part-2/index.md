@@ -4,7 +4,7 @@ date: 2024-04-09T12:47:00+00:00
 lastmod: 2025-12-16T08:13:43+00:00
 slug: "freewill-or-freedom-part-2"
 description: "“Tell me the name of the flower that flies from bird to bird?”"
-categories: ["ethics", "philosophy", "Uncategorized"]
+categories: ["ethics", "philosophy"]
 tags: ["christianity", "criminal justice", "faith", "free will", "Freedom", "God", "philosophy"]
 featured_image: "/images/uploads/2025/12/inger-van-dyke-photo.jpg"
 wordpress_id: 6334
