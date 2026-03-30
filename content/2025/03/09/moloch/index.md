@@ -158,7 +158,7 @@ According to tradition, the Minotaur was a part man part bull offspring of the w
 
 ![](/images/uploads/2025/03/gaza.jpg)
 
-> [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+> [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 [Twenty to One](<https://paragraph.xyz/@compossible/twenty-to-one>) - "The strong do what they can and the weak suffer what they must."(Thucydides, History of the Peloponnesian War, circa 431 B.C.E)…
 

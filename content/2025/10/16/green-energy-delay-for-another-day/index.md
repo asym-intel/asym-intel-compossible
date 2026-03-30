@@ -30,21 +30,21 @@ I hope you find the public [**Google Notebook**](<https://notebooklm.google.com/
 
 **Table of Contents**
 
-  1. [The Information Battlefield](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#the-information-battlefieldorganised-obstruction-and-discourses-of-delay>)
-  2. [Organised Obstruction and Discourses of Delay](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#organised-obstruction-and-discourses-of-delay>)
-     1. [Key Actors and Financing of Resistance](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#key-actors-and-financing-of-resistance>)
-     2. [Key Strategies of Delay](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#key-strategies-of-delay>)
-  3. [Resistance to Green Energy Projects and Policy Critique](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#resistance-to-green-energy-projects-and-policy-critique>)
-     1. [Community Resistance and Astroturfing](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#community-resistance-and-astroturfing>)
-     2. [Critiques of Green Energy Implementation (Environmental and Economic Integrity)](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#critiques-of-green-energy-implementation-environmental-and-economic-integrity>)
-  4. [The Climate Action Delay MindMap](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#mindmapinformation-ecosystem-integrity-and-countermeasures>)
-  5. [Information Ecosystem Integrity and Countermeasures](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#information-ecosystem-integrity-and-countermeasures>)
-     1. [Dissemination Methods](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#dissemination-methods>)
-     2. [Recommended Countermeasures to Enhance Integrity](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#recommended-countermeasures-to-enhance-integrity>)
-  6. [Dr Julian Steinberger - A frozen transition in a warming climate](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#dr-julian-steinberger-a-frozen-transition-in-a-warming-climate>)
-  7. [Other reports available in the Notebook:](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#other-reports-available-in-the-notebook>)
-  8. [Other Sources On Compossible](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#other-sourceslet-s-not-turn-the-world-into-mordor>)
-     1. [Let's Not Turn The World Into Mordor](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/#let-s-not-turn-the-world-into-mordor>)
+  1. [The Information Battlefield](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#the-information-battlefieldorganised-obstruction-and-discourses-of-delay>)
+  2. [Organised Obstruction and Discourses of Delay](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#organised-obstruction-and-discourses-of-delay>)
+     1. [Key Actors and Financing of Resistance](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#key-actors-and-financing-of-resistance>)
+     2. [Key Strategies of Delay](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#key-strategies-of-delay>)
+  3. [Resistance to Green Energy Projects and Policy Critique](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#resistance-to-green-energy-projects-and-policy-critique>)
+     1. [Community Resistance and Astroturfing](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#community-resistance-and-astroturfing>)
+     2. [Critiques of Green Energy Implementation (Environmental and Economic Integrity)](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#critiques-of-green-energy-implementation-environmental-and-economic-integrity>)
+  4. [The Climate Action Delay MindMap](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#mindmapinformation-ecosystem-integrity-and-countermeasures>)
+  5. [Information Ecosystem Integrity and Countermeasures](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#information-ecosystem-integrity-and-countermeasures>)
+     1. [Dissemination Methods](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#dissemination-methods>)
+     2. [Recommended Countermeasures to Enhance Integrity](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#recommended-countermeasures-to-enhance-integrity>)
+  6. [Dr Julian Steinberger - A frozen transition in a warming climate](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#dr-julian-steinberger-a-frozen-transition-in-a-warming-climate>)
+  7. [Other reports available in the Notebook:](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#other-reports-available-in-the-notebook>)
+  8. [Other Sources On Compossible](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#other-sourceslet-s-not-turn-the-world-into-mordor>)
+     1. [Let's Not Turn The World Into Mordor](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/#let-s-not-turn-the-world-into-mordor>)
 
 
 
@@ -168,6 +168,6 @@ _Dive in and query the notebook to create your own reports based on your interes
 
 ## Other Sources On Compossible
 
-> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
+> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
 
 ### Let's Not Turn The World Into Mordor

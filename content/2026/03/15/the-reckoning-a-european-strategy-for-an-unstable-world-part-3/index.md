@@ -21,30 +21,30 @@ Europe has five years, at most, to learn and incorporate some very important his
 
 Continued from:
 
-> [The Reckoning: A European Strategy For an Unstable World (Part 2)](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/>)
+> [The Reckoning: A European Strategy For an Unstable World (Part 2)](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/>)
 
 * * *
 
-  1. [Getting Our House in Order: Neutralising the Veto Weapons](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#getting-our-house-in-order-neutralising-the-veto-weapons>)
-  2. [Europe Has Intelligence But lacks Courage ](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#europe-has-intelligence-but-lacks-courage>)
-     1. [What Europe is doing well](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#what-europe-is-doing-well>)
-     2. [What Europe is failing to do](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#what-europe-is-failing-to-do>)
-  3. [The MAGA Shield — Active Defence Against Dissolution](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-maga-shield-active-defence-against-dissolution>)
-  4. [The China Pivot: Leveraged Ambiguity in Practice](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-china-pivot-leveraged-ambiguity-in-practice>)
-  5. [A Stackelberg Attack— Seizing First-Mover Advantage](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#a-stackelberg-attack-seizing-first-mover-advantage>)
-  6. [The Wider European Context — UK, Norway, Iceland and the Concert](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-wider-european-context-uk-norway-iceland-and-the-concert>)
-  7. [The Five-Year Plan: Engineering Escape](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-five-year-plan-engineering-escape>)
-     1. [Year One (2026): The Amputation and The European Lens](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-one-2026-the-amputation-and-the-european-lens>)
-     2. [Year Two (2027): The Infrastructure of the Third Pole](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-two-2027-the-infrastructure-of-the-third-pole>)
-     3. [Year Three (2028): Occupying the Lagrange Point](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-three-2028-occupying-the-lagrange-point>)
-     4. [Year Four (2029): Achieving Mass x Acceleration](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-four-2029-achieving-mass-x-acceleration>)
-     5. [Year Five (2030): The New Order](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-five-2030-the-new-order>)
-  8. [Major Omissions](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#major-omissions>)
-     1. [The Nuclear Question Europe Cannot Defer](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-nuclear-question-europe-cannot-defer>)
-     2. [The Turkey Pivot ](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-turkey-pivot>)
-     3. [Africa: The Strategic Frontier Europe Is Losing by Default](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#africa-the-strategic-frontier-europe-is-losing-by-default>)
-     4. [The Financial Architecture Failures](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-financial-architecture-failures>)
-  9. [Footnotes](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#footnotes>)
+  1. [Getting Our House in Order: Neutralising the Veto Weapons](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#getting-our-house-in-order-neutralising-the-veto-weapons>)
+  2. [Europe Has Intelligence But lacks Courage ](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#europe-has-intelligence-but-lacks-courage>)
+     1. [What Europe is doing well](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#what-europe-is-doing-well>)
+     2. [What Europe is failing to do](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#what-europe-is-failing-to-do>)
+  3. [The MAGA Shield — Active Defence Against Dissolution](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-maga-shield-active-defence-against-dissolution>)
+  4. [The China Pivot: Leveraged Ambiguity in Practice](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-china-pivot-leveraged-ambiguity-in-practice>)
+  5. [A Stackelberg Attack— Seizing First-Mover Advantage](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#a-stackelberg-attack-seizing-first-mover-advantage>)
+  6. [The Wider European Context — UK, Norway, Iceland and the Concert](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-wider-european-context-uk-norway-iceland-and-the-concert>)
+  7. [The Five-Year Plan: Engineering Escape](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-five-year-plan-engineering-escape>)
+     1. [Year One (2026): The Amputation and The European Lens](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-one-2026-the-amputation-and-the-european-lens>)
+     2. [Year Two (2027): The Infrastructure of the Third Pole](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-two-2027-the-infrastructure-of-the-third-pole>)
+     3. [Year Three (2028): Occupying the Lagrange Point](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-three-2028-occupying-the-lagrange-point>)
+     4. [Year Four (2029): Achieving Mass x Acceleration](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-four-2029-achieving-mass-x-acceleration>)
+     5. [Year Five (2030): The New Order](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#year-five-2030-the-new-order>)
+  8. [Major Omissions](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#major-omissions>)
+     1. [The Nuclear Question Europe Cannot Defer](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-nuclear-question-europe-cannot-defer>)
+     2. [The Turkey Pivot ](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-turkey-pivot>)
+     3. [Africa: The Strategic Frontier Europe Is Losing by Default](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#africa-the-strategic-frontier-europe-is-losing-by-default>)
+     4. [The Financial Architecture Failures](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#the-financial-architecture-failures>)
+  9. [Footnotes](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/#footnotes>)
 
 
 
@@ -68,7 +68,7 @@ Poland's situation within the EU is much more complex, though it is notable that
 
 There is a deeper game-theory problem beneath the institutional issues we see. Every EU member state faces a version of the Prisoner's Dilemma when it comes to European strategic autonomy: the collectively optimal outcome requires each state to accept short-term costs — e.g. a reduced bilateral relationship with Washington, reduced veto power, some loss of control over the fiscal contribution to collective defence — in exchange for long-term collective security. Each state currently individually calculates that it is better off defecting i.e., accepting the collective benefit while minimising its individual contribution. This is why QMV reform has stalled and why every attempt at European defence integration has been quietly sabotaged by those states that perceive they benefit most from the _status quo_. A binding architecture — SAFE bonds, EDIP procurement7, a pan-European Defence and Security Treaty — is the answer to the defection incentive. You do not ask states to trust each other's commitments, you just need to make defection structurally more expensive than solidarity.
 
-> [THE SHADOW FIMI OSINT REPORT:](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/>)
+> [THE SHADOW FIMI OSINT REPORT:](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/>)
 
 > _" It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult."_8
 > 
@@ -121,7 +121,7 @@ The next stage of European preparedness and coordination must be to implement th
 
 Europe now needs to learn another lesson from China, this time from Chairman Mao (fear not he is not my hero). The EU needs a 5 Year Plan that covers political and not just military autonomy, with measurable objectives that are agreed, communicated and implemented without fail. Not another strategy document or roadmap or a set of aspirational targets (subject to the unanimity veto of the least willing). A real plan — with political owners, new EU and pan-European institutions, regular deadlines and clarity about the consequences for failure.
 
-> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
+> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
 
 It is also worth noting that a continued focus on enlargement whilst these structural political deficiencies continue risks making matters worse.
 

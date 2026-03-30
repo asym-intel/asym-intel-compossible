@@ -12,14 +12,14 @@ wordpress_id: 845
 
 **Table of contents**
 
-  1. [AI Podcast Version](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#aiintroduction>)
-  2. [Introduction  ](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#introduction>)
-  3. [Towards an invariant foundation of ethics for life](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#towards-an-invariant-foundation-of-ethics-for-life>)
-  4. [Compossibility is key](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#compossibility-is-key>)
-  5. [Building axioms, laws and principles](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#building-axioms-laws-and-principles>)
-  6. [Direct decentralised democracy](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#direct-decentralised-democracy>)
-  7. [The Consensus Engine and DAO](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#the-consensus-engine-and-dao>)
-  8. [Modern democracies are largely symbolic](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/#modern-democracies-are-largely-symbolic>)
+  1. [AI Podcast Version](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#aiintroduction>)
+  2. [Introduction  ](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#introduction>)
+  3. [Towards an invariant foundation of ethics for life](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#towards-an-invariant-foundation-of-ethics-for-life>)
+  4. [Compossibility is key](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#compossibility-is-key>)
+  5. [Building axioms, laws and principles](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#building-axioms-laws-and-principles>)
+  6. [Direct decentralised democracy](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#direct-decentralised-democracy>)
+  7. [The Consensus Engine and DAO](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#the-consensus-engine-and-dao>)
+  8. [Modern democracies are largely symbolic](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/#modern-democracies-are-largely-symbolic>)
 
 
 
@@ -606,7 +606,7 @@ We face a long road from the development of an experimental ethical framework to
 
 **Further reading:**
 
-> [Why I Am An AI Optimist](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/>)
+> [Why I Am An AI Optimist](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/>)
 
 * * *
 

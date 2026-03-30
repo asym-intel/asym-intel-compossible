@@ -38,13 +38,13 @@ That is the gap the new weekly **[World Democracy Monitor](<https://www.perplexi
 
 **Table of Contents**
 
-  1. [Introduction](<https://compossible.blog/2026/03/24/world-democracy-monitor/#introduction>)
-  2. [The Clock Has Turned Back – The Third Wave of Autocratization](<https://compossible.blog/2026/03/24/world-democracy-monitor/#the-clock-has-turned-back-the-third-wave-of-autocratization>)
-  3. [How Democracies Die Now](<https://compossible.blog/2026/03/24/world-democracy-monitor/#how-democracies-die-now>)
-  4. [The Transatlantic Blind Spot, Quantified](<https://compossible.blog/2026/03/24/world-democracy-monitor/#the-transatlantic-blind-spot-quantified>)
-  5. [Why a Weekly Monitor?](<https://compossible.blog/2026/03/24/world-democracy-monitor/#why-a-weekly-monitor>)
-  6. [Positive Deviants and the Possibility of Repair](<https://compossible.blog/2026/03/24/world-democracy-monitor/#positive-deviants-and-the-possibility-of-repair>)
-  7. [Linking Indices, Monitors and Strategy](<https://compossible.blog/2026/03/24/world-democracy-monitor/#linking-indices-monitors-and-strategy>)
+  1. [Introduction](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#introduction>)
+  2. [The Clock Has Turned Back – The Third Wave of Autocratization](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#the-clock-has-turned-back-the-third-wave-of-autocratization>)
+  3. [How Democracies Die Now](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#how-democracies-die-now>)
+  4. [The Transatlantic Blind Spot, Quantified](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#the-transatlantic-blind-spot-quantified>)
+  5. [Why a Weekly Monitor?](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#why-a-weekly-monitor>)
+  6. [Positive Deviants and the Possibility of Repair](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#positive-deviants-and-the-possibility-of-repair>)
+  7. [Linking Indices, Monitors and Strategy](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/#linking-indices-monitors-and-strategy>)
 
 
 

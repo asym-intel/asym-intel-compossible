@@ -14,17 +14,17 @@ A Fragile Living Skin
 
 Continued from:
 
-> [Free Will Or Freedom? - Part 1](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/>)
+> [Free Will Or Freedom? - Part 1](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/>)
 
 * * *
 
-  1. [Introduction](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#h-introduction>)
-  2. [The Free Will Tyrant](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#h-the-free-will-tyrant>)
-  3. [Free Will T: Mammals, Human](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#h-free-will-t-mammals-human>)
-  4. [History Is Led By Outliers Of A Group](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#h-history-is-led-by-the-outliers>)
-  5. [The Impact on Concepts Like Justice](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#h-impact-of-the-lack-of-free-will-on-concepts-like-justice>)
-  6. [The Interplay of Individual and Collective Freedom](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#h-the-interplay-of-individual-and-collective-freedom>)
-  7. [Footnotes](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#h-introduction>)
+  2. [The Free Will Tyrant](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#h-the-free-will-tyrant>)
+  3. [Free Will T: Mammals, Human](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#h-free-will-t-mammals-human>)
+  4. [History Is Led By Outliers Of A Group](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#h-history-is-led-by-the-outliers>)
+  5. [The Impact on Concepts Like Justice](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#h-impact-of-the-lack-of-free-will-on-concepts-like-justice>)
+  6. [The Interplay of Individual and Collective Freedom](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#h-the-interplay-of-individual-and-collective-freedom>)
+  7. [Footnotes](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/#footnotes>)
 
 
 

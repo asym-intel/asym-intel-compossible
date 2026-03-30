@@ -12,7 +12,7 @@ wordpress_id: 107
 
 The second article in the _European Reckoning_ series. Following on from:
 
-> [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+> [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 * * *
 
@@ -46,17 +46,17 @@ Zelenskyy fought bravely to make his points, but it was finally clear to many pe
 
 **Table of contents**
 
-  1. [Introduction](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#introduction>)
-  2. [European for the people](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#european-for-the-people>)
-  3. [Operation Deep Sleep – 浮生](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#operationoperation-clusterfuck>)
-  4. [Operation Clusterfuck](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#operation-clusterfuck>)
-  5. [Empathy is the only cure ](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#empathy-is-the-only-cure>)
-  6. [China](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#china>)
-  7. [Humility](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#humility>)
-  8. [A new European identity](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#a-new-european-identity>)
-  9. [Notes](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#notes>)
-  10. [Further reading](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#further-reading>)
-  11. [Footnotes](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#introduction>)
+  2. [European for the people](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#european-for-the-people>)
+  3. [Operation Deep Sleep – 浮生](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#operationoperation-clusterfuck>)
+  4. [Operation Clusterfuck](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#operation-clusterfuck>)
+  5. [Empathy is the only cure ](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#empathy-is-the-only-cure>)
+  6. [China](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#china>)
+  7. [Humility](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#humility>)
+  8. [A new European identity](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#a-new-european-identity>)
+  9. [Notes](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#notes>)
+  10. [Further reading](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#further-reading>)
+  11. [Footnotes](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/#footnotes>)
 
 
 
@@ -82,13 +82,13 @@ Look at how much we enjoy beating the Americans at golf in the Ryder Cup. That's
 
 That also means telling leaders of countries that do not share our core values (and I don't mean just maximum debt to fucking GDP ratios - yes I am looking at you Germany) that they must be suspended or leave. 
 
-Countries like Hungary, who have a leader that undermines Europe working in concert with the new Axis powers.[ If the people in Hungary want to stay they will find a way to change leadership, let's give them a good reason to resist.](<https://compossible.blog/2025/03/04/europe-is-on-the-menu/>)3 In any event, it weakens the whole of Europe for us to allow the enemy within. Politicians need to wake up to the new brutal reality [before Europe is hollowed out, full of holes like Swiss cheese](<https://paragraph.xyz/@compossible/europe-is-full-of-aholes>).4
+Countries like Hungary, who have a leader that undermines Europe working in concert with the new Axis powers.[ If the people in Hungary want to stay they will find a way to change leadership, let's give them a good reason to resist.](<https://compossible.asym-intel.info/2025/03/04/europe-is-on-the-menu/>)3 In any event, it weakens the whole of Europe for us to allow the enemy within. Politicians need to wake up to the new brutal reality [before Europe is hollowed out, full of holes like Swiss cheese](<https://paragraph.xyz/@compossible/europe-is-full-of-aholes>).4
 
 Likewise we (Europe including the UK) cannot claim any belief in democracy, freedom and international laws and treat American and Israeli genocide of the Palestinians like it is just distasteful (but they can still be friends). In a sense they are more honest. They show they are adversaries. Why don't we act accordingly?
 
 Most of our leaders have been acting like fools. We can all see those in the world that wish to devalue diversity of cultures, nations and people. Leaders and groups that are serial abusers of women and children. Building nationalistic nativist neo-fascist networks in Europe.
 
-> [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 > "_And yet human beings continue to dream their great dream and none wakes up from it. From past to present they have always been busy harming and murdering one another. What ignorance! It is all very sad._ "
 > 
@@ -145,7 +145,7 @@ Whilst Trump, the GOP and a myriad of international players and a network of dar
 
 This mess has left us needing to do a rapid 180 degree turn to protect our territorial integrity, to give modern Europe a chance to grow into adulthood. It has allowed the two sociopathic powers that benefit the most from war in Ukraine to dictate the terms.
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 It has also coarsened our souls and made us great hypocrites whilst we witness, or even support, the suffering of people in other places (Iraq, Syria, Palestine) if the US-Israel demand it as tribute and sacrifice. All so that we can feel safe, and to hell with human rights and international laws.
 
@@ -224,9 +224,9 @@ Whilst we are airing European dirty laundry, we must also talk about our disastr
 
 I would like to assume it is obvious to all European leaders (at the moment I have very little evidence to have much faith on this point) - that there is a short window to realign our interests with China. It needs to happen quickly. There is an opportunity, especially if they can see Europe is getting its act together collectively and no longer acting as a client state of America.
 
-Unfortunately, right now we have a [Mark Rutte](<https://bsky.app/profile/peterhowitt.bsky.social/post/3ljrisy3iuc2v>)10 type trans-atlanticist foreign policy leader in Kaja Kallas, [who sees China as one of the biggest threats to Europe](<https://www.politico.eu/article/eu-commission-braces-tougher-relationship-china-trade-kaja-kallas/>),11 somehow [still managing to ignore the neo-fascist takeover of America](<https://fortune.com/2025/03/15/china-laughing-us-eu-trade-war-tariffs-trump/>)12[ ](<https://fortune.com/2025/03/15/china-laughing-us-eu-trade-war-tariffs-trump/>)and the Russia-US-Israel axis powers that [actively](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)[ seek to destroy the EU from without and within](<https://bsky.app/profile/peterhowitt.bsky.social/post/3liwca3mm3k2z>).13
+Unfortunately, right now we have a [Mark Rutte](<https://bsky.app/profile/peterhowitt.bsky.social/post/3ljrisy3iuc2v>)10 type trans-atlanticist foreign policy leader in Kaja Kallas, [who sees China as one of the biggest threats to Europe](<https://www.politico.eu/article/eu-commission-braces-tougher-relationship-china-trade-kaja-kallas/>),11 somehow [still managing to ignore the neo-fascist takeover of America](<https://fortune.com/2025/03/15/china-laughing-us-eu-trade-war-tariffs-trump/>)12[ ](<https://fortune.com/2025/03/15/china-laughing-us-eu-trade-war-tariffs-trump/>)and the Russia-US-Israel axis powers that [actively](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)[ seek to destroy the EU from without and within](<https://bsky.app/profile/peterhowitt.bsky.social/post/3liwca3mm3k2z>).13
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 China is well aware it is in a marriage of convenience with Russia. One that may not be in its interests once the Russia-US-Israel Axis powers get in full flow. Before anyone gets shirty about China (usually comparing it negatively to 'freedom loving' America), I include my favorite Chinese put-down of an American politician.
 
@@ -260,7 +260,7 @@ In short, I am saying I think it's a bloody big shame that we have had one prima
 
 That said, it must be galling to be a European leader that supported mass child sacrifice in Gaza (over 17,000 children killed) and yet still the US & Israel voted against us in the UN. Such chutzpah!
 
-> [Moloch for the Minotaur](<https://compossible.blog/2025/03/09/moloch/>)
+> [Moloch for the Minotaur](<https://compossible.asym-intel.info/2025/03/09/moloch/>)
 
 ## Humility
 
@@ -297,7 +297,7 @@ _Slava Ukraini!_ , S _alva Europa!_ , _Save Europe!_
 
 Finally, in this process, we will need to build structures and processes that are useful for defence (which is not violent) but dangerous as weapons of violence if misused against weaker nations and peoples. Indeed, the current crisis can be traced back all the way to the unchecked militarisation that America continued after WWII:
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 In this fight against the new international neo-fascists, we must not lose our humanity and love of kindness:
 
@@ -399,13 +399,13 @@ Our current form of capitalism is fundamentally opposed to democracy and to life
 
 **Previous article in the series:**
 
-> [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+> [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 ## Footnotes
 
   1. <https://youtu.be/kEOv4x_FIsc?si=mkL56HO7IXIHMk5l> ↩︎
   2. [https://journals.sagepub.com/](<https://journals.sagepub.com/doi/10.1177/0539018417734419>) ↩︎
-  3. <https://compossible.blog/2025/03/04/europe-is-on-the-menu/> ↩︎
+  3. <https://compossible.asym-intel.info/2025/03/04/europe-is-on-the-menu/> ↩︎
   4. <https://paragraph.xyz/@compossible/europe-is-full-of-aholes> ↩︎
   5. <https://www.politico.eu/article/europe-spy-service-cia-ursula-von-der-leyen/> ↩︎
   6. <https://paragraph.xyz/@compossible/europe-is-full-of-aholes> ↩︎
@@ -415,6 +415,6 @@ Our current form of capitalism is fundamentally opposed to democracy and to life
   10. [https://bsky.app/profile/peterhowitt](<https://bsky.app/profile/peterhowitt.bsky.social/post/3ljrisy3iuc2v>) ↩︎
   11. <https://www.politico.eu/article/eu-commission-braces-tougher-relationship-china-trade-kaja-kallas/> ↩︎
   12. <https://fortune.com/2025/03/15/china-laughing-us-eu-trade-war-tariffs-trump/> ↩︎
-  13. <https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/> ↩︎
+  13. <https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/> ↩︎
   14. [https://www.goodreads.com/](<https://www.goodreads.com/book/show/51174528-the-story-of-china>) ↩︎
   15. [https://www.poetryfoundation.org/](<https://www.poetryfoundation.org/poems/57258/insensibility>) ↩︎

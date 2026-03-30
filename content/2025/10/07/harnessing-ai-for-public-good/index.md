@@ -24,21 +24,21 @@ AI has a stronger role to play in managing our socio-economic and ecological iss
 
 * * *
 
-  1. [Leveraging AI for Public Good While Safeguarding Our Future](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#leveraging-ai-for-public-good-while-safeguarding-our-future>)
-  2. [AI as AN Engine of Public Good](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#ai-as-an-engine-of-public-good>)
-  3. [Accelerating Climate Action and Ecological Resilience](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#accelerating-climate-action-and-ecological-resilience>)
-  4. [Data-Driven Forecasting: Enhancing Predictive Capabilities with Artificial Intelligence](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#data-driven-forecasting-enhancing-predictive-capabilities-with-artificial-intelligence>)
-  5. [Simulation and Emergence: Agent-Based and Computational Social Science Models](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#simulation-and-emergence-agent-based-and-computational-social-science-models>)
-  6. [Critical Challenges and Implementation Barriers](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#critical-challenges-and-implementation-barriers>)
-  7. [Societal and Governance Imperatives: Navigating the Risks of AI-Driven Analysis](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#societal-and-governance-imperatives-navigating-the-risks-of-ai-driven-analysis>)
-  8. [The Centrality of Public Trust](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#the-centrality-of-public-trust>)
-  9. [The Environmental Footprint of AI](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#towards-responsible-integration-in-public-policy>)
-  10. [Foreign Ownership and Control (Sovereignty)](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#foreign-ownership-and-control-sovereignty>)
-  11. [Transparency and Explainability (The "Black-Box" Problem)](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#transparency-and-explainability-the-black-box-problem>)
-  12. [Towards Responsible Integration in Public Policy](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#towards-responsible-integration-in-public-policy-1>)
-  13. [Implementing the Governance Roadmap](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#implementing-the-governance-roadmap>)
-  14. [AI – A New Tool To Serve Humanity](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#ai-a-new-tool-to-serve-humanity>)
-  15. [Footnotes](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/#footnotes>)
+  1. [Leveraging AI for Public Good While Safeguarding Our Future](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#leveraging-ai-for-public-good-while-safeguarding-our-future>)
+  2. [AI as AN Engine of Public Good](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#ai-as-an-engine-of-public-good>)
+  3. [Accelerating Climate Action and Ecological Resilience](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#accelerating-climate-action-and-ecological-resilience>)
+  4. [Data-Driven Forecasting: Enhancing Predictive Capabilities with Artificial Intelligence](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#data-driven-forecasting-enhancing-predictive-capabilities-with-artificial-intelligence>)
+  5. [Simulation and Emergence: Agent-Based and Computational Social Science Models](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#simulation-and-emergence-agent-based-and-computational-social-science-models>)
+  6. [Critical Challenges and Implementation Barriers](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#critical-challenges-and-implementation-barriers>)
+  7. [Societal and Governance Imperatives: Navigating the Risks of AI-Driven Analysis](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#societal-and-governance-imperatives-navigating-the-risks-of-ai-driven-analysis>)
+  8. [The Centrality of Public Trust](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#the-centrality-of-public-trust>)
+  9. [The Environmental Footprint of AI](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#towards-responsible-integration-in-public-policy>)
+  10. [Foreign Ownership and Control (Sovereignty)](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#foreign-ownership-and-control-sovereignty>)
+  11. [Transparency and Explainability (The "Black-Box" Problem)](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#transparency-and-explainability-the-black-box-problem>)
+  12. [Towards Responsible Integration in Public Policy](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#towards-responsible-integration-in-public-policy-1>)
+  13. [Implementing the Governance Roadmap](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#implementing-the-governance-roadmap>)
+  14. [AI – A New Tool To Serve Humanity](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#ai-a-new-tool-to-serve-humanity>)
+  15. [Footnotes](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/#footnotes>)
 
 
 
@@ -221,7 +221,7 @@ AI also poses a significant risk to democratic governance by creating powerful t
 
 
 
-> [AI: not just a technofascist tool](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
+> [AI: not just a technofascist tool](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
 
 **_Establishing Robust Governance and Regulatory Frameworks_**
 

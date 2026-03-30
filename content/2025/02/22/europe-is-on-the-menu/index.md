@@ -38,22 +38,22 @@ However, the challenges in Europe becoming defensively independent from the US a
 
 **Table of contents**
 
-  1. [AI Podcast Version](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#ai-podcast-versionintroduction-a-silver-lining>)
-  2. [Introduction- a silver lining?](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#introduction-a-silver-lining>)
-  3. [An Unholy Alliance](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#an-unholy-alliance>)
-  4. [International Crimes](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#international-crimes>)
-  5. [Betrayal](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#betrayal>)
-  6. [Preparing for the new Axis of powers Russia-US-Israel](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#preparing-for-the-new-axis-of-powers-russia-us-israel>)
-  7. [Reducing our reliance on the USA and its 51st State](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#reducing-our-reliance-on-the-usa-and-its-51st-state>)
-  8. [NATO & US Support - the Trojan Horse](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#nato-us-support-the-trojan-horse>)
-  9. [Europe Is On the Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#europe-is-on-the-menu>)
-  10. [It is still not too late for Europe](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#it-is-still-not-too-late-for-europe>)
-  11. [Hungary](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#hungary>)
-  12. [European Defence Industrial Strategy](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#european-defence-industrial-strategy>)
-  13. [Shades of 1984](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#shades-of-1984>)
-  14. [Afterword](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#afterword>)
-  15. [Further reading](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#further-reading>)
-  16. [Footnotes](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/#footnotes>)
+  1. [AI Podcast Version](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#ai-podcast-versionintroduction-a-silver-lining>)
+  2. [Introduction- a silver lining?](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#introduction-a-silver-lining>)
+  3. [An Unholy Alliance](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#an-unholy-alliance>)
+  4. [International Crimes](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#international-crimes>)
+  5. [Betrayal](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#betrayal>)
+  6. [Preparing for the new Axis of powers Russia-US-Israel](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#preparing-for-the-new-axis-of-powers-russia-us-israel>)
+  7. [Reducing our reliance on the USA and its 51st State](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#reducing-our-reliance-on-the-usa-and-its-51st-state>)
+  8. [NATO & US Support - the Trojan Horse](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#nato-us-support-the-trojan-horse>)
+  9. [Europe Is On the Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#europe-is-on-the-menu>)
+  10. [It is still not too late for Europe](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#it-is-still-not-too-late-for-europe>)
+  11. [Hungary](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#hungary>)
+  12. [European Defence Industrial Strategy](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#european-defence-industrial-strategy>)
+  13. [Shades of 1984](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#shades-of-1984>)
+  14. [Afterword](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#afterword>)
+  15. [Further reading](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#further-reading>)
+  16. [Footnotes](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/#footnotes>)
 
 
 
@@ -263,7 +263,7 @@ In addition to involving us in illegal wars and war crimes, the USA and its 51st
 
 Everyone in Europe knows that Israel has been actively supporting the march to the far right within our fragile representative democracies for years.
 
-> [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 Now that America and Israel are clearly openly neo-fascist states, any person or party actively supporting them or receiving funding from is advocating to make Europe more vulnerable to Trump's specialism - the Shakedown – and to further Russian aggression.
 
@@ -443,7 +443,7 @@ European powers should no longer be allowed to purchase weapons from the USA-Isr
 
 This process of decoupling and independence would also have a dramatic positive effect on employment and European economies, just at a time when a severe global financial crisis intentionally accelerated by Trump and his goons is likely – this in turn can protect against some of the radicalisation such poor economic conditions will foster in Europe.
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 ## Shades of 1984
 
@@ -503,7 +503,7 @@ Leaving aside the corrupt Brexit clusterfuck, it is crucial to note that:[ most 
 
 Next article in the European Reckoning series:
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 [European Defence and ReArm Starter Pack](<https://bsky.app/starter-pack/peterhowitt.bsky.social/3ljeu67faiq2c>)
 
@@ -536,7 +536,7 @@ Next article in the European Reckoning series:
   25. The origins of the phrase "either at the table or on the menu" in the context of geopolitical power — China Daily/BBS ↩︎
   26. Andrew Rawnsley argues that European anger toward the Trump administration is entirely justified — The Guardian ↩︎
   27. The UK government's cumulative financial commitment to Ukraine's defence, totalling £12.8 billion — UK Government ↩︎
-  28. A call to active resistance against democratic backsliding and authoritarian encroachment — [Compossible Blog](<https://compossible.blog/2025/02/02/we-must-resist/>) ↩︎
+  28. A call to active resistance against democratic backsliding and authoritarian encroachment — [Compossible Blog](<https://compossible.asym-intel.info/2025/02/02/we-must-resist/>) ↩︎
   29. Ian Dunt on how deliberate dishonesty has become a feature, not a bug, of contemporary political discourse — Substack ↩︎
   30. Declassified UK reveals that a British psychological warfare unit was working in coordination with the Israeli military — [_Declassified UK_](<https://www.declassifieduk.org/uk-psychological-warfare-unit-collaborated-with-israeli-army/>) ↩︎
   31. An examination of how deeply the UK's nuclear deterrent is operationally dependent on American infrastructure and goodwill ↩︎

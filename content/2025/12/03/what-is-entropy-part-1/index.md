@@ -16,7 +16,7 @@ Entropy is a fundamental concept representing change and flow in the universe. I
 
 In a recent article on inequality I incorporated the concept of entropy, so it seemed worthwhile explaining this much misunderstood concept:
 
-> [Escaping the Freeze: The Physics of the Wealth Siphon](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/>)
+> [Escaping the Freeze: The Physics of the Wealth Siphon](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/>)
 
 This article2 explores how living organisms harness usable energy for their use (utility) amidst the overarching trend toward increased informational complexity.
 
@@ -24,17 +24,17 @@ This article2 explores how living organisms harness usable energy for their use 
 
 **Table of Contents**
 
-  1. [What is Entropy?](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#what-is-entropy>)
-  2. [Utility & Usefulness](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#utility-usefulness>)
-  3. [Energy Deltas](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#energy-deltas>)
-  4. [Will-o'-the-Wisp Nature](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#will-o-the-wisp-nature>)
-  5. [Entropy Cycles](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#entropy-cycles>)
-  6. [The Seeming Paradox of A Structured Star](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#the-seeming-paradox-of-a-structured-star>)
-  7. [Entropy and Information](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#entropy-and-information>)
-  8. [Rivers And Seas of Entropy](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#rivers-and-seas-of-entropy>)
-  9. [The Impossibility Of Knowing The Future](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#the-impossibility-of-knowing-the-future>)
-  10. [Information Uncertainty](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#information-uncertainty>)
-  11. [Footnotes](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/#footnotes>)
+  1. [What is Entropy?](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#what-is-entropy>)
+  2. [Utility & Usefulness](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#utility-usefulness>)
+  3. [Energy Deltas](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#energy-deltas>)
+  4. [Will-o'-the-Wisp Nature](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#will-o-the-wisp-nature>)
+  5. [Entropy Cycles](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#entropy-cycles>)
+  6. [The Seeming Paradox of A Structured Star](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#the-seeming-paradox-of-a-structured-star>)
+  7. [Entropy and Information](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#entropy-and-information>)
+  8. [Rivers And Seas of Entropy](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#rivers-and-seas-of-entropy>)
+  9. [The Impossibility Of Knowing The Future](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#the-impossibility-of-knowing-the-future>)
+  10. [Information Uncertainty](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#information-uncertainty>)
+  11. [Footnotes](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/#footnotes>)
 
 
 
@@ -138,7 +138,7 @@ Life arises and evolves from the interaction of positive information (always cha
 
 Deviancy is an elegant and natural algorithm for a world in which, in practice, it is not possible to know all facts without doing work on each problem, or even to know which solutions will turn out to be better or worse than other solutions at solving problems in the specific factual landscape that applies. In an infinite and changing universe, actual work to solve problems will always be required. If we imagine a universe where we could get answers to all questions without doing work, then any such universe will not give rise to the need for intelligent life-forms.
 
-> [The Limits Of Language & Logic - Part 1](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/>)
+> [The Limits Of Language & Logic - Part 1](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/>)
 
 ## **Entropy Cycles**
 
@@ -314,7 +314,7 @@ _So how does life create biological 'engines' that can manage this universe of c
 
 We will explore this in Part 2….
 
-> [What is Entropy? – Part 2](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/>)
+> [What is Entropy? – Part 2](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/>)
 
 * * *
 

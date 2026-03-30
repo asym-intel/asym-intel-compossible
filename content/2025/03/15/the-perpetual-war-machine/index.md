@@ -24,17 +24,17 @@ AI-art
 
 **Table of Contents**
 
-  1. [Introduction](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#introduction>)
-  2. [Diversity is life](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#diversity-is-life>)
-  3. [Peace as continuous war ](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#peace-as-continuous-war>)
-  4. [Ukraine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#ukraine>)
-  5. [Genocide is good for business](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#genocide-is-good-for-business>)
-  6. [The destroyer of worlds](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#the-destroyer-of-worlds>)
-  7. [Our world today is the one Eisenhower warned about](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#our-world-today-is-the-one-eisenhower-warned-about>)
-  8. [A transformed purpose for power](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#a-transformed-purpose-for-power>)
-  9. [Remembering the atomic atrocities ](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#remembering-the-atomic-atrocities>)
-  10. [Further research](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#further-research>)
-  11. [Footnotes](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#introduction>)
+  2. [Diversity is life](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#diversity-is-life>)
+  3. [Peace as continuous war ](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#peace-as-continuous-war>)
+  4. [Ukraine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#ukraine>)
+  5. [Genocide is good for business](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#genocide-is-good-for-business>)
+  6. [The destroyer of worlds](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#the-destroyer-of-worlds>)
+  7. [Our world today is the one Eisenhower warned about](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#our-world-today-is-the-one-eisenhower-warned-about>)
+  8. [A transformed purpose for power](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#a-transformed-purpose-for-power>)
+  9. [Remembering the atomic atrocities ](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#remembering-the-atomic-atrocities>)
+  10. [Further research](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#further-research>)
+  11. [Footnotes](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/#footnotes>)
 
 
 
@@ -48,7 +48,7 @@ We can only solve these issues by working together globally, relying on science 
 
 The neo-fascist autocrats, that we must now resist and defeat, know very well what the science tells us all. They lie about it, not because they are anti-science but because they have no desire to be part of the solution. They are anti-truth, anti-justice and anti-humanity. They are like the cannibals in the story _The Road_ , just in their case they actively hasten the degradation of the world and human civilisation. They want to create a 'man eat man, woman and child' world and aim to ensure they are first to the table with sharpened knives.
 
-> [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+> [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 > We must resist   
 > The Men  
@@ -57,7 +57,7 @@ The neo-fascist autocrats, that we must now resist and defeat, know very well wh
 > Wolf down  
 > Our children 
 
-> [We Must Resist](<https://compossible.blog/2025/02/02/we-must-resist/>)
+> [We Must Resist](<https://compossible.asym-intel.info/2025/02/02/we-must-resist/>)
 
 ## Diversity is life
 
@@ -115,7 +115,7 @@ All of the Axis powers publicly gloat about committing crimes against humanity. 
 
 In short, this is precisely the opposite of what the world needs to solve our myriad complex problems. They can only be solved by collective universal collaboration and cooperation, based on respect for diversity of humans and all life-forms.
 
-> [Towards a universal ethical framework](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/>)
+> [Towards a universal ethical framework](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/>)
 
 ## Peace as continuous war 
 
@@ -175,7 +175,7 @@ The proportionate scale of American military spending is evident when [viewed in
 
 With these statistics it is no surprise that increased foreign military purchases of US weapons are a key component of the [Project 2025](<https://paragraph.xyz/@compossible/project-2025-the-takeover>) authoritarian neo-fascist takeover of America first and then – working as part of the new Axis powers – much of the rest of the world.
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 These mafioso warlords want the rest of the world to pay continuous tribute to them. For Trump and his collaborators, that plan includes further strengthening the American industrial-military base (using other people's money), making those other countries even more dependent on America for those weapons to be able to work. A perpetual cycle of servitude, where the enslaved pay for their own increasingly advanced and secure chains.
 
@@ -202,13 +202,13 @@ Between the start of Russia’s war in 2022 and June 2023, 78% of defence acquis
 
 European countries have been funding the American-Israeli war machine without any thought or strategic planning. They have failed to consider the basic question of whether this purchase of US-Israeli weaponry actually secures and increases European defensive capabilities.
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 Far too few politicians and military experts have seemed to consider carefully how such a policy only strengthens the American stranglehold. It ensures the EU and UK are, at best, increasingly weak vassals that one day will be unable to make their war tribute payments (and so must be broken up for valuable parts).
 
 There is also the shocking cost of our hypocrisy in largely supporting a US-Israeli Genocide, the great mass sacrifice of 20,000 or more children.
 
-> [Moloch for the Minotaur](<https://compossible.blog/2025/03/09/moloch/>)
+> [Moloch for the Minotaur](<https://compossible.asym-intel.info/2025/03/09/moloch/>)
 
 ## Ukraine
 
@@ -274,7 +274,7 @@ Indeed, if the extremists and neo-fascists are unopposed or win, once they run o
 
 Fascististic regimes are cannibalistic. They always eat their own too.
 
-> [We Must Resist](<https://compossible.blog/2025/02/02/we-must-resist/>)
+> [We Must Resist](<https://compossible.asym-intel.info/2025/02/02/we-must-resist/>)
 
 ![](/images/uploads/2025/03/image-5.png)
 
@@ -449,7 +449,7 @@ As with America's economic issues, the issues are much deeper than party politic
 
 We must not confuse the non-violence of necessary self-defence with the violence and wage of war of aggression and the military industrial complex. In WW2, the Americans came to the defence of the allied powers. This time Europe must come to its own defence, and to the defence of the many weaker nations now facing the aggression and rapacity of the new Axis powers of Russia-USA-Israel.
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 In the current necessity for European rearmament with non-US weaponry and technologies, we must never forget the purpose of this rearmament. 
 

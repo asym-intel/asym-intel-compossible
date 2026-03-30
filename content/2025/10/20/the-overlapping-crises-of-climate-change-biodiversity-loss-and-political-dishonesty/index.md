@@ -35,23 +35,23 @@ You can create your own queries in the Notebook and it will provide cross-refere
 
 **Table of Contents**
 
-  1. [AI Video - The Great Divide & Civilisational Collapse](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#ai-video-the-great-divide-civilisational-collapse>)
-     1. [AI Mindmap](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#ai-mindmap>)
-     2. [Introduction](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#introduction>)
-     3. [Part I: The Planetary Emergency: State of the Climate and Biosphere](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#part-i-the-planetary-emergency-state-of-the-climate-and-biosphere>)
-        1. [The Climate Crisis: Projections and Impacts](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-climate-crisis-projections-and-impacts>)
-        2. [The Biodiversity Collapse and Planetary Boundaries](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-biodiversity-collapse-and-planetary-boundaries>)
-        3. [Converging Crises: Socio-Economic and Humanitarian Fallout](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#converging-crises-socio-economic-and-humanitarian-fallout>)
-     4. [Part II: The Architecture of Obstruction and Political Capture](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#part-ii-the-architecture-of-obstruction-and-political-capture>)
-        1. [The Transatlantic Network of Influence](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-transatlantic-network-of-influence>)
-        2. [From Denial to Delay: Evolving Strategies of Inaction](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#from-denial-to-delay-evolving-strategies-of-inaction>)
-        3. [The Far-Right Convergence and Foreign Interference](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-far-right-convergence-and-foreign-interference>)
-        4. [The Capture of the Mainstream](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-capture-of-the-mainstream>)
-     5. [Part III: Pathways Forward: Governance, Economics, and Technology](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#part-iii-pathways-forward-governance-economics-and-technology>)
-        1. [Mitigation and Adaptation Strategies](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#mitigation-and-adaptation-strategies>)
-        2. [The Role of Technology and Digital Innovation](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-role-of-technology-and-digital-innovation>)
-        3. [Rethinking Economic Paradigms](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#rethinking-economic-paradigms>)
-        4. [Governance for a Resilient Future](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#governance-for-a-resilient-future>)
+  1. [AI Video - The Great Divide & Civilisational Collapse](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#ai-video-the-great-divide-civilisational-collapse>)
+     1. [AI Mindmap](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#ai-mindmap>)
+     2. [Introduction](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#introduction>)
+     3. [Part I: The Planetary Emergency: State of the Climate and Biosphere](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#part-i-the-planetary-emergency-state-of-the-climate-and-biosphere>)
+        1. [The Climate Crisis: Projections and Impacts](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-climate-crisis-projections-and-impacts>)
+        2. [The Biodiversity Collapse and Planetary Boundaries](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-biodiversity-collapse-and-planetary-boundaries>)
+        3. [Converging Crises: Socio-Economic and Humanitarian Fallout](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#converging-crises-socio-economic-and-humanitarian-fallout>)
+     4. [Part II: The Architecture of Obstruction and Political Capture](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#part-ii-the-architecture-of-obstruction-and-political-capture>)
+        1. [The Transatlantic Network of Influence](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-transatlantic-network-of-influence>)
+        2. [From Denial to Delay: Evolving Strategies of Inaction](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#from-denial-to-delay-evolving-strategies-of-inaction>)
+        3. [The Far-Right Convergence and Foreign Interference](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-far-right-convergence-and-foreign-interference>)
+        4. [The Capture of the Mainstream](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-capture-of-the-mainstream>)
+     5. [Part III: Pathways Forward: Governance, Economics, and Technology](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#part-iii-pathways-forward-governance-economics-and-technology>)
+        1. [Mitigation and Adaptation Strategies](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#mitigation-and-adaptation-strategies>)
+        2. [The Role of Technology and Digital Innovation](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#the-role-of-technology-and-digital-innovation>)
+        3. [Rethinking Economic Paradigms](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#rethinking-economic-paradigms>)
+        4. [Governance for a Resilient Future](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/#governance-for-a-resilient-future>)
 
 
 
@@ -170,7 +170,7 @@ At the center of this obstruction is a transatlantic network of U.S.-based organ
 
 
 
-> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
+> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
 
 > Marshall donated heavily to the same think tank that Prime Minister Rishi Sunak credited with helping "draft" legislation cracking down on climate protesters.
 
@@ -179,7 +179,7 @@ At the center of this obstruction is a transatlantic network of U.S.-based organ
 
 
 
-> [The Power Playbook Of The Right](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/>)
+> [The Power Playbook Of The Right](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/>)
 
 ### From Denial to Delay: Evolving Strategies of Inaction
 
@@ -194,7 +194,7 @@ _Surrender_|  Promoting "doomism" by claiming that mitigation efforts are futile
   
 These actors also engage in direct legislative and media campaigns, including promoting laws to criminalize environmental protest and amplifying critiques of renewables that misrepresent total system costs and conceal the lifecycle emissions of fossil fuels.
 
-> [Green Energy: Delay for Another Day](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/>)
+> [Green Energy: Delay for Another Day](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/>)
 
 ### The Far-Right Convergence and Foreign Interference
 
@@ -223,7 +223,7 @@ The most insidious impact of these networks is not the direct takeover of govern
 
 
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 ## Part III: Pathways Forward: Governance, Economics, and Technology
 
@@ -249,7 +249,7 @@ Digital technologies and AI offer powerful tools for biosphere management, but t
 
 
 
-> [AI: Ethics, Governance, Law & Society](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/>)
+> [AI: Ethics, Governance, Law & Society](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/>)
 
 ### Rethinking Economic Paradigms
 

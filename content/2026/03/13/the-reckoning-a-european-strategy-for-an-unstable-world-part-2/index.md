@@ -14,16 +14,16 @@ The Stackelberg Trap and how Europe must deal with the American criminal enterpr
 
 Continuing the series:
 
-> [The Reckoning: A European Strategy For an Unstable World](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/>)
+> [The Reckoning: A European Strategy For an Unstable World](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/>)
 
 * * *
 
-  1. [The Stackelberg Trap — Europe Nearly Always Follows](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#part-5-the-opium-wars-ambiguity-realignment>)
-  2. [The Opium Wars, Ambiguity & Chinese Realignment](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#part-5-the-opium-wars-ambiguity-realignment>)
-  3. [A Network of Criminal Enterprises](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#a-network-of-criminal-enterprises>)
-  4. [Securing The Lagrange Point](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#securing-the-lagrange-point>)
-  5. [The Age-Old Russia Question](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#the-age-old-russia-question>)
-  6. [Footnotes](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#footnotes>)
+  1. [The Stackelberg Trap — Europe Nearly Always Follows](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#part-5-the-opium-wars-ambiguity-realignment>)
+  2. [The Opium Wars, Ambiguity & Chinese Realignment](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#part-5-the-opium-wars-ambiguity-realignment>)
+  3. [A Network of Criminal Enterprises](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#a-network-of-criminal-enterprises>)
+  4. [Securing The Lagrange Point](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#securing-the-lagrange-point>)
+  5. [The Age-Old Russia Question](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#the-age-old-russia-question>)
+  6. [Footnotes](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/#footnotes>)
 
 
 
@@ -53,7 +53,7 @@ Europe is a chronic Stackelberg follower in every domain that constitutes hard p
 
 
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 However, there is one primary domain where Europe is the Stackelberg leader - regulation: GDPR, AI Act, DSA, CBAM (Carbon Border Adjustment Mechanism), pharmaceutical standards, financial services rules. Europe moves first, everyone — including the US and China — adapts. This is sometimes called the 'Brussels Effect'.2 It is almost completely under-exploited as a strategic weapon while being defended primarily as consumer protection policy.
 
@@ -128,7 +128,7 @@ The polite, academic fantasy of European strategy has always been this: build ju
 
 After a year of attempting to accommodate Washington — signing an unbalanced tariff agreement that significantly harms European economies, committing to 5% GDP military spending targets arbitrarily imposed by a foreign president - Europe received not security and not respect, but increased pressure, continued anti-EU rhetoric, and interference in European domestic politics. It has also seen a US administration more supportive of Russian strategic objectives in the Ukraine war than those of its European allies.
 
-> [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 Trump's National Security Strategy8 - a 33-page document - crossed the rubicon. It explicitly praised "patriotic European parties," including the AfD (designated by German intelligence as extreme-right). It’s a blueprint for a regime-change operation conducted against democratic partners. By explicitly endorsing the very parties designated as extremists by our own intelligence services and framing European unity as '_civilizational erasure_ ,' Washington has moved beyond 'disagreement' and is now openly actively working to dismantle the European project from within.
 
@@ -138,7 +138,7 @@ Trump's National Security Strategy8 - a 33-page document - crossed the rubicon. 
 
 The report accused EU institutions of "undermining political liberty and sovereignty." It characterised European democratic norms as threats. It was designed not to delegitimise European institutional responses to attack by this US administration. This is not strategic rivalry - it is assault.. It is a regime-change operation conducted against democratic partners and institutions by a US administration (with the support of its public-private partners like Musk and Thiel). The US administration and its private sector allies are effectively a network of overlapping criminal enterprises. The US and Russia look more and more similar every day.
 
-> [Elon Musk - Part 1: The Crusader Behind The Mask?](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/>)
+> [Elon Musk - Part 1: The Crusader Behind The Mask?](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/>)
 
 Foreign Policy magazine asked in March 2025: "_Is America a Kleptocracy?_ "10
 
@@ -215,7 +215,7 @@ As with the Chinese strategy, the new Russia strategy can only work if Europe cl
 
 Part 3:
 
-> [THE RECKONING: A EUROPEAN STRATEGY FOR AN UNSTABLE WORLD (PART 3)](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/>)
+> [THE RECKONING: A EUROPEAN STRATEGY FOR AN UNSTABLE WORLD (PART 3)](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/>)
 
 * * *
 

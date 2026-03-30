@@ -14,7 +14,7 @@ Geopolitics, Technology, and Democratic Governance
 
 The third article in the _European Reckoning_ series. Following on from:
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
   
 
@@ -51,7 +51,7 @@ This crisis is a wake up call. Europe needs both a strong military autonomy and 
 
 The military industrial base and sovereign dual-use technology crisis in Europe is the most dangerous and damaging. It creates a vassal-lord relationship between Europe and the US which has been used to extraordinary effect to ensure Europe remains weak (and is reliant upon American and Israeli technology, Intel and weaponry). It has fundamentally ensured Europe's failure to fully support Ukraine as it should in its war with Russia. In addition, there is the terrible human cost of this strategy of facilitation and complicity in respect of the genocide of Palestinians (and the cost to our souls).
 
-> [Moloch for the Minotaur](<https://compossible.blog/2025/03/09/moloch/>)
+> [Moloch for the Minotaur](<https://compossible.asym-intel.info/2025/03/09/moloch/>)
 
 This weakness has also ensured that a generation of younger people, and many of the elders too, have lost much of their confidence in the liberal political framework. It has failed to directly and honestly face the issues we are most concerned about: the break down of European cooperation and the failure to realise our combined strength, the rise of authoritarian and far right movements, the environmental crisis and other civilisational level issues impacting Europeans (and the rest of the world).
 
@@ -67,7 +67,7 @@ The U.S. was already at levels of inequality consistent with a slave society, so
 
 > The top 1% of the U.S. holds $54.7 trillion compared to $58.2 trillion for the bottom 90%.
 
-> [Inequality and Inequity](<https://compossible.blog/2024/03/18/inequality-and-inequity/>)
+> [Inequality and Inequity](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/>)
 
 That said, this destabilisation of the post-World War II order also presents a critical strategic opportunity for European states and the EU. For example, for the EU, by offering a stable, predictable, and rights-based regulatory environment it can become an ethical magnet for global tech talent and investment fleeing U.S. volatility (**capital and brain drain**) – the EU is trying to capitalise on this with projects such as "**Choose Europe for Science** ". America has previously benefited from the brain drain dynamic, when due to persecution, political instability, and suppression of academic and intellectual freedom thousands of scientists fled the Nazi regime (e.g., Albert Einstein, Enrico Fermi, Erwin Schrödinger). 
 
@@ -83,25 +83,25 @@ _[Note: I have made the various AI Notebooks I use to collate, and query, valuab
 
 **Table Of Contents**
 
-  1. [Introduction](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#introduction>)
-  2. [What is European Technology Sovereignty?](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#what-is-european-technology-sovereignty>)
-  3. [The USA is At Very Least An Unreliable Ally!](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-usa-is-at-very-least-an-unreliable-ally>)
-  4. [The Shifting Geopolitical Landscape: An Emerging Illiberal Axis](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-shifting-geopolitical-landscape-an-emerging-illiberal-axis>)
-  5. [Europe Must Repent, Reform, and Refocus ](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#europe-s-disastrous-foriegn-policy-failureai-as-a-tool-for-democratic-resistance>)
-  6. [The European Far-Right and External Influence](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-european-far-right-and-external-influence>)
-  7. [Ukraine's Agony And Europe's Wake Up Call](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#ukraine-s-agony-and-europe-s-wake-up-call>)
-  8. [The European Military Deficit and the American Stranglehold](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-european-military-deficit-and-the-american-chokehold>)
-  9. [The Climate Crisis: A Multiplying Threat To Sovereignty And Stability](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-climate-crisis-a-multiplying-threat-to-sovereignty-and-stability>)
-  10. [The Geopolitical AI Arms Race](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-usa-is-a-most-unreliable-ally>)
-  11. [AI as a Tool for Democratic Resistance](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#ai-as-a-tool-for-democratic-resistance>)
-  12. [The Erosion of U.S. Rule of Law and its Transatlantic Implications](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-european-military-deficit-and-the-american-chokehold>)
-  13. [The Fight for Digital Sovereignty](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-fight-for-digital-sovereignty>)
-  14. [A Strategic Opportunity for Europe: The Ethical Brain Drain and R&I Leadership](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#a-strategic-opportunity-for-europe-the-ethical-brain-drain-and-r-i-leadership>)
-  15. [Europe's Strategic Fightback](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#europe-s-strategic-fightback>)
-     1. [Military response](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#military-response>)
-     2. [Dual use technology response](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#dual-use-technology-response>)
-  16. [Leaders Must Lead](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#leaders-must-lead>)
-  17. [Footnotes](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#ai-videofootnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#introduction>)
+  2. [What is European Technology Sovereignty?](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#what-is-european-technology-sovereignty>)
+  3. [The USA is At Very Least An Unreliable Ally!](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-usa-is-at-very-least-an-unreliable-ally>)
+  4. [The Shifting Geopolitical Landscape: An Emerging Illiberal Axis](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-shifting-geopolitical-landscape-an-emerging-illiberal-axis>)
+  5. [Europe Must Repent, Reform, and Refocus ](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#europe-s-disastrous-foriegn-policy-failureai-as-a-tool-for-democratic-resistance>)
+  6. [The European Far-Right and External Influence](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-european-far-right-and-external-influence>)
+  7. [Ukraine's Agony And Europe's Wake Up Call](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#ukraine-s-agony-and-europe-s-wake-up-call>)
+  8. [The European Military Deficit and the American Stranglehold](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-european-military-deficit-and-the-american-chokehold>)
+  9. [The Climate Crisis: A Multiplying Threat To Sovereignty And Stability](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-climate-crisis-a-multiplying-threat-to-sovereignty-and-stability>)
+  10. [The Geopolitical AI Arms Race](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-usa-is-a-most-unreliable-ally>)
+  11. [AI as a Tool for Democratic Resistance](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#ai-as-a-tool-for-democratic-resistance>)
+  12. [The Erosion of U.S. Rule of Law and its Transatlantic Implications](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-european-military-deficit-and-the-american-chokehold>)
+  13. [The Fight for Digital Sovereignty](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#the-fight-for-digital-sovereignty>)
+  14. [A Strategic Opportunity for Europe: The Ethical Brain Drain and R&I Leadership](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#a-strategic-opportunity-for-europe-the-ethical-brain-drain-and-r-i-leadership>)
+  15. [Europe's Strategic Fightback](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#europe-s-strategic-fightback>)
+     1. [Military response](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#military-response>)
+     2. [Dual use technology response](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#dual-use-technology-response>)
+  16. [Leaders Must Lead](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#leaders-must-lead>)
+  17. [Footnotes](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#ai-videofootnotes>)
 
 
 
@@ -133,7 +133,7 @@ A significant geopolitical realignment has been underway for over a decade, defi
 
 This new axis is characterised by shared authoritarianism, a transactional approach to human life, a foreign policy of violence, and a collective disregard for international law and human rights. In these countries, remember, there is building resistance to these leaders and corrupt criminal administrations – we must never mistake the current leaders of a country for all of its people or translate opposition to our adversaries to hatred or loathing of any peoples or whole countries.
 
-> [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 The Trump administration's posture has signalled a fundamental shift in transatlantic security dynamics, with the U.S. Secretary of Defence stating in February 2025 that "_stark strategic realities prevent the United States from being the primary guarantor of security in Europe_." This sentiment is echoed in the aggressive rhetoric of U.S. and Russian officials, who view the international system as a transactional space where powerful nations take what they want from weaker ones, relying on threats of brute force. A quote attributed to Dmitry Medvedev encapsulates this worldview:
 
@@ -141,7 +141,7 @@ The Trump administration's posture has signalled a fundamental shift in transatl
 
 In this dynamic, Europe is explicitly framed as being "on the menu," vulnerable to being carved up by carnivorous powers **(cannibals**). The U.S. administration's policy toward Ukraine—blaming the victim and demanding reparations for military aid—further exemplifies this treacherous new reality, leaving European allies to finally question the reliability of U.S. security commitments.
 
-> [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+> [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 This focus on the U.S.-Russia-Israel dynamic exists alongside another deepening more formal strategic alignment between China, Russia, Iran, and North Korea. This broader alignment is driven by a shared opposition to the U.S. global order, and their cooperation (particularly accelerated by Russia's invasion of Ukraine) is increasing their economic, military, and technological capabilities.**European politicians understandably focus on this group** but unfathomably often continue to ignore or are silent on the greater threat from the current leaders of our erstwhile allies. **Europeans that have been financed by Putin and the many transatlanticists that dominate German and European politics have a lot to answer for.**
 
@@ -162,7 +162,7 @@ The current crisis can be the necessary impetus for Europe to wake up, act decis
 
 > China knows more than anyone else what happens when you lack geopolitical strategic thinking. In the 19th and early 20th centuries, China was subjected to quasi-colonial domination particularly by Britain, France, Germany, the USA and Japan.
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 ## The European Far-Right and External Influence
 
@@ -178,7 +178,7 @@ The rise of hard-right and far-right parties across Europe is not an isolated do
 
 
 
-> [The Power Playbook Of The Right](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/>)
+> [The Power Playbook Of The Right](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/>)
 
 ## **Ukraine 's Agony And Europe's Wake Up Call**
 
@@ -229,7 +229,7 @@ Purchasing U.S. weapons systems (like the F-35, MLRS, and Patriot) deepens Europ
 
 The risk of European intelligence being leaked to Russia by the U.S. or being misused for human rights and international law offences or relying on misinformation of America and Israel is also now very acute. So much so, that some European agencies are beginning to limit their disclosures. **Centralised European intelligence agencies** are also needed more than ever.
 
-The collective result of these deficits is a serious geopolitical vulnerability that undermines Europe's ability to act independently and exposed its security foundation to political volatility. Many European leaders, facing the prospect of being unable to rely on the USA, have finally recognised that only a massive, decade-long commitment focused on achieving genuine strategic autonomy will suffice (see [Europe's Strategic Fightback](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#europe-s-strategic-fightback>) below). **That said there is still an extraordinary amount of complacency and reliance on US-Israeli weaponry. Germany particularly has actually increased its strategic dependency during the genocide in Gaza, and Poland has also been a major purchaser of U.S. weaponry.**4
+The collective result of these deficits is a serious geopolitical vulnerability that undermines Europe's ability to act independently and exposed its security foundation to political volatility. Many European leaders, facing the prospect of being unable to rely on the USA, have finally recognised that only a massive, decade-long commitment focused on achieving genuine strategic autonomy will suffice (see [Europe's Strategic Fightback](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/#europe-s-strategic-fightback>) below). **That said there is still an extraordinary amount of complacency and reliance on US-Israeli weaponry. Germany particularly has actually increased its strategic dependency during the genocide in Gaza, and Poland has also been a major purchaser of U.S. weaponry.**4
 
 It is estimated that Europe needs an expansion of capabilities equivalent to roughly 300,000 troops and an sustained annual defence spending hike of at least €250 billion to ensure it has military autonomy, but this investment needs to be based on a wide-ranging strategy to fix our pure military and our dual use technology sovereign deficiencies.
 
@@ -245,7 +245,7 @@ It is estimated that Europe needs an expansion of capabilities equivalent to rou
 
 The only question on these issues are whether our leader's responses will further enslave us to America or break the chains as quickly as possible. That's it. _Nada mas._
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 ## T**he Climate Crisis: A Multiplying Threat To Sovereignty And Stability**
 
@@ -260,7 +260,7 @@ The escalating climate crisis is not merely an environmental challenge; it is a 
 
 Europe’s commitment to a sovereign, sustainable future—epitomised by initiatives like the **European Green Deal** —must also be understood as a **national security imperative**. We are in a fight to protect our community, our citizens and to build strategic independence from a multifaceted crisis and from powers that operate across borders. **It is also essential for Europe to coordinate, where possible, with China and any other countries that are showing a willingness to take these climate issues seriously.**
 
-> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
+> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
 
 ## The Geopolitical AI Arms Race
 
@@ -273,7 +273,7 @@ AI is rapidly transforming global power dynamics, acting as both a formidable to
 
 
 
-> [The AI Arms-Race & Attack Of The Drones](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/>)
+> [The AI Arms-Race & Attack Of The Drones](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/>)
 
 In addition, authoritarian regimes are systematically using AI to solidify their power and extend their repressive capabilities beyond their borders.
 
@@ -283,7 +283,7 @@ In addition, authoritarian regimes are systematically using AI to solidify their
 
 
 
-> [Greater Israel: A 'Dream' Of Ethnic Cleansing & The Genocide of Palestinians](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/>)
+> [Greater Israel: A 'Dream' Of Ethnic Cleansing & The Genocide of Palestinians](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/>)
 
   * **Iran:** Is developing its National Information Network (NIN) to create a state-controlled internet, using AI to monitor and censor the population and suppress movements, including women's rights activists.
   * **USA - Techno-Plutocratic Vision: **A techno-authoritarian ideology is emerging in the U.S., linking influential Silicon Valley figures like Peter Thiel, Larry Ellison and Elon Musk (and the wider web of reactionaries of the new dark enlightenment). This worldview posits that democracy is inefficient and should be replaced by a centralised, CEO-like rule by the very few with empathy for the majority abandoned. A world where the weak are cannibalised by the stronger. This aligns with the goals of Project 2025 to hollow out the state and outsource critical functions (security, intelligence, finance) to private tech firms like Palantir, Oracle, X, Starlink, Anduril Industries and SpaceX – creating an unaccountable oligarchy which further strengthens the authoritarian stranglehold and increases political financial corruption.
@@ -303,7 +303,7 @@ Despite its use for social and political repression, AI technology also offers p
 
 
 
-> [AI: Not Just A Tool For Techno-fascists](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
+> [AI: Not Just A Tool For Techno-fascists](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
 
 ## The Erosion of U.S. Rule of Law and its Transatlantic Implications
 
@@ -330,7 +330,7 @@ The policy agenda detailed in Project 2025 constitutes an explicit blueprint for
 
 
 
-> [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
+> [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
 
 ## The Fight for Digital Sovereignty
 
@@ -368,7 +368,7 @@ The U.S.'s political and social destabilisation is creating a historic **ethical
 
 **Talent Inflow:** The EU is already attracting a more international AI workforce, with **37% of its AI talent coming from abroad**. Canada's program to attract H-1B visa holders from the U.S. (hitting its 10,000-applicant cap in two days) demonstrates the urgent global demand for alternatives to the U.S. Europe must capitalise on U.S. instability whilst offering a safe refuge for many of the people that will choose, or be forced, to flee the U.S. 
 
-> [AI: Not Just A Tool For Techno-fascists](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
+> [AI: Not Just A Tool For Techno-fascists](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
 
 ## Europe's Strategic Fightback
 

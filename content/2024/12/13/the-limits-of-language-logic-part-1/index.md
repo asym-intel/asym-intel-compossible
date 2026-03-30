@@ -36,16 +36,16 @@ _[Like a modern day Hephaestus forging life in rhythmic ringing blows, Hopkins b
 
 * * *
 
-  1. [Introduction](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#introduction>)
-  2. [Wittgenstein’s Language Games](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-wittgensteins-language-games>)
-  3. [Turing’s Imitation Game - Can Machines Think?](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-turings-imitation-game-can-machines-think>)
-  4. [Searle’s Chinese Room ](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-searles-chinese-room>)
-     1. [What is intelligence?](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-what-is-intelligence>)
-     2. [What is intentionality? ](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-what-is-intentionality>)
-  5. [Come Now Mr Searle, That’s Just Semantics!](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-come-now-mr-searle-thats-just-semantics>)
-  6. [Semantic Shell Games](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-semantic-shell-games>)
-  7. [Chomsky’s Black Box ](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#h-chomskys-black-box>)
-  8. [Footnotes](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#introduction>)
+  2. [Wittgenstein’s Language Games](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-wittgensteins-language-games>)
+  3. [Turing’s Imitation Game - Can Machines Think?](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-turings-imitation-game-can-machines-think>)
+  4. [Searle’s Chinese Room ](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-searles-chinese-room>)
+     1. [What is intelligence?](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-what-is-intelligence>)
+     2. [What is intentionality? ](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-what-is-intentionality>)
+  5. [Come Now Mr Searle, That’s Just Semantics!](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-come-now-mr-searle-thats-just-semantics>)
+  6. [Semantic Shell Games](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-semantic-shell-games>)
+  7. [Chomsky’s Black Box ](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#h-chomskys-black-box>)
+  8. [Footnotes](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/#footnotes>)
 
 
 
@@ -526,7 +526,7 @@ Whatever the complex drivers of our ability with language, it must have conferre
 
 Continued in Part 2:
 
-> [The Limits of Language & Logic - Part 2](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-2/>)
+> [The Limits of Language & Logic - Part 2](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-2/>)
 
 * * *
 

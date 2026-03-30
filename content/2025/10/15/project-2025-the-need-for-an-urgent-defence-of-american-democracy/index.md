@@ -12,37 +12,37 @@ wordpress_id: 3114
 
 Progress Update
 
-  1. [AI Notebook](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#ai-notebookintroduction-a-democracy-staring-at-the-abyss>)
-  2. [Introduction: A Democracy Staring at the Abyss](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#introduction-a-democracy-staring-at-the-abyss>)
-  3. [The Blueprint for Autocracy: Deconstructing Project 2025](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-blueprint-for-autocracy-deconstructing-project-2025>)
-     1. [Central Ideology and Policy Goals](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#central-ideology-and-policy-goals>)
-     2. [Implementation and Funding](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#implementation-and-funding>)
-  4. [The Hungarian Model: An Authoritarian Blueprint](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-hungarian-model-an-authoritarian-blueprint>)
-  5. [Progress Tracker Since Inauguration](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#progress-tracker-since-inauguration>)
-  6. [Implementation By Executive Order](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#implemenation-by-executive-ordermplementation-mechanisms-personnel-and-structural-consolidation>)
-  7. [Implementation: Personnel and Structural Consolidation](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#implementation-personnel-and-structural-consolidation>)
-     1. [The Personnel Purge and Loyalty Appointments](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-personnel-purge-and-loyalty-appointments>)
-     2. [The Parallel Mechanism: Department of Government Efficiency (DOGE)](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-parallel-mechanism-department-of-government-efficiency-doge>)
-  8. [Key Policy Areas of Implementation](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#key-policy-areas-of-implementation>)
-     1. [Energy, Climate, and Environmental Deregulation](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#energy-climate-and-environmental-deregulation>)
-     2. [Dismantling Diversity, Equity, and Inclusion (DEI)](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#dismantling-diversity-equity-and-inclusion-dei>)
-     3. [Fiscal Control and Spending Cuts](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#fiscal-control-and-spending-cuts>)
-     4. [Education and Public Services](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#education-and-public-services>)
-     5. [Project Esther](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#project-estherimmigration>)
-     6. [Immigration ](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#immigration>)
-  9. [Immigration and Border Security](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#immigration-and-border-security>)
-     1. [Targeting and Sensitive Locations:](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#targeting-and-sensitive-locations>)
-     2. [The Scale of Current and Planned Enforcement](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-scale-of-current-and-planned-enforcement>)
-     3. [Arrest and Detention Capacity](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#arrest-and-detention-capacity>)
-     4. [Policy Changes Driving Scale](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#policy-changes-driving-scale>)
-     5. [The Use of Foreign Prisons and Conditions for Deportees](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-use-of-foreign-prisons-and-conditions-for-deportees>)
-     6. [Intended Scope of Mass Deportations Envisioned by Project 2025](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#intended-scope-of-mass-deportations-envisioned-by-project-2025>)
-  10. [Divergences and Extensions Beyond the Blueprint](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#divergences-and-extensions-beyond-the-blueprint>)
-  11. [A New International Order: The Global Implications](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#a-new-international-order-the-global-implications>)
-  12. [A Call for Democratic Defence: The Path Forward](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#a-call-for-democratic-defence-the-path-forward>)
-  13. [Conclusion: The Work of Millions](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#conclusion-the-work-of-millions>)
-  14. [No Kings - October 18 2025](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#no-kings-october-18-2025>)
-  15. [Footnotes](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#footnotes>)
+  1. [AI Notebook](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#ai-notebookintroduction-a-democracy-staring-at-the-abyss>)
+  2. [Introduction: A Democracy Staring at the Abyss](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#introduction-a-democracy-staring-at-the-abyss>)
+  3. [The Blueprint for Autocracy: Deconstructing Project 2025](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-blueprint-for-autocracy-deconstructing-project-2025>)
+     1. [Central Ideology and Policy Goals](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#central-ideology-and-policy-goals>)
+     2. [Implementation and Funding](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#implementation-and-funding>)
+  4. [The Hungarian Model: An Authoritarian Blueprint](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-hungarian-model-an-authoritarian-blueprint>)
+  5. [Progress Tracker Since Inauguration](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#progress-tracker-since-inauguration>)
+  6. [Implementation By Executive Order](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#implemenation-by-executive-ordermplementation-mechanisms-personnel-and-structural-consolidation>)
+  7. [Implementation: Personnel and Structural Consolidation](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#implementation-personnel-and-structural-consolidation>)
+     1. [The Personnel Purge and Loyalty Appointments](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-personnel-purge-and-loyalty-appointments>)
+     2. [The Parallel Mechanism: Department of Government Efficiency (DOGE)](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-parallel-mechanism-department-of-government-efficiency-doge>)
+  8. [Key Policy Areas of Implementation](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#key-policy-areas-of-implementation>)
+     1. [Energy, Climate, and Environmental Deregulation](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#energy-climate-and-environmental-deregulation>)
+     2. [Dismantling Diversity, Equity, and Inclusion (DEI)](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#dismantling-diversity-equity-and-inclusion-dei>)
+     3. [Fiscal Control and Spending Cuts](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#fiscal-control-and-spending-cuts>)
+     4. [Education and Public Services](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#education-and-public-services>)
+     5. [Project Esther](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#project-estherimmigration>)
+     6. [Immigration ](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#immigration>)
+  9. [Immigration and Border Security](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#immigration-and-border-security>)
+     1. [Targeting and Sensitive Locations:](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#targeting-and-sensitive-locations>)
+     2. [The Scale of Current and Planned Enforcement](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-scale-of-current-and-planned-enforcement>)
+     3. [Arrest and Detention Capacity](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#arrest-and-detention-capacity>)
+     4. [Policy Changes Driving Scale](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#policy-changes-driving-scale>)
+     5. [The Use of Foreign Prisons and Conditions for Deportees](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#the-use-of-foreign-prisons-and-conditions-for-deportees>)
+     6. [Intended Scope of Mass Deportations Envisioned by Project 2025](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#intended-scope-of-mass-deportations-envisioned-by-project-2025>)
+  10. [Divergences and Extensions Beyond the Blueprint](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#divergences-and-extensions-beyond-the-blueprint>)
+  11. [A New International Order: The Global Implications](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#a-new-international-order-the-global-implications>)
+  12. [A Call for Democratic Defence: The Path Forward](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#a-call-for-democratic-defence-the-path-forward>)
+  13. [Conclusion: The Work of Millions](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#conclusion-the-work-of-millions>)
+  14. [No Kings - October 18 2025](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#no-kings-october-18-2025>)
+  15. [Footnotes](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/#footnotes>)
 
 
 
@@ -58,13 +58,13 @@ American democracy is under attack from a profound and existential threat (and E
 
 The USA has become increasingly a symbolic democracy in the last few decades (you can have your Govt sponsored genocide in red or blue), it has been a long process of radicalisation of the people, extraordinary growth in inequality and a hollowing out of even nominal democratic principles in favour of capital and corporatism. Now the radical extremists (the Republicans) have decided to dispense even with the democratic window dressing.
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 At the heart of this assault is Project 2025, the comprehensive, operational blueprint for dismantling the U.S. system of government as we know it.This plan is designed to methodically shatter democratic checks and balances and consolidate immense, unchecked power within the executive branch and the person who is President.
 
 In March, I published a summary of Project 2025. it is time to check-in on how Project 2025 is being effectively implemented.
 
-> [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+> [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 But first by way of reminder….
 
@@ -89,7 +89,7 @@ The project’s political framework is anchored in a controversial, maximalist i
 
 Project 2025 is fueled by an "eight-figure" budget (Heritage allocated **$22 million** specifically for transition infrastructure). Financial backing largely comes from a non-transparent "dark money" network linked to ultra-wealthy families and major conservative donors, such as the Koch and Uihlein families, who seek deregulation.
 
-> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
+> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
 
 ## The Hungarian Model: An Authoritarian Blueprint
 
@@ -99,7 +99,7 @@ Once elected, Orbán executed this plan with ruthless efficiency, systematically
 
 This domestic US assault, modeled on international examples of autocracy, is intrinsically linked to a vision for a transformed global order controlled by a small number of billionaires and corporations.
 
-> [The Power Playbook Of The Right](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/>)
+> [The Power Playbook Of The Right](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/>)
 
 ## Progress Tracker Since Inauguration
 
@@ -364,7 +364,7 @@ This strategic realignment is not occurring in a vacuum. It is part of a broader
 
 This axis represents a coordinated, transnational effort to replace the liberal international order with one governed by strongman rule, ethno-nationalism, and shared contempt for democratic norms. The global nature of this threat necessitates our responsibility to defend against it.
 
-> [A new Axis powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [A new Axis powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 ## A Call for Democratic Defence: The Path Forward
 

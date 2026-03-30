@@ -17,24 +17,24 @@ wordpress_id: 3884
 
 In Part 2 we looked at the many risks arising from Elon Musk's ownership of the social media platform X, his development of Grok and Grokipedia and his promotion of disinformation and hate.
 
-> [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
+> [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
 
 Now, in this final act, we must face the frightening culmination of this narrative arc playing out in real-life.
 
 * * *
 
-  1. [Introduction](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#introduction>)
-  2. [The Empire Grows Stronger ](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#the-empire-grows-stronger>)
-  3. [The Dark Anti-Enlightenment: Hobbes and the Corporate Leviathan](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#the-dark-anti-enlightenment-hobbes-and-the-corporate-leviathan>)
-     1. [A Dark Anti-Enlightenment](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#leviathan-inc>)
-     2. [A Coiled Serpent ](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#a-coiled-serpent>)
-  4. [Leviathan Inc.](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#leviathan-inc>)
-     1. [SpaceX & Starlink - Super Planetary Control](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#spacex-starlink-super-planetary-control>)
-     2. [I, Robot ](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#i-robot>)
-     3. [xAI & AGI](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#xaidata-sovereignty-and-gdpr>)
-     4. [Neuralink: The Erosion of Selfhood & Bio-Structural Inequality](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#the-foot-soldiers-of-tyranny-optimus-and-the-accelerated-scouring>)
-  5. [The Death Star](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#the-death-star>)
-  6. [Footnotes](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#introduction>)
+  2. [The Empire Grows Stronger ](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#the-empire-grows-stronger>)
+  3. [The Dark Anti-Enlightenment: Hobbes and the Corporate Leviathan](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#the-dark-anti-enlightenment-hobbes-and-the-corporate-leviathan>)
+     1. [A Dark Anti-Enlightenment](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#leviathan-inc>)
+     2. [A Coiled Serpent ](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#a-coiled-serpent>)
+  4. [Leviathan Inc.](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#leviathan-inc>)
+     1. [SpaceX & Starlink - Super Planetary Control](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#spacex-starlink-super-planetary-control>)
+     2. [I, Robot ](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#i-robot>)
+     3. [xAI & AGI](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#xaidata-sovereignty-and-gdpr>)
+     4. [Neuralink: The Erosion of Selfhood & Bio-Structural Inequality](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#the-foot-soldiers-of-tyranny-optimus-and-the-accelerated-scouring>)
+  5. [The Death Star](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#the-death-star>)
+  6. [Footnotes](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/#footnotes>)
 
 
 
@@ -91,7 +91,7 @@ The goal is also the creation of **authoritarian capitalist city-states** that c
 
 The neo-reactionary movement espouses **scientific racism** and advocates for **" dominance-submission structures"**. Musk's alignment with ethno-nationalist figures is not just political posturing and wicked interference, they are consistent with an ideology that views diversity and empathy as fatal weaknesses to be purged - we all know the song but perhaps we did not believe we could hear it sung so loudly again, less than 100 years after the fall of Nazi Germany.
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 ### A Coiled Serpent 
 
@@ -170,7 +170,7 @@ The digital threat, however, is only one component of the risks Europe faces wit
 
 While X presents a threat to Europe's digital information space sovereignty, the continent's increasing reliance on the SpaceX and Starlink ecosystem for critical launch and communication services constitutes a profound strategic dependency. This concentration of state-like control over our information space and critical space infrastructure in the hands of a single, politically motivated non-state actor demands an urgent and unified strategic reassessment by European leaders.
 
-> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
+> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
 
 Starlink and SpaceX currently represent the most profound and immediate security risk to Europe - not least because of the political leverage they afford him. 
 
@@ -230,7 +230,7 @@ Musk, in his usual fashion, will have inhaled 'I, Robot' and decided the key eth
 
 I am an AI optimist (long term) but an army of MechaHitler Grok powered robots is definitely not what any sane human wants. 
 
-> [Why I Am An AI Optimist](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/>)
+> [Why I Am An AI Optimist](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/>)
 
 In this context, it is of deep concern that our current technology uber-men are already accused of tweaking AI LLM programming priorities, to maximise engagement at the risk of self-harm and suicide:
 
@@ -249,7 +249,7 @@ The creation of a privately controlled, physically embodied AGI system introduce
 
 Musk’s dream of an advanced AI and robot empire, with him as the saviour will reduce society to a machine-controlled feudalism and is capable of causing lasting global harm to humans.
 
-> [The AI Arms-Race & Attack Of The Drones](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/>)
+> [The AI Arms-Race & Attack Of The Drones](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/>)
 
 * * *
 

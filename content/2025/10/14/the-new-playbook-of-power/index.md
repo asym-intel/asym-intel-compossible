@@ -34,19 +34,19 @@ European democracy is facing assault from without and within, guided by an evolv
 
 **Table of Contents**
 
-  1. [Video Overview](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#videointroduction-the-crisis-of-the-european-political-order>)
-  2. [Introduction: The Crisis of the European Political Order](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#introduction-the-crisis-of-the-european-political-order>)
-  3. [Defining the Illiberal Spectrum: Backsliding and Autocratisation](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#defining-the-illiberal-spectrum-backsliding-and-autocratisation>)
-  4. [The Mechanisms of Democratic Erosion: Autocratic Legalism](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#the-mechanisms-of-democratic-erosion-autocratic-legalism>)
-  5. [European Case Studies: Hungary and Poland](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#european-case-studies-hungary-and-poland>)
-  6. [The Rise and Ideology of the European Right-Wing Extremism](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#the-rise-and-ideology-of-the-european-right-wing-extremism>)
-  7. [Drivers of Extremism](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#drivers-of-extremism>)
-  8. [Autocratic Nexus: Russia and External Influence](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#autocratic-nexus-russia-and-external-influence>)
-  9. [Broader Transnational Networks](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#broader-transnational-networks>)
-  10. [Media Influence - UK Spotlight](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#conclusion-a-battle-for-the-future-of-europedemocracy-s-future>)
-  11. [Conclusion: A Battle for The Future of Europe](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#conclusion-a-battle-for-the-future-of-europe>)
-  12. [Ai Podcast](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#ai-podcastfootnotes>)
-  13. [Footnotes](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/#footnotes>)
+  1. [Video Overview](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#videointroduction-the-crisis-of-the-european-political-order>)
+  2. [Introduction: The Crisis of the European Political Order](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#introduction-the-crisis-of-the-european-political-order>)
+  3. [Defining the Illiberal Spectrum: Backsliding and Autocratisation](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#defining-the-illiberal-spectrum-backsliding-and-autocratisation>)
+  4. [The Mechanisms of Democratic Erosion: Autocratic Legalism](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#the-mechanisms-of-democratic-erosion-autocratic-legalism>)
+  5. [European Case Studies: Hungary and Poland](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#european-case-studies-hungary-and-poland>)
+  6. [The Rise and Ideology of the European Right-Wing Extremism](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#the-rise-and-ideology-of-the-european-right-wing-extremism>)
+  7. [Drivers of Extremism](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#drivers-of-extremism>)
+  8. [Autocratic Nexus: Russia and External Influence](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#autocratic-nexus-russia-and-external-influence>)
+  9. [Broader Transnational Networks](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#broader-transnational-networks>)
+  10. [Media Influence - UK Spotlight](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#conclusion-a-battle-for-the-future-of-europedemocracy-s-future>)
+  11. [Conclusion: A Battle for The Future of Europe](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#conclusion-a-battle-for-the-future-of-europe>)
+  12. [Ai Podcast](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#ai-podcastfootnotes>)
+  13. [Footnotes](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/#footnotes>)
 
 
 
@@ -103,7 +103,7 @@ Several parties are rooted in postwar fascism, such as the Freedom Party of Aust
 
 Whilst Europe has not seen the same degree of extraordinary growth in inequality as in the USA, the trend is in the same direction.
 
-> [Inequality and Inequity](<https://compossible.blog/2024/03/18/inequality-and-inequity/>)
+> [Inequality and Inequity](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/>)
 
 The surge in responsiveness to right-wing extremist views is driven by a complex mix of economic, social, and political issues including:
 
@@ -123,7 +123,7 @@ The Russian Federation is identified as a critical source of non-transparent fin
 
 **Israel 's current governing party (_Likud_) also share the goal of weakening the EU, despite Europe being its strongest trading partner and supporter in its genocide of Palestinians**.
 
-> [A new Axis powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [A new Axis powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 **Aims and Methods of Influence:** Russia's influence is deployed to achieve foreign policy objectives, including lobbying for sanctions relief, legitimising Russian positions internationally, and sowing internal friction within the EU. This complex approach utilises multiple tools across the political, financial, and informational vectors.
 

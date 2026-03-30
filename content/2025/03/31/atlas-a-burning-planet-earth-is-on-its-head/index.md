@@ -12,19 +12,19 @@ wordpress_id: 1842
 
 **Table of contents**
 
-  1. [Introduction ](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#introduction-1>)
-  2. [AI Video](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#introduction>)
-  3. [The Atlas Network: Shaping the World Through a Global Web of Free Market Think Tanks](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-atlas-network-shaping-the-world-through-a-global-web-of-free-market-think-tanks>)
-  4. [A History Rooted in Free Market Ideals](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#a-history-rooted-in-free-market-ideals>)
-  5. [The Stated Goals: Promoting a Free Society](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-stated-goals-promoting-a-free-society>)
-  6. [Funding the 'Freedom' Movement](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#funding-the-freedom-movement>)
-  7. [Activities and Strategies for Influence](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#activities-and-strategies-for-influence>)
-  8. [Global Impact and Effectiveness](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#global-impact-and-effectiveness>)
-  9. [The Driving Ideology: Neoliberalism and its Critiques](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-driving-ideology-neoliberalism-and-its-critiques>)
-  10. [Controversies and Criticisms](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#controversies-and-criticisms>)
-  11. [Impact On Politicians, Laws & Law Enforcement](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#impact-on-politicians-laws-law-enforcement>)
-  12. [The Deeper Ideology Driving The Atlas Network](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-deeper-idealogy-driving-the-atlas-networka-powerful-destructive-force-in-the-world>)
-  13. [A Powerful Force In the World](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#a-powerful-force-in-the-world>)
+  1. [Introduction ](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#introduction-1>)
+  2. [AI Video](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#introduction>)
+  3. [The Atlas Network: Shaping the World Through a Global Web of Free Market Think Tanks](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-atlas-network-shaping-the-world-through-a-global-web-of-free-market-think-tanks>)
+  4. [A History Rooted in Free Market Ideals](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#a-history-rooted-in-free-market-ideals>)
+  5. [The Stated Goals: Promoting a Free Society](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-stated-goals-promoting-a-free-society>)
+  6. [Funding the 'Freedom' Movement](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#funding-the-freedom-movement>)
+  7. [Activities and Strategies for Influence](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#activities-and-strategies-for-influence>)
+  8. [Global Impact and Effectiveness](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#global-impact-and-effectiveness>)
+  9. [The Driving Ideology: Neoliberalism and its Critiques](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-driving-ideology-neoliberalism-and-its-critiques>)
+  10. [Controversies and Criticisms](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#controversies-and-criticisms>)
+  11. [Impact On Politicians, Laws & Law Enforcement](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#impact-on-politicians-laws-law-enforcement>)
+  12. [The Deeper Ideology Driving The Atlas Network](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#the-deeper-idealogy-driving-the-atlas-networka-powerful-destructive-force-in-the-world>)
+  13. [A Powerful Force In the World](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/#a-powerful-force-in-the-world>)
 
 ![](/images/uploads/2025/03/the-atlas-network.png)AI generated image
 
@@ -107,7 +107,7 @@ Several major donors and connected groups are identified in the sources:
 
 **Many of the people and groups funding the Atlas Network also fund or are connected to the Heritage Foundation and Project 2025.**
 
-> [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+> [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 **Groups Connected to the Atlas Network:**
 

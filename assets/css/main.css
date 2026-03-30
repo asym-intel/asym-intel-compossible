@@ -1,7 +1,7 @@
 /*
   main.css — compossible.asym-intel.info
   Fonts: Boska (Fontshare) + Source Serif 4 (Google Fonts)
-  Max width: 1100px throughout — consistent centred layout
+  Max width: 1400px throughout — consistent centred layout
 */
 
 /* ── Tokens ─────────────────────────────────────────────────────────────── */
@@ -31,8 +31,8 @@
   --t-fast: 150ms; --ease: cubic-bezier(0.16,1,0.3,1);
 
   /* Single layout width used everywhere */
-  --site-width: 1100px;
-  --inner-width: 800px;   /* for reading content (posts, categories) */
+  --site-width: 1400px;
+  --inner-width: 860px;   /* for reading content (posts, categories) */
 }
 
 /* ── Reset ───────────────────────────────────────────────────────────────── */
@@ -171,17 +171,18 @@ h3 {
 .feed-card:first-of-type { border-top: 1px solid var(--color-border); }
 
 .feed-card--rich {
-  flex-direction: row;
-  gap: var(--space-6);
-  align-items: flex-start;
+  flex-direction: column;
+  gap: 0;
+  align-items: stretch;
 }
-.feed-card__image-link { flex-shrink: 0; display: block; }
+.feed-card__image-link { display: block; margin-bottom: var(--space-4); }
 .feed-card__image {
-  width: 160px; height: 120px;
+  width: 100%;
+  height: clamp(220px, 35vw, 480px);
   object-fit: cover; border-radius: var(--radius-md);
   display: block;
 }
-.feed-card__body { flex: 1; display: flex; flex-direction: column; gap: var(--space-2); }
+.feed-card__body { display: flex; flex-direction: column; gap: var(--space-2); }
 .feed-card__meta { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
 .feed-card__date { font-size: 0.8rem; color: var(--color-text-faint); }
 .feed-card__cat {
@@ -204,8 +205,7 @@ h3 {
 }
 .feed-card__read-more:hover { color: var(--color-primary-hover); }
 @media (max-width: 600px) {
-  .feed-card--rich { flex-direction: column; }
-  .feed-card__image { width: 100%; height: 200px; }
+  .feed-card__image { height: 200px; }
 }
 
 /* ── Single post ─────────────────────────────────────────────────────────── */

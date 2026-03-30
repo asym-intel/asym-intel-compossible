@@ -12,8 +12,8 @@ wordpress_id: 5700
 
 These 'translations' were made relying on a number of sources including AI translations and, in respect of 'It Is Possible', relying heavily on Robert Bly's translation which he named 'Pushing Through'. The author does not speak German, so interpretations might be a more accurate description.
 
-  1. [It Is Possible](<https://compossible.blog/2024/10/16/rilke-translations/#it-is-possible>)
-  2. [The Watcher](<https://compossible.blog/2024/10/16/rilke-translations/#the-watcher>)
+  1. [It Is Possible](<https://compossible.asym-intel.info/2024/10/16/rilke-translations/#it-is-possible>)
+  2. [The Watcher](<https://compossible.asym-intel.info/2024/10/16/rilke-translations/#the-watcher>)
 
 
 

@@ -54,19 +54,19 @@ Peace to all those that seek it.
 
 **Table of Contents**
 
-  1. [Introduction](<https://compossible.blog/2025/06/25/canto-for-david/#h-from-the-introduction>)
-  2. [Chutzpah](<https://compossible.blog/2025/06/25/canto-for-david/#chutzpah>)
-  3. [Mantle](<https://compossible.blog/2025/06/25/canto-for-david/#mantle>)
-  4. [Korban](<https://compossible.blog/2025/06/25/canto-for-david/#korbanfootnotes>)
-  5. [The Witching Hour](<https://compossible.blog/2025/06/25/canto-for-david/#the-witching-hour>)
-  6. [Ark](<https://compossible.blog/2025/06/25/canto-for-david/#ark>)
-  7. [Twenty To One](<https://compossible.blog/2025/06/25/canto-for-david/#twenty-to-one>)
-  8. [Mensch & Meat](<https://compossible.blog/2025/06/25/canto-for-david/#mensch-meat>)
-  9. [If This Is A Man](<https://compossible.blog/2025/06/25/canto-for-david/#if-this-is-a-man>)
-  10. [The Masters](<https://compossible.blog/2025/06/25/canto-for-david/#the-masters>)
-  11. [Exodus](<https://compossible.blog/2025/06/25/canto-for-david/#exodus>)
-  12. [Footnotes](<https://compossible.blog/2025/06/25/canto-for-david/#footnotes>)
-  13. [Suggested Reading](<https://compossible.blog/2025/06/25/canto-for-david/#suggested-reading>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#h-from-the-introduction>)
+  2. [Chutzpah](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#chutzpah>)
+  3. [Mantle](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#mantle>)
+  4. [Korban](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#korbanfootnotes>)
+  5. [The Witching Hour](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#the-witching-hour>)
+  6. [Ark](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#ark>)
+  7. [Twenty To One](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#twenty-to-one>)
+  8. [Mensch & Meat](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#mensch-meat>)
+  9. [If This Is A Man](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#if-this-is-a-man>)
+  10. [The Masters](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#the-masters>)
+  11. [Exodus](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#exodus>)
+  12. [Footnotes](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#footnotes>)
+  13. [Suggested Reading](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#suggested-reading>)
 
 
 

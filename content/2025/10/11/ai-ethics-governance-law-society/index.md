@@ -46,16 +46,16 @@ Notebooklm video
 
 ## AI generated blog from the Notebook:
 
-  1. [AI generated blog from the Notebook:](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#ai-generated-blog-from-the-notebook>)
-  2. [Beyond the Hype: 5 Surprising Truths About the AI Revolution](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#beyond-the-hype-5-surprising-truths-about-the-ai-revolution>)
-  3. [AI Isn't Just Another Tool—It's a New Kind of Culture Creator](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#ai-isn-t-just-another-tool-it-s-a-new-kind-of-culture-creator>)
-  4. [The "A" in AI Often Stands for Anonymous Human Labor](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#the-a-in-ai-often-stands-for-anonymous-human-labor>)
-  5. [The Data Paradox: More Data Can Create More Inequality](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#the-data-paradox-more-data-can-create-more-inequality>)
-  6. [AI's Environmental Footprint Is Thirstier Than You Think](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#ai-s-environmental-footprint-is-thirstier-than-you-think>)
-  7. [AI Can Be Both Superhumanly Creative and Bizarrely Illogical](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#ai-can-be-both-superhumanly-creative-and-bizarrely-illogical>)
-  8. [Conclusion](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#conclusion>)
-  9. [AI Podcast](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#ai-podcast-1>)
-  10. [Posts](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/#posts>)
+  1. [AI generated blog from the Notebook:](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#ai-generated-blog-from-the-notebook>)
+  2. [Beyond the Hype: 5 Surprising Truths About the AI Revolution](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#beyond-the-hype-5-surprising-truths-about-the-ai-revolution>)
+  3. [AI Isn't Just Another Tool—It's a New Kind of Culture Creator](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#ai-isn-t-just-another-tool-it-s-a-new-kind-of-culture-creator>)
+  4. [The "A" in AI Often Stands for Anonymous Human Labor](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#the-a-in-ai-often-stands-for-anonymous-human-labor>)
+  5. [The Data Paradox: More Data Can Create More Inequality](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#the-data-paradox-more-data-can-create-more-inequality>)
+  6. [AI's Environmental Footprint Is Thirstier Than You Think](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#ai-s-environmental-footprint-is-thirstier-than-you-think>)
+  7. [AI Can Be Both Superhumanly Creative and Bizarrely Illogical](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#ai-can-be-both-superhumanly-creative-and-bizarrely-illogical>)
+  8. [Conclusion](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#conclusion>)
+  9. [AI Podcast](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#ai-podcast-1>)
+  10. [Posts](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/#posts>)
 
 
 
@@ -139,202 +139,202 @@ As we architect our future with these powerful systems, the most urgent question
 
 ## Posts
 
-  * ### [World Democracy Monitor](<https://compossible.blog/2026/03/24/world-democracy-monitor/>)
+  * ### [World Democracy Monitor](<https://compossible.asym-intel.info/2026/03/24/world-democracy-monitor/>)
 
 Mar 24
 
-  * ### [THE SHADOW FIMI OSINT REPORT:](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/>)
+  * ### [THE SHADOW FIMI OSINT REPORT:](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/>)
 
 Mar 17
 
-  * ### [THE RECKONING: A EUROPEAN STRATEGY FOR AN UNSTABLE WORLD (PART 3)](<https://compossible.blog/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/>)
+  * ### [THE RECKONING: A EUROPEAN STRATEGY FOR AN UNSTABLE WORLD (PART 3)](<https://compossible.asym-intel.info/2026/03/15/the-reckoning-a-european-strategy-for-an-unstable-world-part-3/>)
 
 Mar 15
 
-  * ### [The Reckoning: A European Strategy For an Unstable World (Part 2)](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/>)
+  * ### [The Reckoning: A European Strategy For an Unstable World (Part 2)](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/>)
 
 Mar 13
 
-  * ### [The Reckoning: A European Strategy For an Unstable World](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/>)
+  * ### [The Reckoning: A European Strategy For an Unstable World](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/>)
 
 Mar 10
 
-  * ### [The Devil](<https://compossible.blog/2026/03/08/the-devil/>)
+  * ### [The Devil](<https://compossible.asym-intel.info/2026/03/08/the-devil/>)
 
 Mar 8
 
-  * ### [Moon](<https://compossible.blog/2026/03/08/moon/>)
+  * ### [Moon](<https://compossible.asym-intel.info/2026/03/08/moon/>)
 
 Mar 8
 
-  * ### [Good Grief](<https://compossible.blog/2026/03/08/good-grief/>)
+  * ### [Good Grief](<https://compossible.asym-intel.info/2026/03/08/good-grief/>)
 
 Mar 8
 
-  * ### [The Epstein Network – Sexual Abuse, State Power, and Impunity](<https://compossible.blog/2026/02/22/the-epstein-network-sexual-abuse-state-power-and-impunity/>)
+  * ### [The Epstein Network – Sexual Abuse, State Power, and Impunity](<https://compossible.asym-intel.info/2026/02/22/the-epstein-network-sexual-abuse-state-power-and-impunity/>)
 
 Feb 22
 
-  * ### [Imprisoned](<https://compossible.blog/2026/02/15/imprisoned/>)
+  * ### [Imprisoned](<https://compossible.asym-intel.info/2026/02/15/imprisoned/>)
 
 Feb 15
 
-  * ### [AI - A Mean Machine](<https://compossible.blog/2025/12/11/ai-a-mean-machine/>)
+  * ### [AI - A Mean Machine](<https://compossible.asym-intel.info/2025/12/11/ai-a-mean-machine/>)
 
 Dec 11
 
-  * ### [What is Entropy? – Part 2](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/>)
+  * ### [What is Entropy? – Part 2](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/>)
 
 Dec 3
 
-  * ### [What is Entropy? – Part 1](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/>)
+  * ### [What is Entropy? – Part 1](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/>)
 
 Dec 3
 
-  * ### [Escaping the Freeze: The Physics of the Wealth Siphon](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/>)
+  * ### [Escaping the Freeze: The Physics of the Wealth Siphon](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/>)
 
 Dec 1
 
-  * ### [After Intelligence](<https://compossible.blog/2025/11/17/after-intelligence-0/>)
+  * ### [After Intelligence](<https://compossible.asym-intel.info/2025/11/17/after-intelligence-0/>)
 
 Nov 17
 
-  * ### [Solipsism at St Peter's](<https://compossible.blog/2025/11/16/solipsism-at-st-peters/>)
+  * ### [Solipsism at St Peter's](<https://compossible.asym-intel.info/2025/11/16/solipsism-at-st-peters/>)
 
 Nov 16
 
-  * ### [Elon Musk - Part 3: The Death Star](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/>)
+  * ### [Elon Musk - Part 3: The Death Star](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/>)
 
 Nov 15
 
-  * ### [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
+  * ### [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
 
 Nov 6
 
-  * ### [Elon Musk - Part 1: The Crusader Behind The Mask?](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/>)
+  * ### [Elon Musk - Part 1: The Crusader Behind The Mask?](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/>)
 
 Nov 2
 
-  * ### [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
+  * ### [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
 
 Oct 22
 
-  * ### [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
+  * ### [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
 
 Oct 20
 
-  * ### [Green Energy: Delay for Another Day](<https://compossible.blog/2025/10/16/green-energy-delay-for-another-day/>)
+  * ### [Green Energy: Delay for Another Day](<https://compossible.asym-intel.info/2025/10/16/green-energy-delay-for-another-day/>)
 
 Oct 16
 
-  * ### [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
+  * ### [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
 
 Oct 15
 
-  * ### [The Power Playbook Of The Right](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/>)
+  * ### [The Power Playbook Of The Right](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/>)
 
 Oct 14
 
-  * ### [AI: Ethics, Governance, Law & Society](<https://compossible.blog/2025/10/11/ai-ethics-governance-law-society/>)
+  * ### [AI: Ethics, Governance, Law & Society](<https://compossible.asym-intel.info/2025/10/11/ai-ethics-governance-law-society/>)
 
 Oct 11
 
-  * ### [Harnessing AI For Public Policy](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/>)
+  * ### [Harnessing AI For Public Policy](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/>)
 
 Oct 7
 
-  * ### [Between Man & Machine](<https://compossible.blog/2025/09/18/between-man-machine/>)
+  * ### [Between Man & Machine](<https://compossible.asym-intel.info/2025/09/18/between-man-machine/>)
 
 Sep 18
 
-  * ### [Shorter Poems/Songs](<https://compossible.blog/2025/09/18/shorter-poems-songs/>)
+  * ### [Shorter Poems/Songs](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/>)
 
 Sep 18
 
-  * ### [We Are Dawn](<https://compossible.blog/2025/09/11/we-are-dawn/>)
+  * ### [We Are Dawn](<https://compossible.asym-intel.info/2025/09/11/we-are-dawn/>)
 
 Sep 11
 
-  * ### [The Silence Inside](<https://compossible.blog/2025/08/28/the-silence-inside/>)
+  * ### [The Silence Inside](<https://compossible.asym-intel.info/2025/08/28/the-silence-inside/>)
 
 Aug 28
 
-  * ### [Greater Israel: A 'Dream' Of Ethnic Cleansing & The Genocide of Palestinians](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/>)
+  * ### [Greater Israel: A 'Dream' Of Ethnic Cleansing & The Genocide of Palestinians](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/>)
 
 Aug 15
 
-  * ### [Canto for David](<https://compossible.blog/2025/06/25/canto-for-david/>)
+  * ### [Canto for David](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/>)
 
 Jun 25
 
-  * ### [The AI Arms-Race & Attack Of The Drones](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/>)
+  * ### [The AI Arms-Race & Attack Of The Drones](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/>)
 
 Apr 1
 
-  * ### [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
+  * ### [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
 
 Mar 31
 
-  * ### [My God! You Lunatic!](<https://compossible.blog/2025/03/28/my-god-you-lunatic/>)
+  * ### [My God! You Lunatic!](<https://compossible.asym-intel.info/2025/03/28/my-god-you-lunatic/>)
 
 Mar 28
 
-  * ### [AI: Not Just A Tool For Techno-fascists](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
+  * ### [AI: Not Just A Tool For Techno-fascists](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/>)
 
 Mar 24
 
-  * ### [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+  * ### [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 Mar 24
 
-  * ### [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+  * ### [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 Mar 22
 
-  * ### [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+  * ### [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 Mar 15
 
-  * ### [Moloch for the Minotaur](<https://compossible.blog/2025/03/09/moloch/>)
+  * ### [Moloch for the Minotaur](<https://compossible.asym-intel.info/2025/03/09/moloch/>)
 
 Mar 9
 
-  * ### [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+  * ### [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 Mar 4
 
-  * ### [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+  * ### [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 Feb 22
 
-  * ### [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+  * ### [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 Feb 9
 
-  * ### [We Must Resist](<https://compossible.blog/2025/02/02/we-must-resist/>)
+  * ### [We Must Resist](<https://compossible.asym-intel.info/2025/02/02/we-must-resist/>)
 
 Feb 2
 
-  * ### [Why I Am An AI Optimist](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/>)
+  * ### [Why I Am An AI Optimist](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/>)
 
 Jan 6
 
-  * ### [Towards a universal ethical framework](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/>)
+  * ### [Towards a universal ethical framework](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/>)
 
 Dec 18
 
-  * ### [The Limits of Language & Logic - Part 2](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-2/>)
+  * ### [The Limits of Language & Logic - Part 2](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-2/>)
 
 Dec 13
 
-  * ### [The Limits Of Language & Logic - Part 1](<https://compossible.blog/2024/12/13/the-limits-of-language-logic-part-1/>)
+  * ### [The Limits Of Language & Logic - Part 1](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic-part-1/>)
 
 Dec 13
 
-  * ### [Rilke 'Translations'](<https://compossible.blog/2024/10/16/rilke-translations/>)
+  * ### [Rilke 'Translations'](<https://compossible.asym-intel.info/2024/10/16/rilke-translations/>)
 
 Oct 16
 
-  * ### [Song for Derek](<https://compossible.blog/2024/06/11/song-for-derek/>)
+  * ### [Song for Derek](<https://compossible.asym-intel.info/2024/06/11/song-for-derek/>)
 
 Jun 11

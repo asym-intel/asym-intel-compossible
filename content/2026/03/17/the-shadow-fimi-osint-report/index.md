@@ -18,10 +18,10 @@ _A FIMI-Methodology Assessment of US, Israeli and Aligned Network Interference i
 > 
 > (Donald Tusk)
 
-  1. [A House of Cards Indeed](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/#a-house-of-cards-indeed>)
-  2. [The Full OSINT FIMI Shadow Report](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/#the-full-osint-fimi-shadow-report>)
-  3. [Open Letter to Kaja Kallas: The EU'S FIMI Blind Spot Is An Existential Threat](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/#open-letter-to-kaja-kallas-the-eu-s-fimi-blind-spot-is-an-existential-threat>)
-  4. [Footnotes](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/#footnotes>)
+  1. [A House of Cards Indeed](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/#a-house-of-cards-indeed>)
+  2. [The Full OSINT FIMI Shadow Report](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/#the-full-osint-fimi-shadow-report>)
+  3. [Open Letter to Kaja Kallas: The EU'S FIMI Blind Spot Is An Existential Threat](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/#open-letter-to-kaja-kallas-the-eu-s-fimi-blind-spot-is-an-existential-threat>)
+  4. [Footnotes](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/#footnotes>)
 
 
 
@@ -52,7 +52,7 @@ The findings are unambiguous:
 
 
 
-> [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
+> [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
 
 The 4th Report introduces a Deterrence Playbook designed to dismantle interference by targeting its financial and organisational enablers. Applied consistently, that Playbook reaches every operation documented in our report. It is not applied consistently.
 
@@ -150,7 +150,7 @@ _17 March 2026_
 
 See also:
 
-> [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 * * *
 

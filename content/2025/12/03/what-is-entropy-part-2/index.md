@@ -14,23 +14,23 @@ Really Useful Engines
 
 Continued from Part 1:
 
-> [What is Entropy? – Part 1](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/>)
+> [What is Entropy? – Part 1](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/>)
 
 * * *
 
-  1. [The Grammar of Entropy](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#the-grammar-of-entropy>)
-  2. [Algorithmic Information Theories of Life](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#algorithmic-information-theories-of-life>)
-     1. [Life as a Demon: The Cost of Information](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#life-as-a-demon-the-cost-of-information>)
-     2. [The Algorithm of Survival](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#the-algorithm-of-survival>)
-     3. [Coding for Diversity](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#coding-for-diversity>)
-     4. [Life-Forms Must Be Efficient](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#life-forms-must-be-efficient>)
-  3. [The Mathematics of Efficiency](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#the-mathematics-of-efficiency>)
-  4. [Universal Really Useful Engines](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#universal-really-useful-engines>)
-  5. [Compossibility: The Thermodynamic Case for Diversity](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#compossibility-the-thermodynamic-case-for-diversity>)
-     1. [The Ethics of Aliens](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#the-ethics-of-aliens>)
-     2. [Does Time Stop for A Sufficiently Knowing Being?](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#does-time-stop-for-a-sufficiently-advanced-being-the-final-cycle>)
-     3. [The Final Cycle](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#does-time-stop-for-a-sufficiently-advanced-being-the-final-cycle>)
-  6. [Footnotes](<https://compossible.blog/2025/12/03/what-is-entropy-part-2/#footnotes>)
+  1. [The Grammar of Entropy](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#the-grammar-of-entropy>)
+  2. [Algorithmic Information Theories of Life](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#algorithmic-information-theories-of-life>)
+     1. [Life as a Demon: The Cost of Information](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#life-as-a-demon-the-cost-of-information>)
+     2. [The Algorithm of Survival](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#the-algorithm-of-survival>)
+     3. [Coding for Diversity](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#coding-for-diversity>)
+     4. [Life-Forms Must Be Efficient](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#life-forms-must-be-efficient>)
+  3. [The Mathematics of Efficiency](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#the-mathematics-of-efficiency>)
+  4. [Universal Really Useful Engines](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#universal-really-useful-engines>)
+  5. [Compossibility: The Thermodynamic Case for Diversity](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#compossibility-the-thermodynamic-case-for-diversity>)
+     1. [The Ethics of Aliens](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#the-ethics-of-aliens>)
+     2. [Does Time Stop for A Sufficiently Knowing Being?](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#does-time-stop-for-a-sufficiently-advanced-being-the-final-cycle>)
+     3. [The Final Cycle](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#does-time-stop-for-a-sufficiently-advanced-being-the-final-cycle>)
+  6. [Footnotes](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-2/#footnotes>)
 
 
 
@@ -227,7 +227,7 @@ If life is an engine that processes energy, then diversity is the ultimate optim
 
 This is the core of **compossibility** —the ability of different life forms and species to exist together to solve the complex problems of an unpredictable universe. A monoculture is thermodynamically fragile; it represents a limited number of ways to process the environment. In contrast, a diverse biosphere fills the ecological configuration space (the vast range of possible ways that life can be organised) with a variety of life-forms, each acting as a unique channel to disperse the cosmic fire of life.
 
-> [Towards a universal ethical framework](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/>)
+> [Towards a universal ethical framework](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/>)
 
 ### The Ethics of Aliens
 
@@ -239,7 +239,7 @@ It seems likely that any civilisation capable of surviving its own technology lo
 
 To survive, we must adopt cosmic humility. We must not destroy species often even before we know what they do and how they do it - apart from anything because we cannot predict which biological algorithm will be essential for the future.
 
-> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
+> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
 
 ### Does Time Stop for A Sufficiently Knowing Being?
 
@@ -279,7 +279,7 @@ AI Podcast version:
 
 _PS:_ If you would like to understand how the concept of entropy can be really useful in areas like economics (known as EconoPhysics), for example, to measure and manage inequality see:
 
-> [Escaping the Freeze: The Physics of the Wealth Siphon](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/>)
+> [Escaping the Freeze: The Physics of the Wealth Siphon](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/>)
 
 * * *
 

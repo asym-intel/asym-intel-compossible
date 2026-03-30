@@ -48,28 +48,28 @@ Some initial caveats:2
 
 * * *
 
-  1. [Introduction](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#introduction>)
-  2. [The Global Wealth Freeze](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-commonthe-global-wealth-freeze>)
-  3. [The Cold Box Trap](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-cold-box-trap>)
-  4. [Understanding Econophysics](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-heat-death-problemwhat-is-econophysics>)
-     1. [Thermodynamic Entropy (The Second Law)](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#thermodynamic-entropy-the-second-law>)
-     2. [Information Entropy (Shannon/Theil)](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#information-entropy-shannon-theil>)
-     3. [Statistical Mechanics Entropy (Boltzmann-Gibbs)](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#statistical-mechanics-entropy-boltzmann-gibbs>)
-     4. [Constructive Chaos](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#constructive-chaos>)
-  5. [The Common Critiques](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-commonthe-global-wealth-freeze>)
-  6. [Measuring Inequality](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#black-box-trap-measuring-inequality>)
-     1. [Painting the Picture: The Lorenz Curve](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#painting-the-picture-the-lorenz-curve>)
-     2. [The Gini Coefficient: Inequality in a Single Number](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-gini-coefficient-inequality-in-a-single-number>)
-     3. [Boltzmann-Gibb KLD Index - modified Theil Index](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#boltzmann-gibb-kld-index-modified-theil-index>)
-  7. [Comparative Data On Inequality](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#comparative-data-on-inequality>)
-     1. [USS - Impact Analysis: Gini 0.83 → Gini 0.50](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#usa>)
-  8. [The Equality Engine](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-equality-engine>)
-     1. [The Core Mechanism: Structural Asset Redistribution via a Sovereign Wealth Fund](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-core-mechanism-structural-asset-redistribution-via-a-sovereign-wealth-fund>)
-     2. [The Redistributive Component: Universal Basic Capital (UBC)](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-redistributive-component-universal-basic-capital-ubc>)
-     3. [Protecting the System: Anti-Flight Measures and Regulatory Reform](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#protecting-the-system-anti-flight-measures-and-regulatory-reform>)
-     4. [Complementary Policy Approaches (The Triad of Equity)](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#complementary-policy-approaches-the-triad-of-equity>)
-  9. [What is Entropy?](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#what-is-entropy>)
-  10. [Footnotes:](<https://compossible.blog/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#introduction>)
+  2. [The Global Wealth Freeze](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-commonthe-global-wealth-freeze>)
+  3. [The Cold Box Trap](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-cold-box-trap>)
+  4. [Understanding Econophysics](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-heat-death-problemwhat-is-econophysics>)
+     1. [Thermodynamic Entropy (The Second Law)](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#thermodynamic-entropy-the-second-law>)
+     2. [Information Entropy (Shannon/Theil)](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#information-entropy-shannon-theil>)
+     3. [Statistical Mechanics Entropy (Boltzmann-Gibbs)](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#statistical-mechanics-entropy-boltzmann-gibbs>)
+     4. [Constructive Chaos](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#constructive-chaos>)
+  5. [The Common Critiques](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-commonthe-global-wealth-freeze>)
+  6. [Measuring Inequality](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#black-box-trap-measuring-inequality>)
+     1. [Painting the Picture: The Lorenz Curve](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#painting-the-picture-the-lorenz-curve>)
+     2. [The Gini Coefficient: Inequality in a Single Number](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-gini-coefficient-inequality-in-a-single-number>)
+     3. [Boltzmann-Gibb KLD Index - modified Theil Index](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#boltzmann-gibb-kld-index-modified-theil-index>)
+  7. [Comparative Data On Inequality](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#comparative-data-on-inequality>)
+     1. [USS - Impact Analysis: Gini 0.83 → Gini 0.50](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#usa>)
+  8. [The Equality Engine](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-equality-engine>)
+     1. [The Core Mechanism: Structural Asset Redistribution via a Sovereign Wealth Fund](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-core-mechanism-structural-asset-redistribution-via-a-sovereign-wealth-fund>)
+     2. [The Redistributive Component: Universal Basic Capital (UBC)](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#the-redistributive-component-universal-basic-capital-ubc>)
+     3. [Protecting the System: Anti-Flight Measures and Regulatory Reform](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#protecting-the-system-anti-flight-measures-and-regulatory-reform>)
+     4. [Complementary Policy Approaches (The Triad of Equity)](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#complementary-policy-approaches-the-triad-of-equity>)
+  9. [What is Entropy?](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#what-is-entropy>)
+  10. [Footnotes:](<https://compossible.asym-intel.info/2025/12/01/escaping-the-freeze-the-physics-of-the-wealth-siphon/#footnotes>)
 
 
 
@@ -79,11 +79,11 @@ Some initial caveats:2
 
 I have previously written a relatively philosophical piece on Inequality & Inequity.
 
-> [Inequality and Inequity](<https://compossible.blog/2024/03/18/inequality-and-inequity/>)
+> [Inequality and Inequity](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/>)
 
 Everyone can see and feel that the current socio-economic system is structured to ensure the vast majority of people remain poor, or become even poorer, and so reduces the amount of energy available to grow our economies, improve people's everyday lives and encourage diverse economic activity. The relevant concept here is aggregate **freedom of action.** These inequality patterns are not fixed laws of nature – they emerge from the rules we’ve chosen and can be changed by choosing different rules.
 
-> [Free Will Or Freedom? - Part 1](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/>)
+> [Free Will Or Freedom? - Part 1](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/>)
 
 Philosophy, public policy and our democratic institutions must be aimed to help us get out of the box or bottle in which we are trapped. 
 
@@ -199,7 +199,7 @@ In short, on a Gini scale, the bell curve shape of our economies needs to be tra
 
 These far right racists and dis-compassionate narratives are pushed by those wielding extraordinary power, it is a necessary narrative fiction for them to generate and maintain our current unholy gamed system ("for God's sake don"t look up" / "punch down at every opportunity").
 
-> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
+> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
 
 ## The Cold Box Trap
 
@@ -286,13 +286,13 @@ Econophysics is not a call to throw away every tool in neoclassical economics. G
 It is also self-evidently true that people are not gas molecules, the value of the analogy and the statistical approach is in explaining distributions in aggregate, not individual behaviour, motives or value.  
 
 
-> [Harnessing AI For Public Policy](<https://compossible.blog/2025/10/07/harnessing-ai-for-public-good/>)
+> [Harnessing AI For Public Policy](<https://compossible.asym-intel.info/2025/10/07/harnessing-ai-for-public-good/>)
 
 ## The Common Critiques
 
 There are many critiques of this approach most of which can be grouped together.10 The footnote and [FAQs ](<https://peter-howitt-compossible.github.io/econophysics-wealth-dashboard/>)deal with some of these in more detail. Obviously many of these self-serving narratives pushed by those (and their bought political and media channels) that currently benefit the most from this broken system.
 
-> [The Power Playbook Of The Right](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/>)
+> [The Power Playbook Of The Right](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/>)
 
 ## Measuring Inequality
 
@@ -483,7 +483,7 @@ By implementing the three-pillar strategy (Sovereign Equity Fund, Universal Basi
 
 If you would like to spend more time surfing the seas of entropy (perhaps one of the most misunderstood concepts in physics) - please dive in:
 
-> [What is Entropy? – Part 1](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/>)
+> [What is Entropy? – Part 1](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/>)
 
 * * *
 

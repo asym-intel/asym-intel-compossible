@@ -12,36 +12,36 @@ wordpress_id: 2631
 
 This collection of thematic AI news sources is provided in the hope that people will better understand the plight of Palestinians and the ethical degradation of Israel and its Western allies. There must be a better vision for the future of Israelis and Palestinians. 
 
-It might be hard for readers to believe, based on the below, but I actually consider myself pro-Israel (in the [Gideon Levy](<https://www.haaretz.com/ty-WRITER/0000017f-da24-d249-ab7f-fbe4caac0000>) vein) and pro-Palestinian (and one day a free Palestine) - but not the terrorists leaders of Israel or in Gaza. If you read my '[Canto for David](<https://compossible.blog/2025/06/25/canto-for-david/>)', you can see my attempt to wrestle with god, godlessness and the recycling of suffering in the Israel-Palestine story and history.
+It might be hard for readers to believe, based on the below, but I actually consider myself pro-Israel (in the [Gideon Levy](<https://www.haaretz.com/ty-WRITER/0000017f-da24-d249-ab7f-fbe4caac0000>) vein) and pro-Palestinian (and one day a free Palestine) - but not the terrorists leaders of Israel or in Gaza. If you read my '[Canto for David](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/>)', you can see my attempt to wrestle with god, godlessness and the recycling of suffering in the Israel-Palestine story and history.
 
 **Contents**
 
-  1. [Greater Israel & the Long War on Palestinians](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#greater-israel-the-war-on-gaza-1>)
-  2. [Gaza Genocide and Ethnic Cleansing](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-genocide-and-ethnic-cleansing>)
-  3. [Life for Palestinians in Illegally Occupied Territories](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#life-for-palestinians-in-illegally-occupied-territorieschildren-killed-in-the-occupied-west-bank>)
-  4. [Children Killed in the Occupied West Bank](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#children-killed-in-the-occupied-west-bank>)
-  5. [The Unchilding Time - Palestinian Children Detained in Israeli Military Prisons](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#the-unchilding-time-palestinian-children-detained-in-israeli-military-prisons>)
-  6. [October 7th & Controversies](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#october-7th-controversies>)
-  7. [Israel-Palestine Asymmetric Info Wars](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#israel-palestine-asymmetric-info-wars>)
-  8. [BBC Bias in Palestinian Coverage](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#bbc-bias-in-palestinian-coverage>)
-  9. [IsraelI Leaders' Lies](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#scale-of-scholasticide-in-gaza>)
-  10. [Gaza Genocide - Murdering The Messenger](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-genocide-murdering-the-messenger>)
-  11. [Scale of Scholasticide in Gaza](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#scale-of-scholasticide-in-gaza>)
-  12. [ Israel's Use of Food & Starvation as a Method of Control And War](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#israel-s-use-of-food-starvation-as-a-method-of-control-and-war>)
-  13. [Gaza - Murder of Medics & The Destruction of Healthcare](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-murder-of-medics-the-destruction-of-healthcare>)
-  14. [Jeffrey Epstein Political Cover Up & Israeli Spy Allegations](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#jeffrey-epstein-political-cover-up-spy-allegationsusrael-is-israel-the-real-51st-state-of-the-usa>)
-  15. [Usrael: Is Israel The Real 51st State Of The USA?](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#usrael-is-israel-the-real-51st-state-of-the-usa>)
-  16. [Germany's Complicity in Genocide](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#germany-s-complicity-in-genocide>)
-  17. [Palestinian State Recognition as Leverage against Israel](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#palestinian-state-recognition-as-leverage-against-israel>)
-  18. [Cycles of suffering - Can Israelis Dream A New Non-Genocidal Dream That Includes Palestinians?](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#cycles-of-suffering-can-israelis-dream-a-new-non-genocidal-dream-that-includes-palestinians>)
-  19. [Gaza vs Ukraine - Deathly Double Standards](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-vs-ukraine-deathly-double-standards>)
-  20. [Never Again (Except for Palestinians)](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#never-again-except-for-palestinians>)
+  1. [Greater Israel & the Long War on Palestinians](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#greater-israel-the-war-on-gaza-1>)
+  2. [Gaza Genocide and Ethnic Cleansing](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-genocide-and-ethnic-cleansing>)
+  3. [Life for Palestinians in Illegally Occupied Territories](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#life-for-palestinians-in-illegally-occupied-territorieschildren-killed-in-the-occupied-west-bank>)
+  4. [Children Killed in the Occupied West Bank](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#children-killed-in-the-occupied-west-bank>)
+  5. [The Unchilding Time - Palestinian Children Detained in Israeli Military Prisons](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#the-unchilding-time-palestinian-children-detained-in-israeli-military-prisons>)
+  6. [October 7th & Controversies](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#october-7th-controversies>)
+  7. [Israel-Palestine Asymmetric Info Wars](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#israel-palestine-asymmetric-info-wars>)
+  8. [BBC Bias in Palestinian Coverage](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#bbc-bias-in-palestinian-coverage>)
+  9. [IsraelI Leaders' Lies](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#scale-of-scholasticide-in-gaza>)
+  10. [Gaza Genocide - Murdering The Messenger](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-genocide-murdering-the-messenger>)
+  11. [Scale of Scholasticide in Gaza](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#scale-of-scholasticide-in-gaza>)
+  12. [ Israel's Use of Food & Starvation as a Method of Control And War](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#israel-s-use-of-food-starvation-as-a-method-of-control-and-war>)
+  13. [Gaza - Murder of Medics & The Destruction of Healthcare](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-murder-of-medics-the-destruction-of-healthcare>)
+  14. [Jeffrey Epstein Political Cover Up & Israeli Spy Allegations](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#jeffrey-epstein-political-cover-up-spy-allegationsusrael-is-israel-the-real-51st-state-of-the-usa>)
+  15. [Usrael: Is Israel The Real 51st State Of The USA?](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#usrael-is-israel-the-real-51st-state-of-the-usa>)
+  16. [Germany's Complicity in Genocide](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#germany-s-complicity-in-genocide>)
+  17. [Palestinian State Recognition as Leverage against Israel](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#palestinian-state-recognition-as-leverage-against-israel>)
+  18. [Cycles of suffering - Can Israelis Dream A New Non-Genocidal Dream That Includes Palestinians?](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#cycles-of-suffering-can-israelis-dream-a-new-non-genocidal-dream-that-includes-palestinians>)
+  19. [Gaza vs Ukraine - Deathly Double Standards](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#gaza-vs-ukraine-deathly-double-standards>)
+  20. [Never Again (Except for Palestinians)](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#never-again-except-for-palestinians>)
 
 
 
 * * *
 
-I am aware that this collection focuses on the negative aspects of Israeli (and Western ally) actions. However, the need for 'balance' requires a counter-balance to the extraordinary scope, width and depth of [_Hasbara_ ](<https://compossible.blog/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#israel-palestine-asymmetric-info-wars>)operations conducted by Israel with the full force of Western allied support. Take what you are fed by your 'free press' and these sources together to start to form your own opinion.
+I am aware that this collection focuses on the negative aspects of Israeli (and Western ally) actions. However, the need for 'balance' requires a counter-balance to the extraordinary scope, width and depth of [_Hasbara_ ](<https://compossible.asym-intel.info/2025/08/15/greater-israel-and-the-ethnic-cleansing-genocide-of-palestinians/#israel-palestine-asymmetric-info-wars>)operations conducted by Israel with the full force of Western allied support. Take what you are fed by your 'free press' and these sources together to start to form your own opinion.
 
 ## Greater Israel & the Long War on Palestinians
 

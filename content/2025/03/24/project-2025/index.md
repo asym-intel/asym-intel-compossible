@@ -37,7 +37,7 @@ If you are looking for a good human drafted overview, prepared prior to Trump's 
 
 If you would like to read my human written companion piece, see:
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 AI podcast (based on most of the material used for my research on Project 2025):
 
@@ -47,15 +47,15 @@ A **Google notebooklm** with crucial sources that you can query is available [**
 
 **Table of contents**
 
-  1. [Project 2025 Key Pillars](<https://compossible.blog/2025/03/24/project-2025/#project-2025-key-pillars>)
-  2. [The Secrecy and Intent of the 180-Day Takeover Playbook](<https://compossible.blog/2025/03/24/project-2025/#the-secrecy-and-intent-of-the-180-day-takeover-playbook>)
-  3. [Who is funding the Authoritarian Takeover?](<https://compossible.blog/2025/03/24/project-2025/#who-is-funding-the-authoritarian-takeover>)
-  4. [Impact of Project 2025](<https://compossible.blog/2025/03/24/project-2025/#impact-of-project-2025>)
-  5. [Correlation Between Trump's Second Administration's Actions and Project 2025](<https://compossible.blog/2025/03/24/project-2025/#correlation-between-trump-s-second-administration-s-actions-and-project-2025>)
-  6. [International Dimensions and Geopolitics](<https://compossible.blog/2025/03/24/project-2025/#international-dimensions-and-geopolitics>)
-  7. [Conclusion: A Reshaping of American Governance](<https://compossible.blog/2025/03/24/project-2025/#conclusion-a-reshaping-of-american-governance>)
-  8. [Footnotes](<https://compossible.blog/2025/03/24/project-2025/#footnotes>)
-     1. [Project 2025 Update (the first 9 months)](<https://compossible.blog/2025/03/24/project-2025/#project-2025-update-the-first-9-months>)
+  1. [Project 2025 Key Pillars](<https://compossible.asym-intel.info/2025/03/24/project-2025/#project-2025-key-pillars>)
+  2. [The Secrecy and Intent of the 180-Day Takeover Playbook](<https://compossible.asym-intel.info/2025/03/24/project-2025/#the-secrecy-and-intent-of-the-180-day-takeover-playbook>)
+  3. [Who is funding the Authoritarian Takeover?](<https://compossible.asym-intel.info/2025/03/24/project-2025/#who-is-funding-the-authoritarian-takeover>)
+  4. [Impact of Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/#impact-of-project-2025>)
+  5. [Correlation Between Trump's Second Administration's Actions and Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/#correlation-between-trump-s-second-administration-s-actions-and-project-2025>)
+  6. [International Dimensions and Geopolitics](<https://compossible.asym-intel.info/2025/03/24/project-2025/#international-dimensions-and-geopolitics>)
+  7. [Conclusion: A Reshaping of American Governance](<https://compossible.asym-intel.info/2025/03/24/project-2025/#conclusion-a-reshaping-of-american-governance>)
+  8. [Footnotes](<https://compossible.asym-intel.info/2025/03/24/project-2025/#footnotes>)
+     1. [Project 2025 Update (the first 9 months)](<https://compossible.asym-intel.info/2025/03/24/project-2025/#project-2025-update-the-first-9-months>)
 
 
 
@@ -127,7 +127,7 @@ The funding of Donald Trump, the Republican Party, and Project 2025 represents a
 
 The concentration of wealth in political funding raises important questions about equity and influence. The role of less transparent funding mechanisms, such as "dark money" groups, presents challenges for public understanding and accountability. Some of the people and groups behind Project 2025 and the Heritage Foundation are also linked to the Atlas Network (a think tank of think tanks which sponsors 'free market' dominance of democratic systems, climate denial, changes in laws to punish environmental protestors and worse).
 
-> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.blog/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
+> [Atlas: A Burning Planet Earth Is On Its Head](<https://compossible.asym-intel.info/2025/03/31/atlas-a-burning-planet-earth-is-on-its-head/>)
 
 # **Impact of Project 2025**
 
@@ -303,4 +303,4 @@ The implementation of Project 2025's international agenda could have profound ge
 
 ## Project 2025 Update (the first 9 months)
 
-> [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
+> [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)

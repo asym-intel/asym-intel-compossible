@@ -12,7 +12,7 @@ wordpress_id: 4362
 
 In Part 1 we looked at how Musk takes all of the wrong lessons from the literary greats he apparently admires:
 
-> [Elon Musk - Part 1: The Crusader Behind The Mask?](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/>)
+> [Elon Musk - Part 1: The Crusader Behind The Mask?](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/>)
 
 In this Part 2, we will examine the integrity of Musk's views on free speech, and the engines of hate speech and disinformation he is developing. 
 
@@ -20,19 +20,19 @@ In this Part 2, we will examine the integrity of Musk's views on free speech, an
 > 
 > (George Orwell)
 
-  1. [Nature Abhors A Vacuum](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#nature-abhors-a-vacuum>)
-  2. [What is Free Speech?](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#what-is-free-speech>)
-  3. [Popper And The Paradox of Tolerance](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#popper-and-the-paradox-of-tolerance>)
-  4. [Privatisation Of The Town Square](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#privatisation-of-the-town-squaregrokipedia>)
-  5. [Grok & Grokipedia](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#grokipedia-1>)
-  6. [Pro-Russian Disinformation](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#pro-russiantechno-stalinism>)
-  7. [Techno-Stalinism](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#techno-stalinism>)
-  8. [A Dark Wizard](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#policing-the-perimeter>)
-  9. [Spotlight: Musk's attacks on democracy and law (UK)](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#spotlight-musk-s-attacks-on-democracy-and-law-uk>)
-  10. [The Power to Dominate by Hate](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#the-risks-of-a-confused-dark-wizard-ruling-the-world>)
-  11. [Policing the Perimeter](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#policing-the-perimeter>)
-  12. [European Regulatory Frameworks](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#european-regulatory-frameworks>)
-  13. [Footnotes](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#footnotes>)
+  1. [Nature Abhors A Vacuum](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#nature-abhors-a-vacuum>)
+  2. [What is Free Speech?](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#what-is-free-speech>)
+  3. [Popper And The Paradox of Tolerance](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#popper-and-the-paradox-of-tolerance>)
+  4. [Privatisation Of The Town Square](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#privatisation-of-the-town-squaregrokipedia>)
+  5. [Grok & Grokipedia](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#grokipedia-1>)
+  6. [Pro-Russian Disinformation](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#pro-russiantechno-stalinism>)
+  7. [Techno-Stalinism](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#techno-stalinism>)
+  8. [A Dark Wizard](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#policing-the-perimeter>)
+  9. [Spotlight: Musk's attacks on democracy and law (UK)](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#spotlight-musk-s-attacks-on-democracy-and-law-uk>)
+  10. [The Power to Dominate by Hate](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#the-risks-of-a-confused-dark-wizard-ruling-the-world>)
+  11. [Policing the Perimeter](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#policing-the-perimeter>)
+  12. [European Regulatory Frameworks](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#european-regulatory-frameworks>)
+  13. [Footnotes](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#footnotes>)
 
 
 
@@ -94,7 +94,7 @@ A coherent and stable system of **free speech requires _Compossibility_** __(tha
 
 > Our diverse views must be capable of co-existing and supporting the system that enables such views
 
-> [Towards a universal ethical framework](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/>)
+> [Towards a universal ethical framework](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/>)
 
 **" 1\. Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.  
 2\. The freedom and pluralism of the media shall be respected."**7
@@ -111,7 +111,7 @@ The paradox, formulated by Popper as a staunch defender of the open society, can
 
 Popper sought to establish that there must be necessary limits to tolerance and intolerant acts. As he noted, otherwise the intolerant will seize power and destroy the foundations of tolerance and freedom (which is exactly what we are seeing Musk, Trump, Orban, Netanyahu etc. doing). 
 
-Popper goes further than many, and I think beyond what is a reasonable threshold for restriction, when he claimed that any movement preaching intolerance places itself outside the law. That's why we need seriously considered and constructed limits on policing intolerant speech to avoid the same risks of narrow orthodoxy (see [Policing the Perimeter](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#policing-the-perimeter>) below).
+Popper goes further than many, and I think beyond what is a reasonable threshold for restriction, when he claimed that any movement preaching intolerance places itself outside the law. That's why we need seriously considered and constructed limits on policing intolerant speech to avoid the same risks of narrow orthodoxy (see [Policing the Perimeter](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/#policing-the-perimeter>) below).
 
 In the context of a digital town square or public forum, like X, the paradox of intolerance highlights the critical difference between: protecting diverse viewpoints, and actively platforming and personally and algorithmically amplifying messages that incite hatred, prejudice, and violence against protected groups. This also applies to censoring/ deplatforming/ suppressing voices of tolerance and those seeking to establish evidence based opinions. Musk is undeniably choosing to misuse his extraordinary power to reduce diversity of opinion and champion hate speech.
 
@@ -124,7 +124,7 @@ Popper was on the right track (with some modifications), the crucial questions a
 
 If not, your freedom may not be _Compossible_ with other people having the same freedom, and so it must be curtailed to the extent necessary to protect the integrity of diversity of opinion and freedom of action. **The astute reader will note that our current economic system miserably fails this test in respect of freedom (which requires a much fairer distribution of resources and influence than currently exist).**
 
-> [Inequality and Inequity](<https://compossible.blog/2024/03/18/inequality-and-inequity/>)
+> [Inequality and Inequity](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/>)
 
 ## Privatisation Of The Town Square
 
@@ -184,7 +184,7 @@ Musk's platform provides high-reach, "organic" amplification for Kremlin-aligned
 
 These state-backed operations have been observed actively spreading Musk's posts to further their shared goal of fracturing European consensus and eroding public trust in democratic institutions. Evidence of contempt (or even stronger feelings) for the EU and a desire for its destruction has been shown by all of these current leaders (and powerful people connected to their administrations) is trivially easy to find. In short, they would like to see the EU destroyed.
 
-> [New Axis Powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [New Axis Powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 ## Techno-Stalinism
 
@@ -224,7 +224,7 @@ German analysts noted that Musk’s platform activities form a dual front of dis
 
 Musk's support for far-right leaders is also driven by a strategy of political capture and regulatory avoidance to protect his corporate interests.22 This has been demonstrated by the reciprocal actions of leaders like Italy's Matteo Salvini, who actively advocated for Starlink contracts and pushed back against EU efforts to regulate content on X after receiving significant algorithmic amplification from Musk. This is part of a wider far-right plan of ensuring Europe is weak and vulnerable to continued predation.
 
-> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
+> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
 
 ## Spotlight: Musk's attacks on democracy and law (UK)
 
@@ -354,7 +354,7 @@ It's really not rocket science…
 
 _In Part 3 we will look at Musk 's Global Private Technology Empire (AI, Space X, Starlink satellites, Neuralink, robots, datacentres etc) and the risks it poses to Europe and the rest of the world_
 
-> [Elon Musk - Part 3: The Death Star](<https://compossible.blog/2025/11/15/elon-musk-part-3-the-death-star/>)
+> [Elon Musk - Part 3: The Death Star](<https://compossible.asym-intel.info/2025/11/15/elon-musk-part-3-the-death-star/>)
 
 * * *
 

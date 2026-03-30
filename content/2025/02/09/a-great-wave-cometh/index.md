@@ -22,27 +22,27 @@ There is a lot to take in below, so if you prefer your information in audio plea
 
 **Table of contents**
 
-  1. [Democracy Delayed](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#democracy-delayed>)
-  2. [Introduction - A Criminal Conspiracy](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#introduction-a-criminal-conspiracy>)
-  3. [Project 2025](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#project-2025>)
-  4. [What is fascism?](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#what-is-fascism>)
-  5. [The Gorge of Greed](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#the-gorge-of-greed>)
-  6. [Extremist Capitalists](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#extremist-capitalists>)
-  7. [Neo-Fascist Propaganda and Misinformation](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#neo-fascist-propaganda-and-misinformation>)
-  8. [All the wrong lessons from history](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#all-the-wrong-lessons-from-history>)
-  9. [The death of largely symbolic democracies](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#the-death-of-largely-symbolic-democracies>)
-  10. [Manifest Destiny](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#manifest-destiny>)
-  11. [Mirror, Mirror…](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#mirror-mirror>)
-  12. [A dangerous equilibrium](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#a-dangerous-equilibrium>)
-  13. [The parable of the poisoned arrow](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#the-parable-of-the-poisoned-arrow>)
-  14. [A wartime coalition of the willing](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#a-wartime-coalition-of-the-willing>)
-  15. [The Coming Crash](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#the-coming-crash>)
-  16. [Democracy is an attitude not an act (DANA) - It's Resistance Time](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#democracy-is-an-attitude-not-an-act-dana-it-s-resistance-time>)
-  17. [Love your neighbour](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#love-your-neighbour>)
-  18. [Pacifism vs non-violence](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#pacifism-vs-non-violence>)
-  19. [We are the flames](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#we-are-the-flames>)
-  20. [Give us courage](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#give-us-courage>)
-  21. [Footnotes](<https://compossible.blog/2025/02/09/a-great-wave-cometh/#footnotes>)
+  1. [Democracy Delayed](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#democracy-delayed>)
+  2. [Introduction - A Criminal Conspiracy](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#introduction-a-criminal-conspiracy>)
+  3. [Project 2025](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#project-2025>)
+  4. [What is fascism?](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#what-is-fascism>)
+  5. [The Gorge of Greed](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#the-gorge-of-greed>)
+  6. [Extremist Capitalists](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#extremist-capitalists>)
+  7. [Neo-Fascist Propaganda and Misinformation](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#neo-fascist-propaganda-and-misinformation>)
+  8. [All the wrong lessons from history](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#all-the-wrong-lessons-from-history>)
+  9. [The death of largely symbolic democracies](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#the-death-of-largely-symbolic-democracies>)
+  10. [Manifest Destiny](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#manifest-destiny>)
+  11. [Mirror, Mirror…](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#mirror-mirror>)
+  12. [A dangerous equilibrium](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#a-dangerous-equilibrium>)
+  13. [The parable of the poisoned arrow](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#the-parable-of-the-poisoned-arrow>)
+  14. [A wartime coalition of the willing](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#a-wartime-coalition-of-the-willing>)
+  15. [The Coming Crash](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#the-coming-crash>)
+  16. [Democracy is an attitude not an act (DANA) - It's Resistance Time](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#democracy-is-an-attitude-not-an-act-dana-it-s-resistance-time>)
+  17. [Love your neighbour](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#love-your-neighbour>)
+  18. [Pacifism vs non-violence](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#pacifism-vs-non-violence>)
+  19. [We are the flames](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#we-are-the-flames>)
+  20. [Give us courage](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#give-us-courage>)
+  21. [Footnotes](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/#footnotes>)
 
 
 
@@ -88,7 +88,7 @@ The playbook is also aimed at guaranteeing that the legal system will be shock-l
 
 [Meet the ideologue of the Post-Constitutional Right](<https://thomaszimmer.substack.com/p/meet-the-ideologue-of-the-post-constitutional>)
 
-> [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+> [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 ## What is fascism?
 
@@ -555,19 +555,19 @@ If it bothers you, substitute 'good' for 'god' in my article, as that is the sen
   8. Noam Chomsky on how the US has become a one-party business state with only one remaining faction, and how the Republican party became a radical insurgency — _[Chomsky.info](<https://chomsky.info/20131105/>)_ ↩︎
   9. Netanyahu's own words confirming his strategy of bolstering Hamas to keep Palestinians divided and prevent a Palestinian state — The Guardian ↩︎
   10. For Israelis, "from the river to the sea" is a lived reality and stated policy goal; for Palestinians, merely saying it is treated as a crime — _[Haaretz](<https://www.haaretz.com/israel-news/2025-02-13/ty-article/.premium/for-israelis-from-the-river-to-the-sea-is-a-reality-for-palestinians-its-a-crime/00000194-ff23-d1d7-a9d5-ff677aae0000>)_ ↩︎
-  11. '[Mantle](<https://compossible.blog/2025/06/25/canto-for-david/#mantle>)', a poem ↩︎
+  11. '[Mantle](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#mantle>)', a poem ↩︎
   12. Trump declares Palestinians have "no alternative" but to leave Gaza — The Guardian ↩︎
   13. Antony Loewenstein on how Israel has commercialised its methods of occupation and domination, exporting them as a model for ethnonationalist regimes worldwide — _[Logic Magazine](<https://logicmag.io/policy/the-genocide-industry-mowing-the-lawn/>)_ ↩︎
   14. 10 poems about Israel and Palestine ↩︎
   15. Gideon Levy in Haaretz: the war in Gaza has turned cruelty into a national virtue in Israeli society, marking the arrival of Israel's first fascist war — _[Haaretz](<https://www.haaretz.com/opinion/2025-01-19/ty-article-opinion/.premium/no-innocents-in-gaza-israels-first-fascist-war-designed-to-appease-the-far-right/00000194-7b1f-de1b-a9bd-7b5f5b450000>)_ ↩︎
   16. Nesrine Malik in The Guardian: Trump 2.0 is not a break from American tradition but its fullest expression — the cynical, transactional order finally unmasked — The Guardian ↩︎
-  17. '_[The Masters](<https://compossible.blog/2025/06/25/canto-for-david/#the-masters>)_ ', a poem. ↩︎
+  17. '_[The Masters](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#the-masters>)_ ', a poem. ↩︎
   18. UNAIDS data: since its creation in 2003, PEPFAR has saved more than 26 million lives across 55 countries — UNAIDS ↩︎
   19. The Kaiser Family Foundation tracks the status of Trump's foreign aid freeze and its devastating implications for PEPFAR and global health — [_KFF_](<https://www.kff.org/policy-watch/the-status-of-president-trumps-pause-of-foreign-aid-and-implications-for-pepfar-and-other-global-health-programs/>) ↩︎
   20. Epsilon Theory's [ _Fell on Black Days_ ](<https://www.epsilontheory.com/fell-on-black-days/>)— on the inevitable breakdown of a broken equilibrium and what comes next — Epsilon Theory ↩︎
   21. A documented record of the 25 women and a 13-year-old girl who have accused Trump of rape, harassment or assault — Wikipedia ↩︎
   22. Noam Chomsky: either ordinary people take control of their collective destiny, or there will be no destiny left for anyone to control — _[MIT](<https://mta.mit.edu/events/day-earth-stood-still>)_ ↩︎
-  23. [An essay on equitable rather than equal inequality ](<https://compossible.blog/2024/03/18/inequality-and-inequity/>)— the economic philosophy of useful and constrained inequality in service of human flourishing ↩︎
+  23. [An essay on equitable rather than equal inequality ](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/>)— the economic philosophy of useful and constrained inequality in service of human flourishing ↩︎
   24. The Buddhist parable of the poisoned arrow — the folly of demanding perfect information before acting to remove the thing that is killing you — Wikipedia ↩︎
   25. How Hitler vowed in open court in 1930 to destroy democracy through the democratic process — _[Time Magazine](<https://time.com/6971088/adolf-hitler-take-power-democracy/>)_ ↩︎
   26. Sarah Kendzior explains why Trump and his cohort have long planned to crash the economy and exploit the resulting chaos — _[Substack](<https://sarahkendzior.substack.com/p/your-questions-answered-trump-term>)_ ↩︎
@@ -575,4 +575,4 @@ If it bothers you, substitute 'good' for 'god' in my article, as that is the sen
   28. George Monbiot on the urgent need to build resilient mutual support structures in our local communities as the system deteriorates — Bluesky ↩︎
   29. Mary Oliver's  _Wild Geese_ — the poem reminding us that no matter how lonely or lost, we have a place in the family of things ↩︎
   30. Peter Howitt's Bluesky post referencing Malcolm X: to be moderate in the pursuit of justice for human beings is a sin — Bluesky ↩︎
-  31. '_[We Must Resist'](<https://compossible.blog/2025/02/02/we-must-resist/>)_, a poem. ↩︎
+  31. '_[We Must Resist'](<https://compossible.asym-intel.info/2025/02/02/we-must-resist/>)_, a poem. ↩︎

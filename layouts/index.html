@@ -30,9 +30,9 @@
       <h3 class="feed-card__title"><a href="{{ $post.RelPermalink }}">{{ .Title }}</a></h3>
 
       {{ with .Params.excerpt }}
-        <p class="feed-card__summary">{{ . | truncate 180 }}</p>
+        <p class="feed-card__summary">{{ . | truncate 200 }}…</p>
       {{ else }}
-        <p class="feed-card__summary">{{ .Summary | truncate 180 }}</p>
+        <p class="feed-card__summary">{{ .Summary }}…</p>
       {{ end }}
 
       <a class="feed-card__read-more" href="{{ $post.RelPermalink }}">Read →</a>

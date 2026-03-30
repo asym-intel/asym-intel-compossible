@@ -10,17 +10,17 @@ featured_image: "/images/uploads/2025/11/elon_musk_as_two_face.webp"
 wordpress_id: 2283
 ---
 
-1. [Introduction](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#introduction>)
-  2. [The Wizard Behind the Curtain?](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#the-wizard-behind-the-curtain>)
-  3. [Empathy or Moral Apathy](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#empathy-or-moral-apathy>)
-  4. [Misuse of Literary Heroes](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#misuse-of-literary-heroes>)
-     1. [Tolkien's Middle Earth](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#tolkien-s-middle-earth>)
-     2. [Banks & The Culture Novels](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#banks-the-culture-novels>)
-     3. [Dune & The Jihads](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#dune-the-jihads>)
-     4. [George Orwell's 1984](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#george-orwell-s-1984>)
-  5. [Techno-Villain Or Tragically Flawed Anti-Hero?](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#tragically-flawed-anti-heormasked-crusader-or-crusader-behind-a-mask>)
-  6. [Masked Crusader Or Crusader Behind A Mask?](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#masked-crusader-or-crusader-behind-a-mask>)
-  7. [Footnotes](<https://compossible.blog/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#footnotes>)
+1. [Introduction](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#introduction>)
+  2. [The Wizard Behind the Curtain?](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#the-wizard-behind-the-curtain>)
+  3. [Empathy or Moral Apathy](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#empathy-or-moral-apathy>)
+  4. [Misuse of Literary Heroes](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#misuse-of-literary-heroes>)
+     1. [Tolkien's Middle Earth](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#tolkien-s-middle-earth>)
+     2. [Banks & The Culture Novels](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#banks-the-culture-novels>)
+     3. [Dune & The Jihads](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#dune-the-jihads>)
+     4. [George Orwell's 1984](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#george-orwell-s-1984>)
+  5. [Techno-Villain Or Tragically Flawed Anti-Hero?](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#tragically-flawed-anti-heormasked-crusader-or-crusader-behind-a-mask>)
+  6. [Masked Crusader Or Crusader Behind A Mask?](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#masked-crusader-or-crusader-behind-a-mask>)
+  7. [Footnotes](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#footnotes>)
 
 
 
@@ -44,7 +44,7 @@ Yet, in just a few years he transitioned to being the greatest financial backer 
 
 If you would like an overview of what Trump and his friends are doing for the environment you can start here:
 
-> [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.blog/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
+> [Project 2025 & the Urgent Need for A Defence of American Democracy](<https://compossible.asym-intel.info/2025/10/15/project-2025-the-need-for-an-urgent-defence-of-american-democracy/>)
 
 > "Climate change risk is real, just much slower than alarmists claim."7
 > 
@@ -52,7 +52,7 @@ If you would like an overview of what Trump and his friends are doing for the en
 
 How do we make sense of Musk's seeming transition, over a short period of time, to becoming the greatest supporter, financial backer and senior administration person of a far right authoritarian regime led by Trump? A criminally corrupt and sexually abusive political leader in league with extraordinarily wealthy authoritarian climate deniers and funders of extremism, like the people behind the Atlas Network and the Heritage Foundation. Though, to be fair, the Republican Party itself has been an extremist organisation for a long time now: “'_a radical insurgency — ideologically extreme, scornful of facts and compromise, dismissive of the legitimacy of its political opposition ': a serious danger to the society._"(2013)8
 
-> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.blog/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
+> [The Overlapping Crises of Climate Change, Biodiversity Loss and Political Dishonesty](<https://compossible.asym-intel.info/2025/10/20/the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty/>)
 
 That's even leaving aside, for now, what appears to be a drug-fuelled _Sieg Heil_ whilst standing at the Presidential podium.
 
@@ -86,7 +86,7 @@ Whilst Musk has become increasingly right wing and authoritarian, some might arg
 > 
 > (**[Franklin D. Roosevelt](<https://www.presidency.ucsb.edu/documents/message-congress-curbing-monopolies>)****)**
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 We don't need to spend too much time debating what particular subspecies of neo-fascist Musk is. However, we should consider the obvious contradictions and complexity of some of his actions and statements – particularly when wondering aloud whether Musk might one day rediscover the true fire of humanity (the necessity of empathy), and of diversity (as the universal driving force of life) before the end of his days.
 
@@ -128,7 +128,7 @@ His daughter Vivian Jenna Wilson meanwhile has made it clear that Musk is no mor
 
 OK you get it, Musk is a deeply conflicted character.
 
-> [My God! You Lunatic!](<https://compossible.blog/2025/03/28/my-god-you-lunatic/>)
+> [My God! You Lunatic!](<https://compossible.asym-intel.info/2025/03/28/my-god-you-lunatic/>)
 
 ## Misuse of Literary Heroes
 
@@ -138,7 +138,7 @@ Musk does not simply misread some of our greatest foundational fictions, he is g
 
 Musk's personal and political actions and his role as a symbol of extreme wealth inequality — fundamentally pervert the spirit of the authors he claims to admire. His appropriation of literary heroes is not a homage to their ethical principles, but a strategic act of capture and control in an attempt to legitimise himself and his agenda. He is culture washing his sins.
 
-> [The Power Playbook Of The Right](<https://compossible.blog/2025/10/14/the-new-playbook-of-power/>)
+> [The Power Playbook Of The Right](<https://compossible.asym-intel.info/2025/10/14/the-new-playbook-of-power/>)
 
 ### Tolkien's Middle Earth
 
@@ -333,7 +333,7 @@ _Don 't you and I dear reader, also need such grace in our lives?_
 > Pray, pray for us sinners,  
 > Now and at the hour of our death…_“
 
-> [Why I Am An AI Optimist](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/>)
+> [Why I Am An AI Optimist](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/>)
 
 ## Masked Crusader Or Crusader Behind A Mask?
 
@@ -372,7 +372,7 @@ Depending on your perspective Musk is either the villain or the anti-hero our ti
 
 In Part 2 we will look at Musk as an alleged supporter of 'Free Speech' :
 
-> [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.blog/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
+> [Elon Musk - Part 2: The Limits of Free Speech & The Paradox of Tolerance](<https://compossible.asym-intel.info/2025/11/06/elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance/>)
 
 * * *
 

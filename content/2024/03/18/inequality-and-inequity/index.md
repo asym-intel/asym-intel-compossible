@@ -12,20 +12,20 @@ wordpress_id: 868
 
 **Table of contents**
 
-  1. [AI Podcast Version](<https://compossible.blog/2024/03/18/inequality-and-inequity/#ai-podcast-versionintroduction>)
-  2. [Introduction](<https://compossible.blog/2024/03/18/inequality-and-inequity/#introduction>)
-  3. [Economics and the Use of Resources](<https://compossible.blog/2024/03/18/inequality-and-inequity/#economics-and-the-use-of-resources>)
-  4. [The Global Financial Crisis (GFC)](<https://compossible.blog/2024/03/18/inequality-and-inequity/#the-global-financial-crisis-gfc>)
-  5. [Equality is not a useful aim](<https://compossible.blog/2024/03/18/inequality-and-inequity/#equality-is-not-a-useful-aim>)
-  6. [Freedom of action and inequality](<https://compossible.blog/2024/03/18/inequality-and-inequity/#freedom-of-action-and-inequality>)
-  7. [Thomas Piketty](<https://compossible.blog/2024/03/18/inequality-and-inequity/#thomas-piketty>)
-  8. [Useful vs Inefficient Inequalities](<https://compossible.blog/2024/03/18/inequality-and-inequity/#useful-vs-inefficient-inequalities>)
-  9. [The Physics of Freedom](<https://compossible.blog/2024/03/18/inequality-and-inequity/#the-physics-of-freedom>)
-     1. [The Optimal Equality Target: 0.5 (Gini 0.5)](<https://compossible.blog/2024/03/18/inequality-and-inequity/#the-optimal-equality-target-0-5-gini-0-5>)
-     2. [The Life-Time Analogy](<https://compossible.blog/2024/03/18/inequality-and-inequity/#the-life-time-analogy>)
-  10. [Participatory democracy](<https://compossible.blog/2024/03/18/inequality-and-inequity/#participatory-democracy>)
-  11. [Further reading](<https://compossible.blog/2024/03/18/inequality-and-inequity/#further-reading>)
-  12. [Footnotes](<https://compossible.blog/2024/03/18/inequality-and-inequity/#footnotes>)
+  1. [AI Podcast Version](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#ai-podcast-versionintroduction>)
+  2. [Introduction](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#introduction>)
+  3. [Economics and the Use of Resources](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#economics-and-the-use-of-resources>)
+  4. [The Global Financial Crisis (GFC)](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#the-global-financial-crisis-gfc>)
+  5. [Equality is not a useful aim](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#equality-is-not-a-useful-aim>)
+  6. [Freedom of action and inequality](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#freedom-of-action-and-inequality>)
+  7. [Thomas Piketty](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#thomas-piketty>)
+  8. [Useful vs Inefficient Inequalities](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#useful-vs-inefficient-inequalities>)
+  9. [The Physics of Freedom](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#the-physics-of-freedom>)
+     1. [The Optimal Equality Target: 0.5 (Gini 0.5)](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#the-optimal-equality-target-0-5-gini-0-5>)
+     2. [The Life-Time Analogy](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#the-life-time-analogy>)
+  10. [Participatory democracy](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#participatory-democracy>)
+  11. [Further reading](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#further-reading>)
+  12. [Footnotes](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#footnotes>)
 
 
 

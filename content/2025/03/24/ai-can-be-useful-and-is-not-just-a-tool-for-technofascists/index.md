@@ -20,26 +20,26 @@ Actual real art is being made using AI by people like Refik Anadol:
 
 **Table of contents**
 
-  1. [Introduction](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#introduction>)
-  2. [Will Europe Benefit From A US Brain Drain?](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#will-europe-benefit-from-a-us-brain-drain>)
-  3. [AI as a Force for Good: Resisting Authoritarianism and Countering Technofascism](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-as-a-force-for-good-resisting-authoritarianism-and-countering-technofascism>)
-  4. [Misuse of AI by Authoritarian Regimes ](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#misuse-of-ai-by-authoritarian-regimes>)
-  5. [AI for Censorship](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-for-censorship>)
-  6. [Deepfakes, Misinformation & Disinformation](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#deepfakes-misinformation-disinformation>)
-  7. [Technofascism](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#technofascism>)
-  8. [AI as a tool for resistance](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-as-a-tool-for-resistance>)
-  9. [Encrypted communications](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#encrypted-communications>)
-  10. [AI platforms to evade geo-restrictions & use of VPNs](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-platforms-to-evade-geo-restrictions-use-of-vpns>)
-  11. [Natural Language Search and Summaries](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#natural-language-search-and-summaries>)
-  12. [Deep Research](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#deep-research>)
-  13. [Conclusion](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#conclusion>)
-  14. [Works cited](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#works-cited>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#introduction>)
+  2. [Will Europe Benefit From A US Brain Drain?](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#will-europe-benefit-from-a-us-brain-drain>)
+  3. [AI as a Force for Good: Resisting Authoritarianism and Countering Technofascism](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-as-a-force-for-good-resisting-authoritarianism-and-countering-technofascism>)
+  4. [Misuse of AI by Authoritarian Regimes ](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#misuse-of-ai-by-authoritarian-regimes>)
+  5. [AI for Censorship](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-for-censorship>)
+  6. [Deepfakes, Misinformation & Disinformation](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#deepfakes-misinformation-disinformation>)
+  7. [Technofascism](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#technofascism>)
+  8. [AI as a tool for resistance](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-as-a-tool-for-resistance>)
+  9. [Encrypted communications](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#encrypted-communications>)
+  10. [AI platforms to evade geo-restrictions & use of VPNs](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#ai-platforms-to-evade-geo-restrictions-use-of-vpns>)
+  11. [Natural Language Search and Summaries](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#natural-language-search-and-summaries>)
+  12. [Deep Research](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#deep-research>)
+  13. [Conclusion](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#conclusion>)
+  14. [Works cited](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#works-cited>)
 
 
 
 # Introduction
 
-Other than this introduction and the section below on the coming [US Brain Drain](<https://compossible.blog/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#will-europe-benefit-from-a-us-brain-drain>), this article was prepared entirely by AI (Gemini Deep Research) without any edits by me. For an example of how these Reports look when they are created and their depth of research see:
+Other than this introduction and the section below on the coming [US Brain Drain](<https://compossible.asym-intel.info/2025/03/24/ai-can-be-useful-and-is-not-just-a-tool-for-technofascists/#will-europe-benefit-from-a-us-brain-drain>), this article was prepared entirely by AI (Gemini Deep Research) without any edits by me. For an example of how these Reports look when they are created and their depth of research see:
 
   * [European foreign policy towards China](<https://docs.google.com/document/d/e/2PACX-1vQppoexj8u-Qb_yo4Sqg7qa8470Hg5uVBb_Ox7YMIT0VTU-MCbY5RIpzQeJYojOB7X7gVPuBsOEsrp3/pub>);
   * on [the appalling treatment of Palestinian children in the Israeli military justice system prior to October 07 2023](<https://docs.google.com/document/d/e/2PACX-1vTymZRi5wYQQewKYNVh8lQ25aEsh-wB0sMYrE-NtKxt2md_Iq84Oft0NRV4I-yQUQE_r9u6jbnh3PSi/pub>); and
@@ -85,7 +85,7 @@ Data sharing for intelligence agencies and businesses between the EU/UK and the 
 
 We are beginning to see socially conscious American technology firms take a stand against the Trump administration's attack on immigrants and vulnerable people, these firms will likely need to leave American soon.11
 
-> [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+> [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 Anyway, I hope this is helpful to give you ideas of how AI can be used in your research projects, for citizen journalism or for citizen support groups you may be involved in.
 

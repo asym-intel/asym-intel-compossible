@@ -14,22 +14,22 @@ Russia, Israel, the USA and the far-right in Europe
 
 ![](/images/uploads/2025/03/axis-3.png)
 
-  1. [Introduction](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#introduction>)
-  2. [A new Axis powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#a-new-axis-powers>)
-  3. [United Nations vote](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#united-nations-vote>)
-  4. [What is the European far-right?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#what-is-the-european-far-right>)
-  5. [What drives this rise of extremism?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#what-drives-this-rise-of-extremism>)
-  6. [The rise of the hard/far-right](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#the-rise-of-the-hard-far-right>)
-  7. [Israel: Likud, Kahanism & the rise of a fascist state](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#israel-likud-kahanism-the-rise-of-a-fascist-state>)
-  8. [Israel and Europe](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#israel-and-europe>)
-  9. [Trump, MAGA & Russia](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#maga-russiarussia-s-involvement>)
-  10. [Russia's involvement in Europe](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#russia-s-involvement-in-europe>)
-  11. [Hungary: a key node](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#hungary-a-key-node>)
-  12. [America's influence](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#america-s-influence>)
-  13. [The UK (and Brexit)](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#the-uk-and-brexit>)
-  14. [An alliance of cannibals](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#an-alliance-of-cannibals>)
-  15. [Empathy ](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#empathy>)
-  16. [Footnotes](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/#footnotes>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#introduction>)
+  2. [A new Axis powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#a-new-axis-powers>)
+  3. [United Nations vote](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#united-nations-vote>)
+  4. [What is the European far-right?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#what-is-the-european-far-right>)
+  5. [What drives this rise of extremism?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#what-drives-this-rise-of-extremism>)
+  6. [The rise of the hard/far-right](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#the-rise-of-the-hard-far-right>)
+  7. [Israel: Likud, Kahanism & the rise of a fascist state](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#israel-likud-kahanism-the-rise-of-a-fascist-state>)
+  8. [Israel and Europe](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#israel-and-europe>)
+  9. [Trump, MAGA & Russia](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#maga-russiarussia-s-involvement>)
+  10. [Russia's involvement in Europe](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#russia-s-involvement-in-europe>)
+  11. [Hungary: a key node](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#hungary-a-key-node>)
+  12. [America's influence](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#america-s-influence>)
+  13. [The UK (and Brexit)](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#the-uk-and-brexit>)
+  14. [An alliance of cannibals](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#an-alliance-of-cannibals>)
+  15. [Empathy ](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#empathy>)
+  16. [Footnotes](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/#footnotes>)
 
 
 
@@ -67,7 +67,7 @@ The USA and Israel obviously are coordinated powers (indeed at risk of belabouri
 
 China and Russia also have a well-known economic and strategic alliance. However, I believe, in respect of its European strategy, China is largely being geopolitically careful given the stupidity of Europe and the lack of options:
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 That said, as yet, we have no smoking gun that joins up all the new Axis powers dots, nor do we have a formal declaration (nor should we expect one).
 
@@ -193,7 +193,7 @@ In an overly technocratic, democratically distant and rarely honest liberal poli
 
 Ah, the old game of divide and conquer, there's nothing like it…
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 ## The rise of the hard/far-right
 
@@ -321,7 +321,7 @@ I am very clear where I stand on Israel. I support Israel, but the Kahanists and
 > 
 > _Or I am a Jew._ "
 > 
-> ([Chutzpah](<https://compossible.blog/2025/06/25/canto-for-david/#chutzpah>))
+> ([Chutzpah](<https://compossible.asym-intel.info/2025/06/25/canto-for-david/#chutzpah>))
 
 ## Israel and Europe
 
@@ -375,7 +375,7 @@ We ask the same question every day in the UK. Only in our sick world could this 
 
 In addition, when Europeans change the choice of tribe that can be the new vilified 'other' that is not a valid response to Nazism and the Holocaust. A radical proposition perhaps, but still one worth considering in the dark hours of the night (when the angel pays us a visit).
 
-> [Moloch for the Minotaur](<https://compossible.blog/2025/03/09/moloch/>)
+> [Moloch for the Minotaur](<https://compossible.asym-intel.info/2025/03/09/moloch/>)
 
 ## Trump, MAGA & Russia
 
@@ -403,7 +403,7 @@ The Special Counsel investigation led by Robert Mueller concluded that Russian i
 
 Trump's actions in his second term have been met with approval from Putin's government. Trump has falsely blamed Ukraine for Russia’s 2022 invasion and labeled Ukrainian President Volodymyr Zelenskyy a "dictator" . Trump's administration cut military aid to Ukraine and began working with Russia on ceasefire terms . It was reported that the US administration attempted to extort Ukraine for partial U.S. control of its rare mineral rights.
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 **Media and Disinformation**
 
@@ -487,9 +487,9 @@ They [openly sponsor destruction of the EU](<https://foreignpolicy.com/2025/03/2
 
 > "A significant portion of the funding for Project 2025 comes from a small network of billionaire family fortunes. The **Bradley, Coors, Koch, Scaife, Seid, and Uihlein families** have contributed over $120 million to organizations involved in Project 2025." 
 > 
-> ([Project 2025](<https://compossible.blog/2025/03/24/project-2025/>))
+> ([Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>))
 
-> [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+> [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 American influence is also obvious in the stranglehold it has over European foreign policy. I would like to think this largely derives from our reliance on American weaponry to defend ourselves, rather than a common interest in the destruction of other peoples.
 
@@ -555,7 +555,7 @@ Leaked documents reveal instances of collaboration between a pro-Israel UK legal
 
 Like Europe, the UK is effectively a client state of America. 
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 Like Europe, the UK also suffers from the pernicious influence of Elon Musk's X platform which spreads and amplifies lies and misinformation, hate speech and frequently attacks the UK State and democracy.
 
@@ -601,11 +601,11 @@ Until then, resist the fascists with every fibre of your being in every way you 
 
 We must resist.
 
-> [We Must Resist](<https://compossible.blog/2025/02/02/we-must-resist/>)
+> [We Must Resist](<https://compossible.asym-intel.info/2025/02/02/we-must-resist/>)
 
 See also:
 
-> [THE SHADOW FIMI OSINT REPORT:](<https://compossible.blog/2026/03/17/the-shadow-fimi-osint-report/>)
+> [THE SHADOW FIMI OSINT REPORT:](<https://compossible.asym-intel.info/2026/03/17/the-shadow-fimi-osint-report/>)
 
 * * *
 
@@ -670,7 +670,7 @@ By [Masha Gessen](<https://www.newyorker.com/contributors/masha-gessen>), The Ne
   56. [Hungarian-funded NGO to host hate groups, international politicians at New York summit, SPL Center](<https://www.splcenter.org/resources/hate-watch/hungarian-funded-ngo-host-hate-groups-international-politicians-new-york-summit/>) ↩︎
   57. Sarah Kendzior on Trump as the American synthesis of Netanyahu and Putin — gutting institutions, rewriting law, and governing with formerly designated terrorists,[ Kendzior](<https://sarahkendzior.substack.com/p/just-answering-many-questions>) ↩︎
   58. For more on just some of the known links between energy companies, billionaires and Project 2025, see this [Perplexity Deep Research Report](<https://www.perplexity.ai/search/what-funding-organisational-or-fYXXi879RU6LVqDANzln_w>) - which you can use as a launch pad for further research. ↩︎
-  59. [Project 2025, Compossible](<https://compossible.blog/2025/03/24/project-2025/>) ↩︎
+  59. [Project 2025, Compossible](<https://compossible.asym-intel.info/2025/03/24/project-2025/>) ↩︎
   60. [This Is the Europe Dwight Eisenhower Wanted, Foreign Policy](<https://foreignpolicy.com/2025/03/24/europe-united-trump-dwight-eisenhower-america-wanted/?tpcc=editors_picks&utm_source=Sailthru&utm_medium=email&utm_campaign=Editors%20Picks%2003242025&utm_term=editors_picks>) ↩︎
   61. [Atlas Network (Atlas Economic Research Foundation), Desmog](<https://www.desmog.com/atlas-economic-research-foundation/>) ↩︎
   62. [The Koch-funded Atlas Network is also targeting Europe](<https://multinationales.org/en/investigations/the-atlas-network-france-and-the-eu/>) ↩︎

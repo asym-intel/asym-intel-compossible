@@ -12,13 +12,13 @@ wordpress_id: 6324
 
 * * *
 
-  1. [Free Will](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#h-free-will>)
-  2. [Freedom of Action](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#h-freedom-of-action>)
-  3. [Degrees of freedom](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#h-degrees-of-freedom>)
-  4. [The Twin Thought Experiment](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#h-the-twin-thought-experiment>)
-  5. [Measuring freedom of action in writing](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#h-measuring-freedom-of-action-in-writing>)
-  6. [Measurable unusualness](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#h-measurable-unusualness>)
-  7. [Footnotes](<https://compossible.blog/2024/04/09/free-will-or-freedom-part-1/#footnotes>)
+  1. [Free Will](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#h-free-will>)
+  2. [Freedom of Action](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#h-freedom-of-action>)
+  3. [Degrees of freedom](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#h-degrees-of-freedom>)
+  4. [The Twin Thought Experiment](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#h-the-twin-thought-experiment>)
+  5. [Measuring freedom of action in writing](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#h-measuring-freedom-of-action-in-writing>)
+  6. [Measurable unusualness](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#h-measurable-unusualness>)
+  7. [Footnotes](<https://compossible.asym-intel.info/2024/04/09/free-will-or-freedom-part-1/#footnotes>)
 
 
 
@@ -37,7 +37,7 @@ In addition to showing us the equivalence of energy and matter, we have the grea
 
 Time is not a universal independent thing that exists and that we measure with a clock. Entropy is relevant to the question of the unusualness and usefulness of life and the changing nature of energy and matter. This movement of energy and matter is also what gives us the feeling of the flow of time.
 
-> [What is Entropy? – Part 1](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/>)
+> [What is Entropy? – Part 1](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/>)
 
 You might wonder when I am going to start this article on freedom to will. I have. I have exercised my freedom to start it by talking about other things. The previous sentence was less flippant than it might first appear.
 
@@ -273,7 +273,7 @@ That means it is entirely deterministic [24] in principle as to where any molecu
 
 * * *
 
-> [Freewill Or Freedom – Part 2](<https://compossible.blog/2024/04/09/freewill-or-freedom-part-2/>)
+> [Freewill Or Freedom – Part 2](<https://compossible.asym-intel.info/2024/04/09/freewill-or-freedom-part-2/>)
 
 [](<https://paragraph.xyz/@compossible/freewill-or-freedom-a-fragile-living-skin>)
 

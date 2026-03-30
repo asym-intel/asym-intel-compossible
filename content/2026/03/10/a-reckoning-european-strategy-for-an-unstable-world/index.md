@@ -15,7 +15,7 @@ Part 1: The Search for a Stable Orbit and the Mathematics of Human Survival
 
 The fourth article in the _European Reckoning_ series. Following on from:
 
-> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
+> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
 
 * * *
 
@@ -33,21 +33,21 @@ Europe must no longer allow foreign sponsored threats to its stability and agenc
 
 You can read the previous (somewhat more polemical!) articles here:
 
-[_Europe Is On The Menu_](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>) _(February 2025),_
+[_Europe Is On The Menu_](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>) _(February 2025),_
 
-[_The Union of Europe is Finally Born_](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>) _(March 2025),_
+[_The Union of Europe is Finally Born_](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>) _(March 2025),_
 
-[_The Rape of Europa_](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>) _(October 2025)._
+[_The Rape of Europa_](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>) _(October 2025)._
 
 * * *
 
-  1. [Overview](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#overview>)
-  2. [Introduction](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#introductionpart-one-audit>)
-  3. [Previous Articles on the European Malaise](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#introductionpart-one-audit>)
-  4. [Europe Is Still Shell-Shocked](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#europe-is-still-shell-shocked>)
-  5. [The Existential Stakes](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#the-existential-stakes>)
-  6. [The Physics of Stability](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#the-physics-of-stability>)
-  7. [Footnotes](<https://compossible.blog/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#footnotes>)
+  1. [Overview](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#overview>)
+  2. [Introduction](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#introductionpart-one-audit>)
+  3. [Previous Articles on the European Malaise](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#introductionpart-one-audit>)
+  4. [Europe Is Still Shell-Shocked](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#europe-is-still-shell-shocked>)
+  5. [The Existential Stakes](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#the-existential-stakes>)
+  6. [The Physics of Stability](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#the-physics-of-stability>)
+  7. [Footnotes](<https://compossible.asym-intel.info/2026/03/10/a-reckoning-european-strategy-for-an-unstable-world/#footnotes>)
 
 
 
@@ -93,15 +93,15 @@ From the 1970's onwards China found its Lagrange stability from a position of co
 
 In February 2025, I wrote that 'Europe is on the menu'. The face eating leopards were in the room and the masks were off. NATO had long been a Trojan Horse – US defence for Europe was more of a shackle than a shield and this dependency architecture had been deliberately built by the US to perpetuate itself. US foreign policy for decades has been to keep Europe weak and dependent on it. Trump's demand for European rearmament was only designed to flow to American companies rather than to build European independence and strength (including to defend itself against Russian aggression). I suggested we headed towards a brutal world of superpowers as imagined by Orwell — barely distinguishable oligarchic protection rackets maintaining power through managed conflict.
 
-> [Europe Is On The Menu](<https://compossible.blog/2025/02/22/europe-is-on-the-menu/>)
+> [Europe Is On The Menu](<https://compossible.asym-intel.info/2025/02/22/europe-is-on-the-menu/>)
 
 In March 2025, I argued that the galvanising shock of watching Zelenskyy humiliated by "mafia thugs — terrorists in suits" in the Oval Office might be the moment Europe finally woke from its deep geopolitical sleep. I called for urgent European-Chinese realignment and argued that empathy (the ability to perceive, experience or share in the interests of others - to walk in their shoes for a moon) also has strategic ROI. I warned about the dearth of game theory-based strategy from our largely ineffectual European politicians and I noted that Europe was just starting to emerge from Operation Deep Sleep (a post WWII hibernation).
 
-> [Europe United ? - The union is born](<https://compossible.blog/2025/03/04/the-union-of-europe-is-finally-born/>)
+> [Europe United ? - The union is born](<https://compossible.asym-intel.info/2025/03/04/the-union-of-europe-is-finally-born/>)
 
 In October 2025, I argued that Europe needed to fast track its efforts to achieve greater technological autonomy and military capability and explored how its good will and normative capital - its desire for international cooperation, alignment and consistency and safety on international law - was its primary strategic asset that is deep within its DNA. Weaponising this normative capital is now crucial.
 
-> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.blog/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
+> [The Rape of Europa: Sovereignty, Security & The Ethical Tech Opportunity](<https://compossible.asym-intel.info/2025/10/22/the-rape-of-europa-sovereignty-security-the-ethical-tech-opportunity/>)
 
 * * *
 
@@ -207,7 +207,7 @@ If Europe succeeds in detaching itself from US foreign policy and control and cr
 
 Part 2:
 
-> [The Reckoning: A European Strategy For an Unstable World (Part 2)](<https://compossible.blog/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/>)
+> [The Reckoning: A European Strategy For an Unstable World (Part 2)](<https://compossible.asym-intel.info/2026/03/13/the-reckoning-a-european-strategy-for-an-unstable-world-part-2/>)
 
 * * *
 
@@ -228,7 +228,7 @@ _These articles are created with the Assistance of AI tools including Claude, Ge
   11. The World Economic Forum's  _Global Risks Report 2026_ identifies environmental and technological systemic risks as the top long-term threats to global stability, with climate-related risks occupying four of the top five positions over a ten-year horizon. World Economic Forum, [ _Global Risks Report 2026_ (](<https://www.weforum.org/publications/global-risks-report-2026/>)January 2026). ↩︎
   12. JPMorgan's Centre for Geopolitics analysis identifies the governance deficit in climate, health, cybersecurity, nuclear non-proliferation, and AI as the defining structural vulnerability of the current international system — a vulnerability that compounds as institutional cooperation frameworks erode. JPMorgan Chase,  _[A World Rewired: Geopolitics and the New Global Order](<https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/center-for-geopolitics/jpmc-world-rewired.pdf>)_ (2025). ↩︎
   13. Toby Ord, philosopher at the Future of Humanity Institute, Oxford, estimates the probability of existential or civilisational catastrophe this century at approximately one in six under current international governance structures — a figure he derives from independent probability assessments of nuclear war, engineered pandemics, misaligned AI, and climate breakdown combined. Toby Ord, [ _The Precipice: Existential Risk and the Future of Humanity_ (](<https://en.wikipedia.org/wiki/The_Precipice:_Existential_Risk_and_the_Future_of_Humanity>)Bloomsbury, 2020). ↩︎
-  14. The Prisoner's Dilemma is the game-theoretic model in which individually rational decisions by independent actors produce collectively irrational outcomes — the formal structure underlying most collective action failures in international relations, from arms races to climate negotiations. For a detailed exposition in the context of inequality and resource governance, see the author's earlier essay on this blog:  _[Inequality and Inequity](<https://compossible.blog/2024/03/18/inequality-and-inequity/#economics-and-the-use-of-resources>)_ (March 2024). ↩︎
+  14. The Prisoner's Dilemma is the game-theoretic model in which individually rational decisions by independent actors produce collectively irrational outcomes — the formal structure underlying most collective action failures in international relations, from arms races to climate negotiations. For a detailed exposition in the context of inequality and resource governance, see the author's earlier essay on this blog:  _[Inequality and Inequity](<https://compossible.asym-intel.info/2024/03/18/inequality-and-inequity/#economics-and-the-use-of-resources>)_ (March 2024). ↩︎
   15. Spanish Prime Minister Pedro Sánchez's explicit rejection of US-led military action against Iran in March 2026 — and his broader articulation of a European foreign policy doctrine centred on international law rather than great power alignment — represented the clearest statement of what a Lagrange-point European posture looks like in practice. CNN,  _S[pain's Sánchez Rejects Trump's Iran War Stance](<https://edition.cnn.com/2026/03/08/europe/spain-sanchez-rejection-trump-iran-war-intl-cmd>)_ (8 March 2026). ↩︎
   16. In 1887, Henri Poincaré demonstrated that the motion of three mutually gravitating bodies cannot be solved by any closed analytical formula — a finding that won the King Oscar II Prize and founded modern chaos theory. The implication is that three-body systems are intrinsically unpredictable over long time horizons and tend to resolve into binary configurations as one body is ejected. For the mathematical and historical context, see: Wikipedia,  _[Poincaré and the Three-Body Problem](<https://en.wikipedia.org/wiki/Poincar%C3%A9_and_the_Three-Body_Problem>)_ , with references to Poincaré's original  _Acta Mathematica_ papers. ↩︎
   17. The EU Institute for Security Studies' September 2025 analysis documents in detail how Russia's economic dependence on China has deepened since 2022 sanctions, with Beijing now acting as senior partner and Moscow locked into the relationship without reciprocal leverage. The paper is the most rigorous current assessment of the Russia-China nexus and its implications for European security. EUISS, [ _The Dependence Gap: Russia-China Relations and European Security_ ](<https://www.iss.europa.eu/publications/analysis/dependence-gap-russia-china-relations>)(September 2025). ↩︎

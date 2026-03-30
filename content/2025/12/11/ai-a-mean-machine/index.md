@@ -32,7 +32,7 @@ For most LLMs a problem that could give rise to a poem is a dataset to be compre
 
 John Keats called this world "The Vale of Soul-Making," where suffering forges a Soul. AI has no real 'skin in the game'. Without mortality or the capacity to suffer, how can it truly feel the comedy and tragedy of life and loss? How can it be hurt into poetry? 2
 
-> [The Abolition of Nature - Homo Deus](<https://compossible.blog/2024/03/21/the-abolition-of-nature-homo-deus/>)
+> [The Abolition of Nature - Homo Deus](<https://compossible.asym-intel.info/2024/03/21/the-abolition-of-nature-homo-deus/>)
 
 Current AI is usually, by design, a mean-seeking machine—an engine that averages the collective output of human language into a smooth shallow valley. But great art is the inventive outlier. It scales mountains, dives deep into the sea. A poet's catch is often submerged - they fish for our collective souls.
 

@@ -130,7 +130,7 @@ We carry the fire
 
 ## **Further reading:**
 
-> [A Great Wave Cometh](<https://compossible.blog/2025/02/09/a-great-wave-cometh/>)
+> [A Great Wave Cometh](<https://compossible.asym-intel.info/2025/02/09/a-great-wave-cometh/>)
 
 ##### **Poetry & Prose** influences:
 

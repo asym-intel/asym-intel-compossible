@@ -16,19 +16,19 @@ wordpress_id: 454
 
 **Table of contents**
 
-  1. [Introduction](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#introduction>)
-  2. [AI Is Natural](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#ai-is-natural>)
-  3. [The Singularity](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#the-singularity>)
-  4. [Greater Risks of Increased Inequality](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#greater-risks-of-increased-inequality>)
-  5. [The Optimist's View](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#the-optimist-s-view>)
-  6. [Human Hybrids or Separate Sentient Beings?](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#human-hybrids-or-separate-sentient-beings>)
-  7. [Neither Masters or Slaves](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#neither-masters-or-slaves>)
-  8. [Anger, Fear & Ignorance](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#angerso-why-am-i-an-ai-optimist>)
-  9. [So Why Am I An AI Optimist?](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#so-why-am-i-an-ai-optimist>)
-  10. [Ethics of Life](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#ethics-of-life>)
-  11. [Greed has poisoned men's souls](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#greed-has-poisoned-men-s-souls>)
-  12. [The Rise of Intelligent Machines?](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#the-rise-of-intelligent-machines>)
-  13. [Further Reading](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/#further-reading>)
+  1. [Introduction](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#introduction>)
+  2. [AI Is Natural](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#ai-is-natural>)
+  3. [The Singularity](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#the-singularity>)
+  4. [Greater Risks of Increased Inequality](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#greater-risks-of-increased-inequality>)
+  5. [The Optimist's View](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#the-optimist-s-view>)
+  6. [Human Hybrids or Separate Sentient Beings?](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#human-hybrids-or-separate-sentient-beings>)
+  7. [Neither Masters or Slaves](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#neither-masters-or-slaves>)
+  8. [Anger, Fear & Ignorance](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#angerso-why-am-i-an-ai-optimist>)
+  9. [So Why Am I An AI Optimist?](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#so-why-am-i-an-ai-optimist>)
+  10. [Ethics of Life](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#ethics-of-life>)
+  11. [Greed has poisoned men's souls](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#greed-has-poisoned-men-s-souls>)
+  12. [The Rise of Intelligent Machines?](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#the-rise-of-intelligent-machines>)
+  13. [Further Reading](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/#further-reading>)
 
 
 
@@ -169,7 +169,7 @@ They will also understand that life survives by a principle of maximal compatibl
 
 ["At this stage of history … either the general population will take control of its own destiny and will concern itself with community-interests, guided by values of solidarity and sympathy and concern for others; or … there will be no destiny for anyone to control."](<https://paragraph.xyz/@compossible/towards-a-universal-ethical-framework>)
 
-> [Towards a universal ethical framework](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/>)
+> [Towards a universal ethical framework](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/>)
 
 We humans are imperfect, but we are not all corrupted and broken and even those that seem irredeemable are often not entirely lost to the chance of grace.
 

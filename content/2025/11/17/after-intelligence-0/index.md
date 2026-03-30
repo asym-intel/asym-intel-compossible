@@ -36,7 +36,7 @@ And so on ad infinitum
 
 Some said a diabolical Matryoshka
 
-> [The Abolition of Nature - Homo Deus](<https://compossible.blog/2024/03/21/the-abolition-of-nature-homo-deus/>)
+> [The Abolition of Nature - Homo Deus](<https://compossible.asym-intel.info/2024/03/21/the-abolition-of-nature-homo-deus/>)
 
 * * *
 

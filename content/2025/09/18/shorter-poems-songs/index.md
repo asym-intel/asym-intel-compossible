@@ -10,12 +10,12 @@ featured_image: "/images/uploads/2025/11/image-15.png"
 wordpress_id: 5679
 ---
 
-1. [Unread Lines](<https://compossible.blog/2025/09/18/shorter-poems-songs/#unread-lines>)
-  2. [Shipwreck](<https://compossible.blog/2025/09/18/shorter-poems-songs/#shipwreck>)
-  3. [Zeitgeist](<https://compossible.blog/2025/09/18/shorter-poems-songs/#zeitgeist>)
-  4. [Origami Poetry](<https://compossible.blog/2025/09/18/shorter-poems-songs/#origami-poetry>)
-  5. [Spider's Web](<https://compossible.blog/2025/09/18/shorter-poems-songs/#spider-s-web>)
-  6. [solace](<https://compossible.blog/2025/09/18/shorter-poems-songs/#solace>)
+1. [Unread Lines](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#unread-lines>)
+  2. [Shipwreck](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#shipwreck>)
+  3. [Zeitgeist](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#zeitgeist>)
+  4. [Origami Poetry](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#origami-poetry>)
+  5. [Spider's Web](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#spider-s-web>)
+  6. [solace](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#solace>)
 
 
 

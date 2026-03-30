@@ -12,15 +12,15 @@ wordpress_id: 6624
 
 Continuing the previous article:
 
-> [The Limits Of Language & Logic](<https://compossible.blog/2024/12/13/the-limits-of-language-logic/>)
+> [The Limits Of Language & Logic](<https://compossible.asym-intel.info/2024/12/13/the-limits-of-language-logic/>)
 
 * * *
 
-  1. [Gödelian Incompleteness and Turing’s Halting Problem ](<https://compossible.blog/2025/12/03/the-limits-of-language-logic-part-2/#h-godelian-incompleteness-and-turings-halting-problem>)
-  2. [The Limits of Logic & the Influence of Entropy](<https://compossible.blog/2025/12/03/the-limits-of-language-logic-part-2/#h-the-limits-of-logic-and-the-influence-of-entropy>)
-  3. [Non-Duality](<https://compossible.blog/2025/12/03/the-limits-of-language-logic-part-2/#h-non-duality>)
-  4. [The Limits of Language](<https://compossible.blog/2025/12/03/the-limits-of-language-logic-part-2/#h-the-limits-of-language>)
-  5. [Footnotes](<https://compossible.blog/2025/12/03/the-limits-of-language-logic-part-2/#footnotes>)
+  1. [Gödelian Incompleteness and Turing’s Halting Problem ](<https://compossible.asym-intel.info/2025/12/03/the-limits-of-language-logic-part-2/#h-godelian-incompleteness-and-turings-halting-problem>)
+  2. [The Limits of Logic & the Influence of Entropy](<https://compossible.asym-intel.info/2025/12/03/the-limits-of-language-logic-part-2/#h-the-limits-of-logic-and-the-influence-of-entropy>)
+  3. [Non-Duality](<https://compossible.asym-intel.info/2025/12/03/the-limits-of-language-logic-part-2/#h-non-duality>)
+  4. [The Limits of Language](<https://compossible.asym-intel.info/2025/12/03/the-limits-of-language-logic-part-2/#h-the-limits-of-language>)
+  5. [Footnotes](<https://compossible.asym-intel.info/2025/12/03/the-limits-of-language-logic-part-2/#footnotes>)
 
 
 
@@ -169,7 +169,7 @@ Consider a pack of cards: if they are randomly ordered (shuffled) and then dealt
 
 What extraordinary negative entropy such a starting position would represent. Yet this highly improbable starting position for a pack of cards would be of absolutely no use or interest to a beetle, a blue whale or some humans. The simple fact remains that a shuffled pack of cards consisting of 26 red cards and then 26 black cards as its starting position when dealt is not in any universal sense more useful than a mixed pack (the statistically more likely starting position), unless you are a life-form that is betting on the colour of the next cards.
 
-> [What is Entropy? – Part 1](<https://compossible.blog/2025/12/03/what-is-entropy-part-1/>)
+> [What is Entropy? – Part 1](<https://compossible.asym-intel.info/2025/12/03/what-is-entropy-part-1/>)
 
 The universe appears to go to great lengths in its laws to avoid absolute pre-determinacy at all scales. In the example of the first 26 cards being red, whatever configuration the next 26 cards are in, we know – without doing any more work – that each card dealt will be black. There is zero entropy, in information terms, within the remaining pack with respect to the quality or value ‘black’. This move from very high initial uncertainty of the colour sequence to absolute certainty of the colour of the cards as they are dealt gives a simple general sense of entropy in information terms. 
 
@@ -222,7 +222,7 @@ Description automatically generated](https://img.paragraph.com/cdn-cgi/image/for
 
 A ‘Newton disc’ or spinning colour wheel illustrates how colour is made up of a unitary oneness, that is, white light. At first glance, it may seem ironic that I am suggesting any ethical framework founded on the principle of universality or invariance would propose maximum ethical relativism. However, if we consider the invariance or ultimate ‘truth’ in ethics to be the white light (life energy) and the ethical degrees of freedom to be relative colours on the wheel (actions of life forms), it is hopefully easier to understand.
 
-> [Towards a universal ethical framework](<https://compossible.blog/2024/12/18/towards-a-universal-ethical-framework/>)
+> [Towards a universal ethical framework](<https://compossible.asym-intel.info/2024/12/18/towards-a-universal-ethical-framework/>)
 
 Apparent contradictions that often cause us conceptual difficulty may be a particular problem arising from a strong dualistic tendency in Western culture, particularly in over-simplified monotheistic religions. Non-dualistic thinking teaches that:
 

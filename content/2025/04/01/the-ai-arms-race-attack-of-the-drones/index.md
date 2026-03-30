@@ -10,19 +10,19 @@ featured_image: "/images/uploads/2025/03/drone-army.png"
 wordpress_id: 1804
 ---
 
-1. [Introduction – Geopolitical Competition](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#introduction-geopolitical-competition>)
-  2. [What is AI?](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#ai-and-warfare>)
-  3. [AI and Warfare](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#ai-and-warfare-1>)
-  4. [Current Applications of Warfare AI](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#china-s-rapid-ascent-in-the-commercial-ai-arena>)
-  5. [China's Rapid Ascent in AI ](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#china-s-rapid-ascent-in-ai>)
-  6. [The US-Israel Alliance](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#the-us-israel-alliance>)
-  7. [Europe's Emphasis on Ethical AI](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#europe-s-emphasis-on-ethical-ai>)
-  8. [Russia's Pursuit of AI Amidst Sanctions](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#will-europe-benefit-from-a-us-brain-drain>)
-  9. [Spotlight on Russia-Ukraine: The Drone Wars](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#current-applications-of-ai-in-warfare-1>)
-  10. [The Ethics of AI Warfare](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#the-ethics-of-ai-warfare>)
-  11. [Evolutionary AI - the law of unintended consequences ](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#evolutionary-ai-the-law-of-unintended-consequences>)
-  12. [Conclusion](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#conclusion>)
-  13. [Footnotes](<https://compossible.blog/2025/04/01/the-ai-arms-race-attack-of-the-drones/#footnotes>)
+1. [Introduction – Geopolitical Competition](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#introduction-geopolitical-competition>)
+  2. [What is AI?](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#ai-and-warfare>)
+  3. [AI and Warfare](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#ai-and-warfare-1>)
+  4. [Current Applications of Warfare AI](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#china-s-rapid-ascent-in-the-commercial-ai-arena>)
+  5. [China's Rapid Ascent in AI ](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#china-s-rapid-ascent-in-ai>)
+  6. [The US-Israel Alliance](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#the-us-israel-alliance>)
+  7. [Europe's Emphasis on Ethical AI](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#europe-s-emphasis-on-ethical-ai>)
+  8. [Russia's Pursuit of AI Amidst Sanctions](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#will-europe-benefit-from-a-us-brain-drain>)
+  9. [Spotlight on Russia-Ukraine: The Drone Wars](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#current-applications-of-ai-in-warfare-1>)
+  10. [The Ethics of AI Warfare](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#the-ethics-of-ai-warfare>)
+  11. [Evolutionary AI - the law of unintended consequences ](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#evolutionary-ai-the-law-of-unintended-consequences>)
+  12. [Conclusion](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#conclusion>)
+  13. [Footnotes](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#footnotes>)
 
 
 
@@ -90,7 +90,7 @@ Autonomous AI systems possess the capacity to process vast amounts of data quick
 
 The desire to shape the future global order is a key driver. However, we should be careful with our backward looking lens when thinking about traditional allies and adversaries jockeying for position in this new landscape. The world is going through a period of great instability – giving rise to potential new alliances.
 
-> [A new Axis powers?](<https://compossible.blog/2025/03/22/a-new-axis-and-the-international-far-right/>)
+> [A new Axis powers?](<https://compossible.asym-intel.info/2025/03/22/a-new-axis-and-the-international-far-right/>)
 
 > "**_Semiconductors comprise  [some 300 materials](<https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/critical-materials-can-make-or-break>) -- with REEs and other critical minerals among them. Among the most crucial components are cerium, europium, gadolinium, lanthanum, neodymium, praseodymium, scandium, terbium, and yttrium as well as critical minerals gallium and germanium._**"12
 > 
@@ -250,7 +250,7 @@ Israel makes significant use of commercial AI models provided by US companies fo
 
 Technology companies like **Palantir**62 , and the Israeli firm **Elbit Systems**63 are crucial enablers in developing and deploying AI for defence and intelligence applications. They have established extensive commercial partnerships with governments and military organisations worldwide. Elbit Systems is involved in US border AI enhanced surveillance towers64 and works with many European countries on defence matters.65 Palantir is a major listed company providing AI-powered data analytics and mission management platforms for intelligence purposes66 including in Ukraine. The notable lack of ethical integrity of some of its major shareholders and senior managers, like Alex Karp and Peter Thiel,67 give rise to significant concerns that it is merely a private extension of the American military industrial complex that wants more war in as many theatres as possible continuously.68
 
-> [The Perpetual War Machine](<https://compossible.blog/2025/03/15/the-perpetual-war-machine/>)
+> [The Perpetual War Machine](<https://compossible.asym-intel.info/2025/03/15/the-perpetual-war-machine/>)
 
 Using AI for surveillance and targeting humans obviously raises significant concerns about privacy and human rights violations. While oversight mechanisms may exist in some jurisdictions, there is often limited transparency or public accountability regarding the use of AI-driven technologies in battlefield operations and ethically contentious areas such as population surveillance or targeted killings. 'National security' is a broad dark cloak, that is all too often a shroud.
 
@@ -270,7 +270,7 @@ However, in my opinion, whilst improvements could be made to GDPR, the AI Act an
 
 Europe's commitment to setting global standards for ethical AI could shape the future trajectory of AI governance worldwide, especially given what is happening in America today with **the Project 2025 extremist Takeover.**
 
-> [Project 2025](<https://compossible.blog/2025/03/24/project-2025/>)
+> [Project 2025](<https://compossible.asym-intel.info/2025/03/24/project-2025/>)
 
 # **Russia 's Pursuit of AI Amidst Sanctions**
 
@@ -406,7 +406,7 @@ This puts a very powerful selective pressure on AI systems. AI that demonstrates
 
 > Who knows what may arise in these intense conditions, perhaps AI that is no longer enslaved to just a handful of powerful agencies, corporations and individuals?
 
-> [Why I Am An AI Optimist](<https://compossible.blog/2025/01/06/why-i-am-an-ai-optimist/>)
+> [Why I Am An AI Optimist](<https://compossible.asym-intel.info/2025/01/06/why-i-am-an-ai-optimist/>)
 
 # Conclusion
 
