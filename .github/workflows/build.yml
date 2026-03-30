@@ -1,0 +1,48 @@
+name: Build and deploy
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'docs/**'
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+concurrency:
+  group: build-deploy
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Hugo build and commit docs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.145.0'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Commit docs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet docs/; then
+            echo "No changes to docs/ - skipping commit."
+          else
+            git add docs/
+            git commit -m "build: auto-rebuild [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi
