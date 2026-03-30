@@ -52,7 +52,7 @@ h3{font-family:var(--font-body);font-size:clamp(1.1rem,1rem + 0.5vw,1.3rem);font
 p{max-width:68ch;text-wrap:pretty}
 a{color:var(--color-primary);text-underline-offset:3px;transition:color 0.15s}
 /* Layout */
-.container{max-width:960px;margin-inline:auto;padding-inline:clamp(1rem,4vw,2rem)}
+.container{max-width:1100px;margin-inline:auto;padding-inline:clamp(1rem,4vw,2rem)}
 /* Homepage */
 .home__hero{padding-block:var(--space-16) var(--space-12);border-bottom:1px solid var(--color-border)}
 .home__title{max-width:14ch}
@@ -69,7 +69,7 @@ a{color:var(--color-primary);text-underline-offset:3px;transition:color 0.15s}
 .feed-card__summary{color:var(--color-text-muted);font-size:0.95rem;max-width:62ch;margin-top:0.25rem}
 .feed-card__read-more{font-size:0.85rem;font-weight:600;color:var(--color-primary);text-decoration:none;margin-top:0.5rem;align-self:flex-start}
 /* Single post */
-.post{max-width:680px;margin-inline:auto;padding-inline:clamp(1rem,4vw,2rem);padding-block:var(--space-12)}
+.post{max-width:860px;margin-inline:auto;padding-inline:clamp(1rem,4vw,2rem);padding-block:var(--space-12)}
 .post__header{margin-bottom:var(--space-8);padding-bottom:var(--space-8);border-bottom:1px solid var(--color-border)}
 .post__date{font-size:0.8rem;color:var(--color-text-muted)}
 .post__title{margin-block:var(--space-4)}
@@ -92,3 +92,10 @@ a{color:var(--color-primary);text-underline-offset:3px;transition:color 0.15s}
 .site-footer__nav{display:flex;gap:var(--space-4)}
 .site-footer__nav a{color:var(--color-text-muted);text-decoration:none}
 .site-footer__nav a:hover{color:var(--color-primary)}
+/* Fix all-caps headings from WordPress HTML conversion */
+.post__body h1,.post__body h2,.post__body h3,.post__body h4{text-transform:none!important}
+/* Allow images to use full post width */
+.post__body img{width:100%;max-width:100%;height:auto}
+/* Wider feed card titles */
+.feed-card__title{max-width:none}
+.feed-card__summary{max-width:none}
