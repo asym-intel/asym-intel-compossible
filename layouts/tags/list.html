@@ -1,0 +1,42 @@
+{{ define "main" }}
+<section class="home__hero"><div class="container">
+  <p class="home__subtitle">Posts tagged: <strong>{{ .Title }}</strong></p>
+</div></section>
+
+<section class="home__feed"><div class="container">
+  <h2 class="home__feed-heading">{{ len .Pages }} post{{ if ne (len .Pages) 1 }}s{{ end }}</h2>
+  {{ range .Pages.ByDate.Reverse }}
+  {{ $post := . }}
+  <article class="feed-card feed-card--rich">
+
+    <div class="feed-card__header">
+      <div class="feed-card__meta">
+        <time class="feed-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        {{ with .Params.categories }}
+          {{ range first 5 . }}
+          <a class="feed-card__cat" href="/categories/{{ . | urlize }}/">{{ . }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+      <h3 class="feed-card__title"><a href="{{ $post.RelPermalink }}">{{ .Title }}</a></h3>
+    </div>
+
+    {{ with .Params.featured_image }}
+    <a class="feed-card__image-link" href="{{ $post.RelPermalink }}" tabindex="-1" aria-hidden="true">
+      <img class="feed-card__image" src="{{ . }}" alt="" loading="lazy">
+    </a>
+    {{ end }}
+
+    <div class="feed-card__body">
+      {{ with .Params.excerpt }}
+        <p class="feed-card__summary">{{ . | truncate 200 }}…</p>
+      {{ else }}
+        <p class="feed-card__summary">{{ .Summary }}…</p>
+      {{ end }}
+      <a class="feed-card__read-more" href="{{ $post.RelPermalink }}">Read →</a>
+    </div>
+
+  </article>
+  {{ end }}
+</div></section>
+{{ end }}

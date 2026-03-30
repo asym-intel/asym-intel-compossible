@@ -5,43 +5,93 @@
 </div></section>
 
 <section class="home__feed"><div class="container">
-  <h2 class="home__feed-heading">Recent posts</h2>
-  {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
-  {{ $post := . }}
-  <article class="feed-card feed-card--rich">
-
-    {{/* Meta and title always appear first */}}
-    <div class="feed-card__header">
-      <div class="feed-card__meta">
-        <time class="feed-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-        {{ with .Params.categories }}
-          {{ range first 5 . }}
-          <a class="feed-card__cat" href="/categories/{{ . | urlize }}/">{{ . }}</a>
-          {{ end }}
-        {{ end }}
-      </div>
-      <h3 class="feed-card__title"><a href="{{ $post.RelPermalink }}">{{ .Title }}</a></h3>
+  <div class="home__feed-toolbar">
+    <h2 class="home__feed-heading">Recent posts</h2>
+    <div class="view-toggle" role="group" aria-label="View style">
+      <button class="view-toggle__btn view-toggle__btn--list" id="btn-list" aria-pressed="true" title="List view">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="1" y="2" width="14" height="2" rx="1" fill="currentColor"/>
+          <rect x="1" y="7" width="14" height="2" rx="1" fill="currentColor"/>
+          <rect x="1" y="12" width="14" height="2" rx="1" fill="currentColor"/>
+        </svg>
+        List
+      </button>
+      <button class="view-toggle__btn view-toggle__btn--tile" id="btn-tile" aria-pressed="false" title="Tile view">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="1" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="9" y="1" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="1" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+          <rect x="9" y="9" width="6" height="6" rx="1" fill="currentColor"/>
+        </svg>
+        Tiles
+      </button>
     </div>
+  </div>
 
-    {{/* Featured image below title */}}
-    {{ with .Params.featured_image }}
-    <a class="feed-card__image-link" href="{{ $post.RelPermalink }}" tabindex="-1" aria-hidden="true">
-      <img class="feed-card__image" src="{{ . }}" alt="" loading="lazy">
-    </a>
-    {{ end }}
+  {{/* LIST VIEW */}}
+  <div id="view-list" class="feed-list">
+    {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+    {{ $post := . }}
+    <article class="feed-card feed-card--rich">
 
-    <div class="feed-card__body">
-      {{ with .Params.excerpt }}
-        <p class="feed-card__summary">{{ . | truncate 200 }}…</p>
-      {{ else }}
-        <p class="feed-card__summary">{{ .Summary }}…</p>
+      <div class="feed-card__header">
+        <div class="feed-card__meta">
+          <time class="feed-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          {{ with .Params.categories }}
+            {{ range first 5 . }}
+            <a class="feed-card__cat" href="/categories/{{ . | urlize }}/">{{ . }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+        <h3 class="feed-card__title"><a href="{{ $post.RelPermalink }}">{{ .Title }}</a></h3>
+      </div>
+
+      {{ with .Params.featured_image }}
+      <a class="feed-card__image-link" href="{{ $post.RelPermalink }}" tabindex="-1" aria-hidden="true">
+        <img class="feed-card__image" src="{{ . }}" alt="" loading="lazy">
+      </a>
       {{ end }}
 
-      <a class="feed-card__read-more" href="{{ $post.RelPermalink }}">Read →</a>
-    </div>
+      <div class="feed-card__body">
+        {{ with .Params.excerpt }}
+          <p class="feed-card__summary">{{ . | truncate 200 }}…</p>
+        {{ else }}
+          <p class="feed-card__summary">{{ .Summary }}…</p>
+        {{ end }}
+        <a class="feed-card__read-more" href="{{ $post.RelPermalink }}">Read →</a>
+      </div>
 
-  </article>
-  {{ end }}
+    </article>
+    {{ end }}
+  </div>
+
+  {{/* TILE VIEW */}}
+  <div id="view-tile" class="feed-tiles" style="display:none">
+    {{ range first 12 .Site.RegularPages.ByDate.Reverse }}
+    {{ $post := . }}
+    <a class="tile-card" href="{{ $post.RelPermalink }}">
+      {{ with .Params.featured_image }}
+      <div class="tile-card__image-wrap">
+        <img class="tile-card__image" src="{{ . }}" alt="" loading="lazy">
+      </div>
+      {{ else }}
+      <div class="tile-card__image-wrap tile-card__image-wrap--placeholder"></div>
+      {{ end }}
+      <div class="tile-card__body">
+        <div class="tile-card__meta">
+          <time class="tile-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          {{ with .Params.categories }}
+            {{ range first 2 . }}
+            <span class="tile-card__cat">{{ . }}</span>
+            {{ end }}
+          {{ end }}
+        </div>
+        <h3 class="tile-card__title">{{ .Title }}</h3>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+
 </div></section>
 
 {{/* Tag cloud */}}
@@ -59,5 +109,38 @@
   </div>
 </div></section>
 {{ end }}
+
+<script>
+(function() {
+  var listView  = document.getElementById('view-list');
+  var tileView  = document.getElementById('view-tile');
+  var btnList   = document.getElementById('btn-list');
+  var btnTile   = document.getElementById('btn-tile');
+  var stored    = localStorage.getItem('compossible-view') || 'list';
+
+  function setView(v) {
+    if (v === 'tile') {
+      listView.style.display = 'none';
+      tileView.style.display = '';
+      btnList.setAttribute('aria-pressed', 'false');
+      btnTile.setAttribute('aria-pressed', 'true');
+      btnList.classList.remove('view-toggle__btn--active');
+      btnTile.classList.add('view-toggle__btn--active');
+    } else {
+      tileView.style.display = 'none';
+      listView.style.display = '';
+      btnTile.setAttribute('aria-pressed', 'false');
+      btnList.setAttribute('aria-pressed', 'true');
+      btnTile.classList.remove('view-toggle__btn--active');
+      btnList.classList.add('view-toggle__btn--active');
+    }
+    localStorage.setItem('compossible-view', v);
+  }
+
+  setView(stored);
+  btnList.addEventListener('click', function() { setView('list'); });
+  btnTile.addEventListener('click', function() { setView('tile'); });
+})();
+</script>
 
 {{ end }}
