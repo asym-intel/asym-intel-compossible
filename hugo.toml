@@ -1,0 +1,33 @@
+baseURL = "https://compossible.asym-intel.info/"
+languageCode = "en-GB"
+title = "Compossible"
+publishDir = "docs"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Writing on European strategy, geopolitics, AI governance, and the philosophy of the present. By Peter Howitt."
+  sectionName = "Compossible"
+  networkBarEnabled = true
+
+[params.networkBar]
+  mainSite    = "https://asym-intel.info"
+  compossible = "https://compossible.asym-intel.info"
+  whitespace  = "https://whitespace.asym-intel.info"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home    = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page    = ["HTML"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false

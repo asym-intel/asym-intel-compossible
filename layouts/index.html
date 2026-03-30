@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="home__hero"><div class="container">
+  <h1 class="home__title">Compossible</h1>
+  <p class="home__subtitle">Writing on European strategy, geopolitics, AI governance, and the philosophy of the present.</p>
+</div></section>
+<section class="home__feed"><div class="container">
+  <h2 class="home__feed-heading">Recent posts</h2>
+  {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+  <article class="feed-card">
+    <div class="feed-card__meta">
+      <time class="feed-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+    </div>
+    <h3 class="feed-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ with .Params.excerpt }}<p class="feed-card__summary">{{ . }}</p>{{ end }}
+    <a class="feed-card__read-more" href="{{ .RelPermalink }}">Read →</a>
+  </article>
+  {{ end }}
+</div></section>
+{{ end }}
