@@ -1,6 +1,6 @@
 {{ define "main" }}
-<main class="list">
-  <div class="container">
+<main class="categories-page">
+  <div class="inner">
 
     <header class="list__header">
       <h1>Reading guide</h1>
@@ -9,76 +9,61 @@
 
     {{ $allCats := .Site.Taxonomies.categories }}
 
-    {{/* Geopolitics & European Strategy */}}
     <div class="reading-group">
       <h2 class="reading-group__title">Geopolitics & European Strategy</h2>
       <p class="reading-group__desc">European sovereignty, hybrid threats, NATO, defence policy, and the geopolitical contest over Europe's future.</p>
       <div class="reading-group__cats">
         {{ range slice "europe" "geopolitics" "defence" "military" "rearm" }}
           {{ with index $allCats . }}
-          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">
-            {{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span>
-          </a>
+          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span></a>
           {{ end }}
         {{ end }}
       </div>
     </div>
 
-    {{/* Democracy & Power */}}
     <div class="reading-group">
       <h2 class="reading-group__title">Democracy & Power</h2>
       <p class="reading-group__desc">Democratic backsliding, authoritarian playbooks, the far right, Project 2025, and the defence of democratic institutions.</p>
       <div class="reading-group__cats">
         {{ range slice "democracy" "trump" "project-2025" "israel" }}
           {{ with index $allCats . }}
-          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">
-            {{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span>
-          </a>
+          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span></a>
           {{ end }}
         {{ end }}
       </div>
     </div>
 
-    {{/* AI & Technology */}}
     <div class="reading-group">
       <h2 class="reading-group__title">AI & Technology</h2>
       <p class="reading-group__desc">Artificial intelligence governance, ethics, the AI arms race, and the politics of technology.</p>
       <div class="reading-group__cats">
         {{ range slice "ai" "ethics" "science" }}
           {{ with index $allCats . }}
-          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">
-            {{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span>
-          </a>
+          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span></a>
           {{ end }}
         {{ end }}
       </div>
     </div>
 
-    {{/* Philosophy & Literature */}}
     <div class="reading-group">
       <h2 class="reading-group__title">Philosophy, Poetry & Music</h2>
       <p class="reading-group__desc">Philosophy of mind and society, original poetry, and AI-generated music albums.</p>
       <div class="reading-group__cats">
         {{ range slice "philosophy" "poetry" "poems" "music" "fiction" }}
           {{ with index $allCats . }}
-          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">
-            {{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span>
-          </a>
+          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span></a>
           {{ end }}
         {{ end }}
       </div>
     </div>
 
-    {{/* Economics & Environment */}}
     <div class="reading-group">
       <h2 class="reading-group__title">Economics & Environment</h2>
       <p class="reading-group__desc">Wealth inequality, economic systems, climate change, biodiversity, and the physics of the present.</p>
       <div class="reading-group__cats">
         {{ range slice "economics" "energy" "carbon" "environment" }}
           {{ with index $allCats . }}
-          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">
-            {{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span>
-          </a>
+          <a class="reading-group__cat" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="reading-group__count">{{ .Count }}</span></a>
           {{ end }}
         {{ end }}
       </div>

@@ -152,3 +152,21 @@ a{color:var(--color-primary);text-underline-offset:3px;transition:color 0.15s}
 .reading-group__title{margin-bottom:var(--space-3)}
 .reading-group__desc{margin-bottom:var(--space-6)}
 .reading-group__cats{gap:var(--space-2)}
+
+/* Homepage hero — subtitle only, no duplicate title */
+.home__hero{padding-block:var(--space-10) var(--space-8);border-bottom:1px solid var(--color-border)}
+.home__subtitle{font-size:clamp(1rem,0.9rem + 0.5vw,1.25rem);color:var(--color-text-muted);max-width:60ch}
+
+/* Rich feed card image — fixed size, good proportions */
+.feed-card__image-link{flex-shrink:0;display:block;width:220px;align-self:flex-start}
+.feed-card__image{width:220px;height:160px;object-fit:cover;border-radius:0.5rem;display:block}
+@media(max-width:640px){
+  .feed-card__image-link,.feed-card__image{width:100%;height:220px}
+}
+
+/* Categories reading guide — force correct width with padding */
+.categories-page{padding-block:var(--space-12)}
+.categories-page .inner{max-width:860px;margin-inline:auto;padding-inline:clamp(1rem,4vw,2rem)}
+.categories-page .list__header{margin-bottom:var(--space-8);padding-bottom:var(--space-8);border-bottom:1px solid var(--color-border)}
+.categories-page .reading-group{padding-block:var(--space-10);border-bottom:1px solid var(--color-border)}
+.categories-page .reading-group:first-of-type{border-top:1px solid var(--color-border)}
