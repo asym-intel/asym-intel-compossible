@@ -1,0 +1,61 @@
+backend:
+  name: github
+  repo: asym-intel/asym-intel-compossible
+  branch: main
+  base_url: https://asym-intel-oauth.peterhowitt.workers.dev
+
+media_folder: "static/images/uploads/{{year}}/{{month}}"
+public_folder: "/images/uploads/{{year}}/{{month}}"
+
+collections:
+
+  # ── Blog posts ─────────────────────────────────────────────────────────────
+  - name: "posts"
+    label: "Posts"
+    folder: "content"
+    path: "{{year}}/{{month}}/{{day}}/{{slug}}/index"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Last Modified", name: "lastmod", widget: "datetime", required: false}
+      - {label: "Slug", name: "slug", widget: "string",
+         hint: "URL-friendly version of the title, e.g. my-new-post"}
+      - {label: "Description", name: "description", widget: "text", required: false,
+         hint: "One-line summary shown under the title on the post page"}
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: false,
+         hint: "Short preview shown on the homepage feed (leave blank to auto-generate)"}
+      - label: "Featured Image"
+        name: "featured_image"
+        widget: "image"
+        required: false
+        hint: "Hero image shown on the homepage feed card"
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        hint: "Comma-separated, e.g. Europe, GeoPolitics"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  # ── Site pages ─────────────────────────────────────────────────────────────
+  - name: "pages"
+    label: "Site Pages"
+    files:
+      - label: "Homepage"
+        name: "home"
+        file: "content/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
