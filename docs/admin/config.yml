@@ -6,6 +6,8 @@ backend:
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
+media_library:
+  max_file_size: 10485760
 
 collections:
 
@@ -16,7 +18,6 @@ collections:
     path: "{{year}}/{{month}}/{{day}}/{{slug}}/index"
     create: true
     slug: "{{slug}}"
-    filter: {field: "draft", value: false}
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
@@ -41,36 +42,6 @@ collections:
         widget: "list"
         required: false
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-  # ── Draft posts ────────────────────────────────────────────────────────────
-  - name: "drafts"
-    label: "Drafts"
-    folder: "content"
-    path: "{{year}}/{{month}}/{{day}}/{{slug}}/index"
-    create: true
-    slug: "{{slug}}"
-    filter: {field: "draft", value: true}
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Last Modified", name: "lastmod", widget: "datetime", required: false}
-      - {label: "Slug", name: "slug", widget: "string"}
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Excerpt", name: "excerpt", widget: "text", required: false}
-      - label: "Featured Image"
-        name: "featured_image"
-        widget: "image"
-        required: false
-      - label: "Categories"
-        name: "categories"
-        widget: "list"
-        required: false
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        required: false
-      - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
   # ── Site pages ─────────────────────────────────────────────────────────────
