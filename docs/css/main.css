@@ -175,7 +175,7 @@ h3 {
   gap: 0;
   align-items: stretch;
 }
-.feed-card__header { margin-bottom: var(--space-4); }
+.feed-card__header { margin-bottom: var(--space-8); }
 .feed-card__image-link { display: block; margin-bottom: var(--space-4); }
 .feed-card__image {
   width: 100%;
