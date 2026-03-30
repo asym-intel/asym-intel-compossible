@@ -1,20 +1,16 @@
 # Hugo build output
-/docs/
+# NOTE: /docs/ is intentionally tracked — GitHub Pages serves from it.
 /public/
 /resources/_gen/
 /assets/jsconfig.json
-
 # Hugo cache
 .hugo_build.lock
-
 # OS
 .DS_Store
 Thumbs.db
-
 # Editor
 .vscode/
 .idea/
-
 # Node (if using Hugo pipes with npm)
 node_modules/
 package-lock.json
