@@ -14,6 +14,18 @@ summaryLength = 50
   sectionName = "Compossible"
   networkBarEnabled = true
 
+  # Canonical monitor slugs — used for cross-site graph validation
+  # Must match asym-intel/asym-intel-main content/monitors/ directory names
+  monitors = [
+    "ai-governance",
+    "conflict-escalation",
+    "democratic-integrity",
+    "environmental-risks",
+    "european-strategic-autonomy",
+    "fimi-cognitive-warfare",
+    "macro-monitor",
+  ]
+
 [params.networkBar]
   mainSite    = "https://asym-intel.info"
   compossible = "https://compossible.asym-intel.info"
