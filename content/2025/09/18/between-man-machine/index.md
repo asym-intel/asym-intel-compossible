@@ -8,6 +8,12 @@ categories: ["AI", "music", "Poems", "Poetry"]
 tags: ["AI", "artificial-intelligence", "music", "Poetry"]
 featured_image: "/images/uploads/2025/09/thepinkpanther._reflect_refract_the_undying_light_van_gogh_styl_1d57bfac-3c2c-4f79-9ee4-d6bfea317fbe-gigapixel-high-fidelity-v2-1.5x-edit-2.webp"
 wordpress_id: 2804
+monitors_referenced: []
+graph_tags: ["ai-governance", "creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Music made using my poems

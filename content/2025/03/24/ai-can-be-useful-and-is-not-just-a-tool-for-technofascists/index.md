@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "ethics", "Science"]
 tags: ["AI", "artificial-intelligence", "chatgpt", "deep-research", "gemini", "Palantir", "perplexity", "politics", "technofascism", "technology", "vpn"]
 featured_image: "/images/uploads/2025/03/android.png"
 wordpress_id: 1281
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "philosophy-ethics", "tech-power-concentration"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["why-i-am-an-ai-optimist", "ai-ethics-governance-law-society"]
 ---
 
 How to use AI positively (and carefully)

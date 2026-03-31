@@ -8,6 +8,12 @@ categories: ["music", "Poems", "Poetry"]
 tags: ["AI", "artificial-intelligence", "dawn", "moon", "nature", "Poetry", "sun"]
 featured_image: "/images/uploads/2025/09/sun.webp"
 wordpress_id: 2779
+monitors_referenced: []
+graph_tags: ["ai-governance", "creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Poem and AI song & video

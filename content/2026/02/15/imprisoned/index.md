@@ -8,6 +8,12 @@ categories: ["philosophy"]
 tags: ["Angels", "Dreams", "Fears"]
 featured_image: "/images/uploads/2026/02/1000032803.jpg"
 wordpress_id: 7033
+monitors_referenced: []
+graph_tags: ["philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 If we let our fears of the past 

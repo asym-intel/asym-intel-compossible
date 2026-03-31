@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["angel", "love", "music", "poem", "Poetry", "Rilke", "suffering"]
 featured_image: "/images/uploads/2025/11/image-21.png"
 wordpress_id: 5700
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 These 'translations' were made relying on a number of sources including AI translations and, in respect of 'It Is Possible', relying heavily on Robert Bly's translation which he named 'Pushing Through'. The author does not speak German, so interpretations might be a more accurate description.

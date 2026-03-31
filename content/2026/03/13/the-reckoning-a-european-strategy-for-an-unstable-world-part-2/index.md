@@ -8,6 +8,12 @@ categories: ["democracy", "economics", "energy", "ethics", "Europe", "GeoPolitic
 tags: ["china", "democracy", "Europe", "fascism", "nato", "politics", "russia", "technology", "ukraine"]
 featured_image: "/images/uploads/2026/03/generated-image.webp"
 wordpress_id: 7465
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "ecological-crisis", "european-autonomy", "geopolitical-competition", "hybrid-warfare", "israel-palestine", "philosophy-ethics", "ukraine-conflict", "wealth-inequality"]
+post_type: "series-part"
+series: "european-reckoning"
+series_part: 2
+related_posts: []
 ---
 
 The Stackelberg Trap and how Europe must deal with the American criminal enterprise, China & Russia

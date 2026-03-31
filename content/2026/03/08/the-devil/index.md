@@ -8,6 +8,12 @@ categories: ["philosophy"]
 tags: ["Despair", "Devil"]
 featured_image: "/images/uploads/2026/03/1000033830.jpg"
 wordpress_id: 7289
+monitors_referenced: []
+graph_tags: ["philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Be warned: 

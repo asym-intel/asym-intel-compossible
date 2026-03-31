@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "ethics", "Europe", "philosophy", "Project 2025"
 tags: ["AI", "democracy", "donald-trump", "fascism", "free-speech", "Freedom", "history", "intolerance", "news", "paradox", "politics", "technology"]
 featured_image: "/images/uploads/2025/11/2-min-hate.jpg"
 wordpress_id: 4362
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "european-autonomy", "far-right-networks", "philosophy-ethics"]
+post_type: "series-part"
+series: "elon-musk"
+series_part: 2
+related_posts: ["elon-musk-part-1-the-crusader-behind-the-mask"]
 ---
 
 In Part 1 we looked at how Musk takes all of the wrong lessons from the literary greats he apparently admires:

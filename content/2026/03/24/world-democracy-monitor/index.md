@@ -8,6 +8,12 @@ categories: ["democracy", "GeoPolitics", "ethics"]
 tags: ["democracy", "trump", "politics", "history", "news", "V-DEM", "World Democracy Monitor"]
 featured_image: "/images/uploads/2026/03/democracy-is-coming-to-the-usa.webp"
 wordpress_id: 9111
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "far-right-networks", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Democracy, Backsliding and the Need for a Weekly Radar

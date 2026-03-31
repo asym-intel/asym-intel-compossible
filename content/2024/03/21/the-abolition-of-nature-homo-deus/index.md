@@ -8,6 +8,12 @@ categories: ["AI", "environment", "ethics", "Poetry"]
 tags: ["AI", "nature", "Poetry", "Senescence", "soul", "suffering"]
 featured_image: "/images/uploads/2025/10/senes.webp"
 wordpress_id: 3306
+monitors_referenced: []
+graph_tags: ["ai-governance", "creative-writing", "ecological-crisis", "philosophy-ethics"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Little escaped their minute attentions and predations:

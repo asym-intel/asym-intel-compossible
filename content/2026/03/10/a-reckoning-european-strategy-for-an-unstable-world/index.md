@@ -8,6 +8,12 @@ categories: ["AI", "Defence", "democracy", "economics", "energy", "environment",
 tags: ["AI", "Europe", "fascism", "nato", "philosophy", "politics", "Reckoning", "russia", "technology", "ukraine", "war"]
 featured_image: "/images/uploads/2026/03/europe-lagrange.webp"
 wordpress_id: 7353
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "european-autonomy", "hybrid-warfare", "philosophy-ethics", "ukraine-conflict", "wealth-inequality"]
+post_type: "series-part"
+series: "european-reckoning"
+series_part: 1
+related_posts: []
 ---
 
 Part 1: The Search for a Stable Orbit and the Mathematics of Human Survival  

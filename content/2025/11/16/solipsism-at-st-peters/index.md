@@ -8,6 +8,12 @@ categories: ["music", "Poems", "Poetry"]
 tags: ["church", "death", "grief", "music", "piano", "Poetry"]
 featured_image: "/images/uploads/2025/11/1765139757814.png"
 wordpress_id: 5523
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 I tried to _sklent_

@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "ethics", "Science"]
 tags: ["AI", "artificial-intelligence", "economics", "energy", "environment", "far right", "history", "news", "philosophy", "politics"]
 featured_image: "/images/uploads/2025/03/the-atlas-network-cover.png"
 wordpress_id: 1842
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "far-right-networks", "philosophy-ethics", "wealth-inequality"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty"]
 ---
 
 **Table of contents**

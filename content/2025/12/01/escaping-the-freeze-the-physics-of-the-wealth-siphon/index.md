@@ -8,6 +8,12 @@ categories: ["economics", "ethics", "philosophy"]
 tags: ["cold trap", "democracy", "economics", "entropy", "equality", "fascism", "finance", "heat death", "history", "inequality", "oligarchy", "philosophy", "physics", "politics", "stagnation"]
 featured_image: "/images/uploads/2025/12/cold-box-trap-main-3.webp"
 wordpress_id: 6031
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "philosophy-ethics", "systems-physics", "wealth-inequality"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["what-is-entropy-part-1", "inequality-and-inequity"]
 ---
 
 In this article I want to break down some key concepts about wealth and income distribution utilising concepts from thermodynamics and entropy to show how gamed current economies and societies are and, more importantly, how we can undertake long term policy changes to fix it.

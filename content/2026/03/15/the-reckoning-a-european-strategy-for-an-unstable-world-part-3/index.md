@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "economics", "energy", "environment", "ethics", 
 tags: ["AI", "Defence", "democracy", "Europe", "hungary", "minerals", "plan", "politics", "rare earth", "Reckoning", "russia", "technology", "TFEU"]
 featured_image: "/images/uploads/2026/03/concert-of-powers-2.webp"
 wordpress_id: 7769
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "european-autonomy", "far-right-networks", "geopolitical-competition", "hybrid-warfare", "israel-palestine", "philosophy-ethics", "wealth-inequality"]
+post_type: "series-part"
+series: "european-reckoning"
+series_part: 3
+related_posts: []
 ---
 
 Engineering Escape Velocity - A 5 year Plan for Europe 

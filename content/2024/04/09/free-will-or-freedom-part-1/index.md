@@ -8,6 +8,12 @@ categories: ["ethics", "philosophy"]
 tags: ["crime", "criminal justice", "faith", "free will", "Freedom", "God", "illusion", "philosophy"]
 featured_image: "/images/uploads/2025/12/van_gogh_-_landschaft_im_schnee.jpg"
 wordpress_id: 6324
+monitors_referenced: []
+graph_tags: ["philosophy-ethics"]
+post_type: "series-part"
+series: "free-will-freedom"
+series_part: 1
+related_posts: []
 ---
 
 * * *

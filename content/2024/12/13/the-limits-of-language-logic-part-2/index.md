@@ -8,6 +8,12 @@ categories: ["AI", "ethics", "philosophy", "Science"]
 tags: ["entropy", "language", "logic", "philosophy"]
 featured_image: "/images/uploads/2025/12/thepinkpanther._a_recursive_fractal_rose_that_smells_just_as_sw_f65e3556-8b99-4f14-820f-28fae2abfbad.jpg"
 wordpress_id: 6624
+monitors_referenced: []
+graph_tags: ["ai-governance", "philosophy-ethics", "systems-physics"]
+post_type: "series-part"
+series: "limits-of-language"
+series_part: 2
+related_posts: ["the-limits-of-language-logic-part-1"]
 ---
 
 Continuing the previous article:

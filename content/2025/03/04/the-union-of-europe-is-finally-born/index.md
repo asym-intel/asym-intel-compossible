@@ -8,6 +8,12 @@ categories: ["Defence", "democracy", "ethics", "Europe", "GeoPolitics", "Project
 tags: ["Defence", "Europe", "Europe ReArm", "European reckoning", "military", "nato", "politics", "reArm", "Reckoning", "russia", "ukraine", "war"]
 featured_image: "/images/uploads/2025/03/eusat.webp"
 wordpress_id: 107
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "european-autonomy", "far-right-networks", "geopolitical-competition", "hybrid-warfare", "philosophy-ethics", "ukraine-conflict"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["europe-is-on-the-menu"]
 ---
 
 The second article in the _European Reckoning_ series. Following on from:

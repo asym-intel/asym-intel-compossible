@@ -8,6 +8,12 @@ categories: ["economics", "energy", "environment", "ethics", "philosophy", "Scie
 tags: ["algorithmic", "biodiversity", "biology", "biosphere", "consciousness", "death", "ecology", "energy", "engines", "entropy", "environment", "information", "life", "nature", "philosophy", "physics", "Science", "spirituality", "useful", "utility"]
 featured_image: "/images/uploads/2025/12/time-held-me-green-1.webp"
 wordpress_id: 6494
+monitors_referenced: []
+graph_tags: ["ecological-crisis", "philosophy-ethics", "systems-physics", "wealth-inequality"]
+post_type: "series-part"
+series: "what-is-entropy"
+series_part: 2
+related_posts: ["what-is-entropy-part-1", "escaping-the-freeze-the-physics-of-the-wealth-siphon"]
 ---
 
 Really Useful Engines

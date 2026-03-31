@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "energy", "environment", "ethics", "GeoPolitics"
 tags: ["AI", "biodiversity", "climate", "climate-change", "democracy", "environment", "global-warming", "IPCC", "nature", "politics", "sustainability", "technology"]
 featured_image: "/images/uploads/2025/10/climate-change-ecological-disaster-and-civilisational-risks.png"
 wordpress_id: 3320
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "far-right-networks", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["green-energy-delay-for-another-day", "atlas-a-burning-planet-earth-is-on-its-head"]
 ---
 
 This article has been created using a new public AI Notebook:

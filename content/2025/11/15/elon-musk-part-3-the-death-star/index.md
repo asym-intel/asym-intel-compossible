@@ -8,6 +8,12 @@ categories: ["AI", "Defence", "democracy", "Europe", "GeoPolitics", "military", 
 tags: ["AI", "artificial-intelligence", "democracy", "elon-musk", "Empire", "Europe", "fascism", "Grok", "history", "Musk", "news", "Nueralink", "Palantir", "politics", "robots", "SpaceX", "Star Wars", "Starlink", "technology", "xAI"]
 featured_image: "/images/uploads/2025/04/musk-sith-lord.webp"
 wordpress_id: 3884
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "european-autonomy", "geopolitical-competition", "tech-power-concentration"]
+post_type: "series-part"
+series: "elon-musk"
+series_part: 3
+related_posts: ["elon-musk-the-limits-of-free-speech-the-paradox-of-tolerance"]
 ---
 
 > **" Blame it on the black star  

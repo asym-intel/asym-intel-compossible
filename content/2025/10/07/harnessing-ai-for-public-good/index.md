@@ -8,6 +8,12 @@ categories: ["AI", "Defence", "democracy", "environment", "ethics", "Europe", "G
 tags: ["AI", "AI agents", "artificial-intelligence", "business", "democracy", "ethics", "machine-learning", "modelling", "Palantir", "politics", "technology"]
 featured_image: "/images/uploads/2025/10/android.webp"
 wordpress_id: 2824
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "european-autonomy", "geopolitical-competition", "philosophy-ethics", "tech-power-concentration"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["ai-ethics-governance-law-society"]
 ---
 
 > “I feel that the four big AI CEOs in the U.S. are modern-day prophets with four different versions of the Gospel ..telling the same basic story that this is so dangerous and so scary that I have to do it and nobody else.”1

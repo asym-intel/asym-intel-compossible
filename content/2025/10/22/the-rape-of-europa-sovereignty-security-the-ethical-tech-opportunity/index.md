@@ -8,6 +8,12 @@ categories: ["AI", "Defence", "democracy", "energy", "environment", "Europe", "G
 tags: ["AI", "cannibals", "cloud", "Defence", "digital", "eu", "Europe", "European reckoning", "nato", "Palantir", "politics", "rape", "Reckoning", "russia", "security", "sovereignty", "ukraine"]
 featured_image: "/images/uploads/2025/10/titian-rape-of-europa.webp"
 wordpress_id: 3285
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "european-autonomy", "far-right-networks", "geopolitical-competition", "hybrid-warfare", "tech-power-concentration", "ukraine-conflict"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["europe-is-on-the-menu", "a-reckoning-european-strategy-for-an-unstable-world"]
 ---
 
 Geopolitics, Technology, and Democratic Governance

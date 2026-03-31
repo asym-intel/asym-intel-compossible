@@ -8,6 +8,12 @@ categories: ["energy", "environment", "Science"]
 tags: ["algorithmic", "biodiversity", "biology", "biosphere", "ecology", "energy", "entropy", "environment", "exergy", "information", "nature", "philosophy", "physics", "Science", "technology"]
 featured_image: "/images/uploads/2025/12/thepinkpanther._salmon_leaping_up_a_river_van_gogh_style_stanle_d6b1b05c-db03-4e12-be8e-0819413f1d92.webp"
 wordpress_id: 6467
+monitors_referenced: []
+graph_tags: ["ecological-crisis", "philosophy-ethics", "systems-physics"]
+post_type: "series-part"
+series: "what-is-entropy"
+series_part: 1
+related_posts: []
 ---
 
 > "you cannot step into the same river, for fresh waters are ever flowing"1

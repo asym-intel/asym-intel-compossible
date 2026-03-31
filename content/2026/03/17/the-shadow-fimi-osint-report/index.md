@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "energy", "environment", "Europe", "GeoPolitics"
 tags: ["china", "democracy", "Europe", "history", "israel", "Musk", "politics", "russia", "trump"]
 featured_image: "/images/uploads/2026/03/convergence.png"
 wordpress_id: 8041
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "european-autonomy", "far-right-networks", "geopolitical-competition", "hybrid-warfare", "israel-palestine", "tech-power-concentration"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["a-new-axis-and-the-international-far-right", "the-new-playbook-of-power"]
 ---
 
 **ACTORS THE EU WILL NOT NAME**

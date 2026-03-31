@@ -8,6 +8,12 @@ categories: ["Poetry"]
 tags: ["faith", "God", "lunatic", "monkey mind", "poem", "Poetry", "sea", "soul", "suffering", "waves"]
 featured_image: "/images/uploads/2025/03/my-god-you-lunatic.png"
 wordpress_id: 1536
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Another morning 

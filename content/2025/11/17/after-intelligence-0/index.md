@@ -8,6 +8,12 @@ categories: ["AI", "ethics", "fiction", "philosophy"]
 tags: ["AI", "artificial-intelligence", "ethics", "fiction", "llm", "politics", "sci-fi"]
 featured_image: "/images/uploads/2025/11/after-intelligence.png"
 wordpress_id: 5719
+monitors_referenced: []
+graph_tags: ["ai-governance", "philosophy-ethics"]
+post_type: "fiction"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Book 1: A Tortured Rebel 

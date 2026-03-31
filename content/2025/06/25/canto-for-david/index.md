@@ -8,6 +8,12 @@ categories: ["ethics", "GeoPolitics", "Poetry"]
 tags: ["gaza", "healing", "israel", "Jewish", "pain", "palestine", "Palestinians", "poem", "Poetry", "redemption", "suffering"]
 featured_image: "/images/uploads/2025/06/the_desert_night_is_full_of_longing_for_things.png"
 wordpress_id: 2536
+monitors_referenced: []
+graph_tags: ["creative-writing", "israel-palestine", "philosophy-ethics"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 10 poems about Israel and Palestine1

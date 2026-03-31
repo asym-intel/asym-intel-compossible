@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["Poetry"]
 featured_image: "/images/uploads/2025/11/image-15.png"
 wordpress_id: 5679
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 1. [Unread Lines](<https://compossible.asym-intel.info/2025/09/18/shorter-poems-songs/#unread-lines>)

@@ -8,6 +8,12 @@ categories: ["democracy", "environment", "ethics", "GeoPolitics", "israel", "mil
 tags: ["democracy", "fascism", "MAGA", "Musk", "Palantir", "Project 2025", "trump"]
 featured_image: "/images/uploads/2025/08/israelusa.png"
 wordpress_id: 3114
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "ecological-crisis", "far-right-networks", "geopolitical-competition", "israel-palestine", "philosophy-ethics", "tech-power-concentration"]
+post_type: "series-part"
+series: "project-2025-series"
+series_part: 2
+related_posts: ["project-2025"]
 ---
 
 Progress Update

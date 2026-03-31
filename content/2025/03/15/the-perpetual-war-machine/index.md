@@ -8,6 +8,12 @@ categories: ["Defence", "Europe", "GeoPolitics", "israel", "military", "Project 
 tags: ["arms", "hiroshima", "history", "israel", "japan", "military", "nagasaki", "nato", "peace", "ukraine", "USA", "war"]
 featured_image: "/images/uploads/2025/03/american_war_machine_advancing.png"
 wordpress_id: 472
+monitors_referenced: []
+graph_tags: ["european-autonomy", "far-right-networks", "geopolitical-competition", "israel-palestine", "ukraine-conflict"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["a-new-axis-and-the-international-far-right"]
 ---
 
 _Dedicated to[Hossam Shabbat](<https://open.substack.com/pub/dropsitenews/p/hossam-shabat-journalist-killed-gaza-last-article?utm_source=share&utm_medium=android&r=5751rv>) and [all the Palestinian journalists killed in Gaza](<https://en.wikipedia.org/wiki/List_of_journalists_killed_in_the_Gaza_war>)._

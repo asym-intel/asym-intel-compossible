@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["faith", "hector", "light"]
 featured_image: "/images/uploads/2025/11/windfall-light.webp"
 wordpress_id: 5626
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 > “ _Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul?_ ” (John Keats)

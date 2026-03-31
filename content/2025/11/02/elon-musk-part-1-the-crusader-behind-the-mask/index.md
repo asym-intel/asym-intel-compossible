@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "ethics", "philosophy", "Science"]
 tags: ["artificial-intelligence", "democracy", "donald-trump", "elon-musk", "fascism", "Musk", "news", "Palantir", "politics", "trump"]
 featured_image: "/images/uploads/2025/11/elon_musk_as_two_face.webp"
 wordpress_id: 2283
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "far-right-networks", "philosophy-ethics", "tech-power-concentration"]
+post_type: "series-part"
+series: "elon-musk"
+series_part: 1
+related_posts: []
 ---
 
 1. [Introduction](<https://compossible.asym-intel.info/2025/11/02/elon-musk-part-1-the-crusader-behind-the-mask/#introduction>)

@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["cycles", "life", "love", "nature", "Poetry"]
 featured_image: "/images/uploads/2025/10/anthony.webp"
 wordpress_id: 3371
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 > _' I feel as if I'm losing all my leaves. The branches, and the wind, and the rain. I don't know what's happening anymore.' -_ Anthony ('The Father')

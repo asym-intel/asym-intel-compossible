@@ -8,6 +8,12 @@ categories: ["Defence", "ethics", "Europe", "israel", "Poetry"]
 tags: ["child-sacrifice", "Europe", "gaza", "israel", "minotaur", "moloch", "palestine", "poem", "Poetry", "politics"]
 featured_image: "/images/uploads/2025/03/molochweb.png"
 wordpress_id: 270
+monitors_referenced: []
+graph_tags: ["creative-writing", "european-autonomy", "israel-palestine", "philosophy-ethics"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 A fearful people

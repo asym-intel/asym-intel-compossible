@@ -8,6 +8,12 @@ categories: ["democracy"]
 tags: ["capitalism", "democracy", "diversity", "ethics", "fascism", "Freedom", "nature"]
 featured_image: "/images/uploads/2025/03/291f79ae8ee585e5ed8a22c504f91a57.webp"
 wordpress_id: 13
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 ## Democracy Delayed

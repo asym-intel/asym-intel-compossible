@@ -8,6 +8,12 @@ categories: ["Carbon", "energy", "environment", "ethics", "Science"]
 tags: ["Atlas-network", "Australia", "Carbon-emissions", "climate-change", "energy", "environment", "green-delay-tactics", "renewable-energy", "sustainability", "technology"]
 featured_image: "/images/uploads/2025/10/green-energy-delay-1.webp"
 wordpress_id: 3211
+monitors_referenced: []
+graph_tags: ["ecological-crisis", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["the-overlapping-crises-of-climate-change-biodiversity-loss-and-political-dishonesty"]
 ---
 
 This AI assisted blog synthesises some of the information contained within a public [**Google Notebook**](<https://notebooklm.google.com/notebook/e25aca97-46e0-4171-b36a-ff0355424cd3>) I created to triage submissions made to the [Australian Select Committee on Information Integrity on Climate Change and Energy](<https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Information_Integrity_on_Climate_Change_and_Energy/ClimateIntegrity>).

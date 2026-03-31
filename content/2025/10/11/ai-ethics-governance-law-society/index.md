@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "environment", "ethics", "GeoPolitics", "philoso
 tags: ["AI", "artificial-intelligence", "chatgpt", "philosophy", "technology"]
 featured_image: "/images/uploads/2025/10/thepinkpanther._artificial_intelligence__law_knowledge_hub_futu_14297830-d623-465f-b04a-8cbf9fdbfdfd-edit.jpg"
 wordpress_id: 2964
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "ecological-crisis", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["harnessing-ai-for-public-good", "ai-can-be-useful-and-is-not-just-a-tool-for-technofascists"]
 ---
 
 I have created a public notebooklm as a resource to provide people with an accessible way to learn about AI as a technology and its ethical implications for humans. It includes most of the existing International AI laws, guidance and standards.

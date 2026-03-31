@@ -23,8 +23,15 @@ summaryLength = 50
   category = "categories"
   tag = "tags"
 
+[outputFormats]
+  [outputFormats.PostsIndex]
+    mediaType = "application/json"
+    baseName  = "posts-index"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
-  home    = ["HTML", "RSS"]
+  home    = ["HTML", "RSS", "PostsIndex"]
   section = ["HTML", "RSS"]
   page    = ["HTML"]
 

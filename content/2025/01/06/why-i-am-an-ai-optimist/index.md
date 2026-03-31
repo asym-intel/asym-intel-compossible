@@ -8,6 +8,12 @@ categories: ["AI", "ethics", "Science"]
 tags: ["agi", "AI", "artificial-intelligence", "philosophy", "technology"]
 featured_image: "/images/uploads/2025/03/turing.webp"
 wordpress_id: 454
+monitors_referenced: []
+graph_tags: ["ai-governance", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["ai-can-be-useful-and-is-not-just-a-tool-for-technofascists"]
 ---
 
 > "As I would not be a slave, so I would not be a master. This expresses my idea of democracy. Whatever differs from this..is no democracy."

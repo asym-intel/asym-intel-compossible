@@ -8,6 +8,12 @@ categories: ["democracy", "ethics", "GeoPolitics", "israel", "trump"]
 tags: ["acosta", "democracy", "donald-trump", "epstein", "jeffrey-epstein", "mossad", "news", "politics", "russia", "trump"]
 featured_image: "/images/uploads/2026/02/epstein.jpg"
 wordpress_id: 7045
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "far-right-networks", "hybrid-warfare", "israel-palestine", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["a-new-axis-and-the-international-far-right"]
 ---
 
 ## Introduction

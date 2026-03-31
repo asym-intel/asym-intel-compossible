@@ -8,6 +8,12 @@ categories: ["ethics", "philosophy"]
 tags: ["christianity", "criminal justice", "faith", "free will", "Freedom", "God", "philosophy"]
 featured_image: "/images/uploads/2025/12/inger-van-dyke-photo.jpg"
 wordpress_id: 6334
+monitors_referenced: []
+graph_tags: ["philosophy-ethics"]
+post_type: "series-part"
+series: "free-will-freedom"
+series_part: 2
+related_posts: ["free-will-or-freedom-part-1"]
 ---
 
 A Fragile Living Skin

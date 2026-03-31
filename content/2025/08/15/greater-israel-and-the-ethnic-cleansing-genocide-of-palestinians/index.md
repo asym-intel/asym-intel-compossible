@@ -8,6 +8,12 @@ categories: ["AI", "democracy", "ethics", "Europe", "GeoPolitics", "israel", "mi
 tags: ["AI", "artificial-intelligence", "complicity", "democracy", "ethnic cleansing", "Europe", "fascism", "gaza", "genocide", "israel", "palestine", "politics", "starvation", "unchilding"]
 featured_image: "/images/uploads/2025/08/screenshot-2025-08-15-at-11.24.44.png"
 wordpress_id: 2631
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "european-autonomy", "geopolitical-competition", "israel-palestine", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["canto-for-david", "moloch"]
 ---
 
 This collection of thematic AI news sources is provided in the hope that people will better understand the plight of Palestinians and the ethical degradation of Israel and its Western allies. There must be a better vision for the future of Israelis and Palestinians. 

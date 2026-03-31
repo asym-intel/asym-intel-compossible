@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["love", "marriage", "nature", "poem", "Poetry", "space", "trees"]
 featured_image: "/images/uploads/2025/11/thepinkpanther._the_trees_are_coming_into_leaf_like_something_a_518e9e9e-eb4c-470c-a278-50c5651b9e2e.png"
 wordpress_id: 5710
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 poem for a wedding

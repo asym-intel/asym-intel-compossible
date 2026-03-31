@@ -8,6 +8,12 @@ categories: ["democracy", "ethics", "GeoPolitics", "Project 2025", "trump"]
 tags: ["AI", "artificial-intelligence", "democracy", "donald-trump", "fascism", "Heritage Foundation", "Koch", "news", "politics", "Project 2025", "trump"]
 featured_image: "/images/uploads/2025/03/liberty-drowning.png"
 wordpress_id: 1242
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "far-right-networks", "philosophy-ethics"]
+post_type: "series-part"
+series: "project-2025-series"
+series_part: 1
+related_posts: ["a-new-axis-and-the-international-far-right"]
 ---
 
 **The Blueprint for an Authoritarian Regime**

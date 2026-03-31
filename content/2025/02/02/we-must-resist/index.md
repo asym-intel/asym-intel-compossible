@@ -8,6 +8,12 @@ categories: ["democracy", "ethics", "Poetry", "Project 2025", "trump"]
 tags: ["abuse", "fascism", "mafia", "poem", "Poetry", "resistance"]
 featured_image: "/images/uploads/2025/03/we-must-resistaiart.webp"
 wordpress_id: 286
+monitors_referenced: []
+graph_tags: ["creative-writing", "democratic-integrity", "far-right-networks", "philosophy-ethics"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 _Read by the author_

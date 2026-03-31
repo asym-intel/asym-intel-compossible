@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["dawn", "dolphins", "nature", "ocean", "poem", "Poetry", "sea"]
 featured_image: "/images/uploads/2025/11/dolphins.avif"
 wordpress_id: 5640
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Palpitating

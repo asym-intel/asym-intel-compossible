@@ -8,6 +8,12 @@ categories: ["democracy", "ethics", "philosophy", "Science"]
 tags: ["democracy", "economics", "economy", "ethics", "history", "inequality", "philosophy", "politics"]
 featured_image: "/images/uploads/2024/03/beautiful-inequality-1.webp"
 wordpress_id: 868
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "philosophy-ethics", "wealth-inequality"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 **Table of contents**

@@ -8,6 +8,12 @@ categories: ["democracy", "ethics", "Europe", "GeoPolitics", "israel", "Project 
 tags: ["Bannon", "democracy", "Europe", "fascism", "israel", "Musk", "Netanyahu", "news", "Orban", "politics", "Project 2025", "Putin", "russia", "trump", "ukraine"]
 featured_image: "/images/uploads/2025/03/musk-salute.png"
 wordpress_id: 250
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "european-autonomy", "far-right-networks", "hybrid-warfare", "israel-palestine", "philosophy-ethics", "tech-power-concentration", "ukraine-conflict"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["the-perpetual-war-machine", "europe-is-on-the-menu"]
 ---
 
 Russia, Israel, the USA and the far-right in Europe

@@ -8,6 +8,12 @@ categories: ["AI", "philosophy", "Science"]
 tags: ["AI", "artificial-intelligence", "computing", "entropy", "intelligence", "intentionality", "language", "logic", "philosophy", "technology"]
 featured_image: "/images/uploads/2025/11/screenshot-2025-11-14-at-12.34.57.png"
 wordpress_id: 5126
+monitors_referenced: []
+graph_tags: ["ai-governance", "philosophy-ethics", "systems-physics"]
+post_type: "series-part"
+series: "limits-of-language"
+series_part: 1
+related_posts: []
 ---
 
 ## 

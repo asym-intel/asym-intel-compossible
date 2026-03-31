@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["nature", "Poetry", "Stars", "sun"]
 featured_image: "/images/uploads/2026/03/thepinkpanther._buddha_tells_grieving_mother_unable_to_come_to__f3c27f01-cc3d-40fb-b218-6f4a44395282.webp"
 wordpress_id: 7279
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 * * *

@@ -8,6 +8,12 @@ categories: ["Defence", "democracy", "ethics", "Europe", "GeoPolitics", "israel"
 tags: ["1984", "cannibals", "democracy", "Europe", "European reckoning", "fascism", "mafia", "military", "nato", "politics", "Reckoning", "russia", "trump", "ukraine", "war"]
 featured_image: "/images/uploads/2025/03/onthemenu.webp"
 wordpress_id: 62
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "european-autonomy", "far-right-networks", "geopolitical-competition", "hybrid-warfare", "israel-palestine", "philosophy-ethics", "ukraine-conflict"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["a-great-wave-cometh", "the-union-of-europe-is-finally-born"]
 ---
 
 The first article in the _European Reckoning_ series.

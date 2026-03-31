@@ -8,6 +8,12 @@ categories: ["music", "Poems", "Poetry"]
 tags: ["AI", "artificial-intelligence", "music", "Poetry", "silence"]
 featured_image: "/images/uploads/2025/11/the-silence-inside.webp"
 wordpress_id: 5956
+monitors_referenced: []
+graph_tags: ["ai-governance", "creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Experimental AI album

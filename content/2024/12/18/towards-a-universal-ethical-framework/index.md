@@ -8,6 +8,12 @@ categories: ["democracy", "ethics", "philosophy", "Science"]
 tags: ["AI", "DAO", "democracy", "diversity", "ethics", "Freedom", "philosophy", "relativity", "religion", "Science", "technology"]
 featured_image: "/images/uploads/2024/12/blakean-eneregy.webp"
 wordpress_id: 845
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "philosophy-ethics"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["inequality-and-inequity", "free-will-or-freedom-part-1"]
 ---
 
 **Table of contents**

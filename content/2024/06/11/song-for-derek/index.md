@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["death", "life", "Poetry", "song", "suffering"]
 featured_image: "/images/uploads/2025/11/image-19.png"
 wordpress_id: 5693
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 > > "Teach us to care and not to care   

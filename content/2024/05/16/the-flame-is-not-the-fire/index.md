@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["fire", "flame", "love", "poem", "Poetry"]
 featured_image: "/images/uploads/2025/11/flame-is-not-the-fitre.avif"
 wordpress_id: 5634
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 _In memory of Gerard Manley Hopkins_

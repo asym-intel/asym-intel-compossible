@@ -8,6 +8,12 @@ categories: ["AI", "ethics", "philosophy", "Poetry"]
 tags: ["AI", "artificial-intelligence", "philosophy", "Poetry", "technology"]
 featured_image: "/images/uploads/2025/12/1000029194.png"
 wordpress_id: 6938
+monitors_referenced: []
+graph_tags: ["ai-governance", "creative-writing", "philosophy-ethics"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 [code]

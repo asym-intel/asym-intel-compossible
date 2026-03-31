@@ -8,6 +8,12 @@ categories: ["AI", "Defence", "democracy", "GeoPolitics", "military", "Science"]
 tags: ["AI", "artificial-intelligence", "china", "drones", "israel", "llm", "news", "Palantir", "technology", "ukraine", "USA"]
 featured_image: "/images/uploads/2025/03/drone-army.png"
 wordpress_id: 1804
+monitors_referenced: []
+graph_tags: ["ai-governance", "democratic-integrity", "geopolitical-competition", "israel-palestine", "tech-power-concentration", "ukraine-conflict"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 1. [Introduction – Geopolitical Competition](<https://compossible.asym-intel.info/2025/04/01/the-ai-arms-race-attack-of-the-drones/#introduction-geopolitical-competition>)

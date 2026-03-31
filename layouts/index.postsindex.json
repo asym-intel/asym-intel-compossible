@@ -1,0 +1,28 @@
+{
+  "generated": "{{ now.Format "2006-01-02T15:04:05Z07:00" }}",
+  "site": "{{ .Site.BaseURL }}",
+  "total": {{ len .Site.RegularPages }},
+  "posts": [
+    {{- $pages := .Site.RegularPages.ByDate.Reverse -}}
+    {{- range $i, $p := $pages -}}
+    {{- if $i }},{{ end }}
+    {
+      "title": {{ $p.Title | jsonify }},
+      "slug": {{ $p.Params.slug | default (path.Base $p.File.Dir) | jsonify }},
+      "url": {{ $p.Permalink | jsonify }},
+      "date": {{ $p.Date.Format "2006-01-02" | jsonify }},
+      "lastmod": {{ $p.Lastmod.Format "2006-01-02" | jsonify }},
+      "description": {{ $p.Params.description | default "" | jsonify }},
+      "post_type": {{ $p.Params.post_type | default "essay" | jsonify }},
+      "series": {{ $p.Params.series | default "" | jsonify }},
+      "series_part": {{ if $p.Params.series_part }}{{ $p.Params.series_part }}{{ else }}null{{ end }},
+      "categories": {{ $p.Params.categories | jsonify }},
+      "tags": {{ $p.Params.tags | jsonify }},
+      "graph_tags": {{ $p.Params.graph_tags | default slice | jsonify }},
+      "monitors_referenced": {{ $p.Params.monitors_referenced | default slice | jsonify }},
+      "related_posts": {{ $p.Params.related_posts | default slice | jsonify }},
+      "featured_image": {{ $p.Params.featured_image | default "" | jsonify }}
+    }
+    {{- end }}
+  ]
+}

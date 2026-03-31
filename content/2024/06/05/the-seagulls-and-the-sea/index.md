@@ -8,6 +8,12 @@ categories: ["Poems", "Poetry"]
 tags: ["gibraltar", "home", "immigration", "Poetry", "sea", "seagulls"]
 featured_image: "/images/uploads/2025/11/seagulls.webp"
 wordpress_id: 5647
+monitors_referenced: []
+graph_tags: ["creative-writing"]
+post_type: "poetry"
+series: ""
+series_part: null
+related_posts: []
 ---
 
 Shall I regurgitate those tired old tropes?

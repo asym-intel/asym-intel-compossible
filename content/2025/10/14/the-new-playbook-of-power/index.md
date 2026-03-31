@@ -8,6 +8,12 @@ categories: ["Defence", "democracy", "Europe", "GeoPolitics", "Project 2025"]
 tags: ["autocracy", "backsliding", "democracy UK", "democratic", "Europe", "far-right", "fascism", "hard-right", "Palantir", "politics"]
 featured_image: "/images/uploads/2025/10/cefa361c-90a6-480c-9d50-6bba96c08468.webp"
 wordpress_id: 3007
+monitors_referenced: []
+graph_tags: ["democratic-integrity", "european-autonomy", "far-right-networks", "tech-power-concentration"]
+post_type: "essay"
+series: ""
+series_part: null
+related_posts: ["a-new-axis-and-the-international-far-right"]
 ---
 
 Autocracy, Democratic Backsliding, and the Rise of Right-Wing Extremism - The Forces Reshaping Europe
