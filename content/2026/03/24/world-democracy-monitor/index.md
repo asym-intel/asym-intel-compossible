@@ -1,4 +1,17 @@
 ---
+excerpt: >-
+  For anyone who has spent the last decade being told that the trouble with
+  democracy were being exaggerated, or that the institutions will hold, this
+  should be a wake‑up call. The centre of gravity of human political experience
+  has shifted decisively towards authoritarian rule. The question is no longer
+  whether the democratic era is in trouble, but how far the unraveling has
+  progressed and how quickly.
+
+
+  V‑Dem’s data are uniquely well suited to answering the first question. Annual indices tell us where we are in great detail but more regular monitoring is also useful to stimulate immediate action.
+
+
+  That is the gap the new weekly World Democracy Monitor is intended to fill.
 draft: false
 wordpress_id: 9111
 graph_tags:
@@ -9,7 +22,7 @@ title: World Democracy Monitor
 date: 2026-03-24T17:43:55+00:00
 lastmod: 2026-04-12T21:52:00.000+01:00
 slug: world-democracy-monitor
-featured_image: /images/uploads/2026/03/democracy-is-coming-to-the-usa.webp
+featured_image: wdm.png
 series: ""
 description: A new World Democracy Monitor (updated weekly)
 categories:
@@ -129,12 +142,11 @@ This is the **transatlantic blind spot** in quantitative form. A great deal of E
 
 ![](/images/uploads/2026/03/us-autocratisation-steep-drop.png)
 
-_\
-_**Under Trump’s presidency, the level of democracy in the USA has fallen back to the same level as in 1965.  Yet the situation is fundamentally different than during the Civil Rights era. In 2025, the derailment of democracy is marked by executive overreach undermining the rule of law, along with far-reaching suppression and intimidation of media and dissenting voices. The speed with which American democracy is currently dismantled is unprecedented in modern history.** 
+**Under Trump’s presidency, the level of democracy in the USA has fallen back to the same level as in 1965.  Yet the situation is fundamentally different than during the Civil Rights era. In 2025, the derailment of democracy is marked by executive overreach undermining the rule of law, along with far-reaching suppression and intimidation of media and dissenting voices. The speed with which American democracy is currently dismantled is unprecedented in modern history.** 
 
 For those of us working on European strategic autonomy, this is not an abstract concern. When the same executive that is dismantling domestic constraints also exercises de facto control over key elements of Europe’s security, financial and technological infrastructure, a great deal of our “internal” democratic risk becomes entangled with **external dependency**.
 
-That is one reason why the **World Democracy Monitor** is designed to sit alongside, and cross‑reference, the **[European Geopolitical& Hybrid Threat Monitor](https://www.perplexity.ai/computer/a/european-geopolitical-hybrid-t-ONqW4DtqTFSe2IHZUBWnfw)**. The first tracks what states are doing to their own institutions. The second tracks what that means for Europe’s position in an increasingly unstable strategic environment.
+That is one reason why the **World Democracy Monitor** is designed to sit alongside, and cross‑reference, the **[European Strategic Autonomy Monitor](https://asym-intel.info/monitors/european-strategic-autonomy/overview.html)**. The first tracks what states are doing to their own institutions. The second tracks what that means for Europe’s position in an increasingly unstable strategic environment.
 
 - - -
 
@@ -203,6 +215,8 @@ It is designed to integrate with the **European Geopolitical & Hybrid Threat Mon
 Whether it succeeds will depend partly on whether it proves useful to others. If you work on democracy, lawfare, civil rights, hybrid threats – or if you are simply trying to understand what is happening to the system you live in – I would be interested in your views and suggestions for improvement.
 
 <https://asym-intel.info/monitors/democratic-integrity/overview.html>
+
+For a full list of Monitors see: <https://asym-intel.info/monitors/>
 
 \
 The V‑Dem 2026 Democracy Report is here: <https://www.v-dem.net/publications/democracy-reports/>
