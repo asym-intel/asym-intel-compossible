@@ -22,7 +22,7 @@ title: World Democracy Monitor
 date: 2026-03-24T17:43:55+00:00
 lastmod: 2026-04-12T21:52:00.000+01:00
 slug: world-democracy-monitor
-featured_image: wdm.png
+featured_image: wdm.webp
 series: ""
 description: A new World Democracy Monitor (updated weekly)
 categories:
@@ -64,7 +64,7 @@ V‑Dem’s data are uniquely well suited to answering the first question. Annua
 
 That is the gap the new weekly **[World Democracy Monitor](https://asym-intel.info/monitors/democratic-integrity/overview.html)** is intended to fill.
 
-![](/images/uploads/2026/03/screenshot-2026-03-24-at-18.35.38.png)
+![]()
 
 - - -
 
@@ -113,7 +113,7 @@ Compared to 2000, almost all aspects of democracy are now more likely to be *dec
 * The **Clean Elections Index** , which captures the integrity of electoral processes, has flipped from improving in 43 countries to deteriorating in 22.
 * Among autocratizing states, the most common tactic remains **media censorship** , used in more than 70% of cases, closely followed by repression of civil society and attacks on academic freedom.
 
-![](/images/uploads/2026/03/top-20-declining-indicators.png)
+![]()
 
 The picture that emerges is the one that many journalists, activists and lawyers have been describing for years. Elections often still happen. But the **level playing field that makes an election meaningful is being dismantled in slow motion** :
 
